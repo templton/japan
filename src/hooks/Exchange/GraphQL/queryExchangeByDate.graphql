@@ -1,6 +1,0 @@
-query exchangeByDate($date: Date!){
-    exchange(date: $date) {
-        date
-        rate
-    }
-}

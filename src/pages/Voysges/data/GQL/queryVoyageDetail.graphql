@@ -1,8 +1,0 @@
-{
-    voyages {
-        data {
-            id
-            created_at
-        }
-    }
-}
