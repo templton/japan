@@ -1,0 +1,515 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwE6BhYZSVtKSUdbQ1oQExZNWjxPU3IsYjAyJiozLEJHTUtAc3Nhfmhiem0rNC4QEw9JR1pKKnRTAAAAAH7rDKk$",
+                    "name": "ALLANTE"
+                },
+                {
+                    "code": "$*KwGfo7O87P7v7OL-5v-1trPo_5nq9teJx5WXg4-Wiefi6O7l1tbE283H38iOkYu1rrWNhJ3rnIWJ1KkAAAAA5gDpFg$",
+                    "name": "ATS (6A1)"
+                },
+                {
+                    "code": "$*KwHc4PD_r72sr6G9pbz29fCrvNqptZTKhNbUwMzVyqShq62mlZWHmI6EnIvN0sj27fbOx96o3cbKl-oAAAAAyguKvQ$",
+                    "name": "ATS (6A3)"
+                },
+                {
+                    "code": "$*KwEYJDQ7a3loa2V5YXgyMTRveB5tcVAOQBIQBAgRDmBlb2liUVFDXEpAWE8JFgwyKTIKAxpsHgIOUy4AAAAAGJSy5g$",
+                    "name": "ATS (6A4)"
+                },
+                {
+                    "code": "$*KwErFwcIWEpbWFZKUksBAgdcSy1eQmM9cyEjNzsiPVNWXFpRYmJwb3lza3w6JT8CAgE7ZUIAAAAAiRsgwA$",
+                    "name": "BLS"
+                },
+                {
+                    "code": "$*KwEAPCwjc2Fwc31heWAqKSx3YAZ1aUgWWAoIHBAJFnh9d3F6SUlbRFJYQFcRDhQpNzZndHx0fxFJawAAAACkAorC$",
+                    "name": "BROUGHAM"
+                },
+                {
+                    "code": "$*KwF0SFhXBxUEBwkVDRReXVgDFHIBHTxiLH58aGR9YgwJAwUOPT0vMCYsNCNlemBcUEEHDhNjOxoAAAAAbbD15g$",
+                    "name": "CALAIS"
+                },
+                {
+                    "code": "$*KwFwTFxTAxEAAw0RCRBaWVwHEHYFGThmKHp4bGB5ZggNBwEKOTkrNCIoMCdhfmRYVF0HEQVnPx4AAAAAteWngQ$",
+                    "name": "CATERA"
+                },
+                {
+                    "code": "$*KwG9gZGeztzNzsDcxN2XlJHK3bvI1PWr5be1oa20q8XAyszH9PTm-e_l_eqss6mVkIHCx8rJw92ppvaekdzL2qiirt7ChJ2Xr6OpytrCy9j0pZkAAAAA9-f8ZQ$",
+                    "name": "CHEMICALS - FUSES - WIRES - BULBS"
+                },
+                {
+                    "code": "$*KwH0yNjXh5WEh4mVjZTe3diDlPKBnbzirP786OT94oyJg4WOvb2vsKastKPl-uDc2MCHlZKOiOW9nwAAAABHSObt$",
+                    "name": "CIMARRON"
+                },
+                {
+                    "code": "$*KwG8gJCfz93Mz8HdxdyWlZDL3LrJ1fSq5La0oKy1qsTBy83G9fXn-O7k_OutsqiUlojDytrKx87EqpSRhN3cwdqup767lvDn89IAAAAACt2WqQ$",
+                    "name": "COMMERCIAL CHASSIS (61A)"
+                },
+                {
+                    "code": "$*KwG9gZGeztzNzsDcxN2XlJHK3bvI1PWr5be1oa20q8XAyszH9PTm-e_l_eqss6mVl4nCy9vLxs_Fq5WQhdzdwNuvpr-5gfHm8tMAAAAAaoyWwA$",
+                    "name": "COMMERCIAL CHASSIS (62W)"
+                },
+                {
+                    "code": "$*KwGOsqKt_e_-_fPv9-6kp6L57oj758aY1oSGkp6HmPbz-f_0x8fVytzWztmfgJqmv8GewOcAAAAAP7VtYw$",
+                    "name": "CT6"
+                },
+                {
+                    "code": "$*KwEmGgoFVUdWVVtHX0YMDwpRRiBTT24wfiwuOjYvMF5bUVdcb299YnR-ZnE3KDIOFww0PSQkUDwwbRAAAAAAIjGjHg$",
+                    "name": "CTS (67D)"
+                },
+                {
+                    "code": "$*KwH4xNTbi5mIi4WZgZjS0dSPmP6NkbDuoPLw5Ojx7oCFj4mCsbGjvKqguK_p9uzQydLq4_qM-OLus84AAAAACYcX0Q$",
+                    "name": "CTS (6A2)"
+                },
+                {
+                    "code": "$*KwFfY3N8LD4vLCI-Jj91dnMoP1kqNhdJB1VXQ09WSSciKC4lFhYEGw0HHwhOUUt3bnVNRF0rWEVJFGkAAAAAnR3rmQ$",
+                    "name": "CTS (6A5)"
+                },
+                {
+                    "code": "$*KwF6RlZZCRsKCQcbAxpQU1YNGnwPEzJsInByZmpzbAIHDQsAMzMhPigiOi1rdG5SS1BoYXgLeWBsMUwAAAAAsWVDvw$",
+                    "name": "CTS (6D1)"
+                },
+                {
+                    "code": "$*KwFHe2tkNCY3NDomPidtbmswJ0EyLg9RH01PW1dOUT86MDY9Dg4cAxUfBxBWSVNvdm1VXEU2R11RDHEAAAAAc6RhYA$",
+                    "name": "CTS (6D2)"
+                },
+                {
+                    "code": "$*KwF2SlpVBRcGBQsXDxZcX1oBFnADHz5gLnx-amZ_YA4LAQcMPz8tMiQuNiFneGJeR1xkbXQHd2xgPUAAAAAAzY9zcg$",
+                    "name": "CTS (6D3)"
+                },
+                {
+                    "code": "$*KwG5hZWaytjJysTYwNmTkJXO2b_M0PGv4bOxpamwr8HEzsjD8PDi_evh-e6ot62RiJOros7IuKOv8o8AAAAAYAUM-A$",
+                    "name": "CTS (CD3)"
+                },
+                {
+                    "code": "$*KwFAfGxjMyEwMz0hOSBqaWw3IEY1KQhWGEpIXFBJVjg9NzE6CQkbBBIYABdRTlRocWpSWzcxRlpWC3YAAAAAN_tsrA$",
+                    "name": "CTS (CD4)"
+                },
+                {
+                    "code": "$*KwHZ5fX6qripqqS4oLnz8PWuud-ssJHPgdPRxcnQz6GkrqijkJCCnYuBmY7I1832-faipqGpy8Lb3vOVgpa3AAAAACZrBWE$",
+                    "name": "DEVILLE (61A)"
+                },
+                {
+                    "code": "$*KwHP8-PsvK6_vLKutq_l5uO4r8m6pofZl8XH09_G2beyuL61hoaUi52Xj5jewdvg7-C0sLe_3dTNy-eDlIChAAAAAGqXTRk$",
+                    "name": "DEVILLE (62C)"
+                },
+                {
+                    "code": "$*KwEjHw8AUEJTUF5CWkMJCg9UQyVWSms1eykrPzMqNVteVFJZamp4Z3F7Y3QyLTcMAwxYXFtTMTghJwxveGxNAAAAAIGj61g$",
+                    "name": "DEVILLE (62D)"
+                },
+                {
+                    "code": "$*KwFlWUlGFgQVFhgEHAVPTEkSBWMQDC1zPW9teXVscx0YEhQfLCw-ITc9JTJ0a3FKRUoeGh0Vd35nYVkpPioLAAAAAF8c090$",
+                    "name": "DEVILLE (62W)"
+                },
+                {
+                    "code": "$*KwFJdWVqOig5OjQoMCljYGU-KU88IAFfEUNBVVlAXzE0PjgzAAASDRsRCR5YR11maWYyNjE5W1JLSm0FEgYnAAAAAKio6gs$",
+                    "name": "DEVILLE (65O)"
+                },
+                {
+                    "code": "$*KwFsUEBPHw0cHxENFQxGRUAbDGoZBSR6NGZkcHxlehQRGx0WJSU3KD40LDt9YnhDTEMXExQcfndubEggNyMCAAAAABhovm0$",
+                    "name": "DEVILLE (66O)"
+                },
+                {
+                    "code": "$*KwEkGAgHV0VUV1lFXUQODQhTRCJRTWwyfC4sODQtMlxZU1VebW1_YHZ8ZHM1KjALFQ40ak0AAAAAz3gCtQ$",
+                    "name": "DTS"
+                },
+                {
+                    "code": "$*KwFXa3t0JDYnJCo2Ljd9fnsgN1EiPh9BD11fS0deQS8qICYtHh4MEwUPFwBGWUN5fmoqNiImKkRLVw1zB0cZPgAAAAA3REpl$",
+                    "name": "ELDORADO (61A)"
+                },
+                {
+                    "code": "$*KwFDf29gMCIzMD4iOiNpam80I0U2KgtVG0lLX1NKVTs-NDI5CgoYBxEbAxRSTVdtan4-IjYyPlBfQxppE1MNKgAAAAD3PdBr$",
+                    "name": "ELDORADO (62O)"
+                },
+                {
+                    "code": "$*KwFMcGBvPy08PzEtNSxmZWA7LEo5JQRaFEZEUFxFWjQxOz02BQUXCB4UDBtdQlhiZXExLTk9MV9QTBV-HFwCJQAAAAB-UDBI$",
+                    "name": "ELDORADO (62W)"
+                },
+                {
+                    "code": "$*KwHg3MzDk4GQk52BmYDKycyXgOaViaj2uOro_PDp9pidl5Gaqam7pLK4oLfx7vTOyd2dgZWRnfP84L7KsPCuiQAAAABxcLw_$",
+                    "name": "ELDORADO (65O)"
+                },
+                {
+                    "code": "$*KwHW6vr1pbempau3r7b8__qhttCjv57AjtzeysbfwK6roaesn5-NkoSOloHH2ML4_-urt6Onq8XK1ov8hsaYvwAAAAC3pBvT$",
+                    "name": "ELDORADO (66O)"
+                },
+                {
+                    "code": "$*KwFCfm5hMSMyMT8jOyJoa241IkQ3KwpUGkhKXlJLVDo_NTM4CwsZBhAaAhVTTFZsa2lSDCsAAAAABcigPA$",
+                    "name": "ELR"
+                },
+                {
+                    "code": "$*KwEDPy8gcGJzcH5iemMpKi90YwV2aksVWwkLHxMKFXt-dHJ5SkpYR1FbQ1QSDRctNTlwfHZydBAfAFwlUxNNagAAAABD1Eaw$",
+                    "name": "ESCALADE (54C)"
+                },
+                {
+                    "code": "$*KwHP8-PsvK6_vLKutq_l5uO4r8m6pofZl8XH09_G2beyuL61hoaUi52Xj5jewdvh-fW8sLq-uNzTzJLpn9-BpgAAAAAts-Iz$",
+                    "name": "ESCALADE (56C)"
+                },
+                {
+                    "code": "$*KwGPs6Os_O7__PLu9u-lpqP474n65seZ14WHk5-Gmffy-P71xsbUy93Xz9iegZuhubX88Pr--JyTjNOp35_B5gAAAAAR04pR$",
+                    "name": "ESCALADE (57C)"
+                },
+                {
+                    "code": "$*KwFlWUlGFgQVFhgEHAVPTEkSBWMQDC1zPW9teXVscx0YEhQfLCw-ITc9JTJ0a3FLU18WGhAUEnZ5Zk0xNXUrDAAAAADHNkqi$",
+                    "name": "ESCALADE (5C1)"
+                },
+                {
+                    "code": "$*KwEFOSkmdmR1dnhkfGUvLClyZQNwbE0TXQ8NGRUME314cnR_TExeQVddRVIUCxErMz92enB0chYZcF9RVRVLbAAAAABvfmZ9$",
+                    "name": "ESCALADE (C11)"
+                },
+                {
+                    "code": "$*KwGvk4OM3M7f3NLO1s-FhoPYz6naxue596Wns7-mudfS2N7V5ub06_337_i-obuBmZXc0Nre2LzeypLq_qiq2LO_4cYAAAAAMsMcdQ$",
+                    "name": "ESCALADE ESV (56C)"
+                },
+                {
+                    "code": "$*KwEJNSUqemh5enRocGkjICV-aQ98YEEfUQMBFRkAH3F0fnhzQEBSTVtRSV4YBx0nPzN6dnx4fhp4bDRMWA4NfhUZR2AAAAAAoxkb7g$",
+                    "name": "ESCALADE ESV (57C)"
+                },
+                {
+                    "code": "$*KwGJtaWq-uj5-vTo8OmjoKX-6Y_84MGf0YOBlZmAn_H0_vjzwMDSzdvRyd6Yh52nv7P69vz4_pr47LTM2I75jJWZx-AAAAAAj5jjWg$",
+                    "name": "ESCALADE ESV (5C1)"
+                },
+                {
+                    "code": "$*KwEkGAgHV0VUV1lFXUQODQhTRCJRTWwyfC4sODQtMlxZU1VebW1_YHZ8ZHM1KjAKEh5XW1FVUzdVShthdSMhUzg0ak0AAAAAai5m_A$",
+                    "name": "ESCALADE EXT (56C)"
+                },
+                {
+                    "code": "$*KwG7h5eYyNrLyMbawtuRkpfM273O0vOt47Gzp6uyrcPGzMrB8vLg_-nj--yqta-VjYHIxM7KzKjK1YT-6ry_zKer9dIAAAAAeFx6bg$",
+                    "name": "ESCALADE EXT (57C)"
+                },
+                {
+                    "code": "$*KwHE-Ojnt6W0t7mlvaTu7eizpMKxrYzSnM7M2NTN0ry5s7W-jY2fgJachJPVytDq8v63u7G1s9e4q-3z9LLVjawAAAAAbII4rw$",
+                    "name": "ESCALADE HYBRID"
+                },
+                {
+                    "code": "$*KwGTr7-w4PLj4O7y6vO5ur_k85Xm-tuFy5mbj4Oahevu5OLp2trI18HL08SCnYe-uq_k9PDp7uSHjc7EqYiC2vsAAAAALDw6lA$",
+                    "name": "FLEETWOOD (62C)"
+                },
+                {
+                    "code": "$*KwFXa3t0JDYnJCo2Ljd9fnsgN1EiPh9BD11fS0deQS8qICYtHh4MEwUPFwBGWUN6fmsgMDQtKiBDSQoAakxGHj8AAAAA4eupTw$",
+                    "name": "FLEETWOOD (62D)"
+                },
+                {
+                    "code": "$*KwEdITE-bnxtbmB8ZH03NDFqfRtodFULRRcVAQ0UC2VgamxnVFRGWU9FXUoMEwkwNCFqen5nYGoJA0BKMwYMVHUAAAAAIxiQgw$",
+                    "name": "FLEETWOOD (62W)"
+                },
+                {
+                    "code": "$*KwGfo7O87P7v7OL-5v-1trPo_5nq9teJx5WXg4-Wiefi6O7l1tbE283H38iOkYuytqPo-Pzl4uiL66a1s-rk6ueNhJ2YtdPE0PEAAAAAwzy5OQ$",
+                    "name": "FLEETWOOD BROUGHAM (61A)"
+                },
+                {
+                    "code": "$*KwENMSEufmx9fnBsdG0nJCF6bQt4ZEUbVQcFER0EG3Vwenx3RERWSV9VTVocAxkgJDF6am53cHoZeTQnIXh2eHUfFg8JJUFWQmMAAAAA0l3Qaw$",
+                    "name": "FLEETWOOD BROUGHAM (62C)"
+                },
+                {
+                    "code": "$*KwG8gJCfz93Mz8HdxdyWlZDL3LrJ1fSq5La0oKy1qsTBy83G9fXn-O7k_OutsqiRlYDL29_GwcuoyIWWkMnHycSup764k_Dn89IAAAAAYTRvKQ$",
+                    "name": "FLEETWOOD BROUGHAM (62D)"
+                },
+                {
+                    "code": "$*KwGgnIyD08HQ093B2cCKiYzXwKbVyei2-KqovLCpttjd19Ha6en75PL44PexrrSNiZzXx8Pa3de01JmKjNXb1diyu6KknOz7784AAAAAvplIlw$",
+                    "name": "FLEETWOOD BROUGHAM (62W)"
+                },
+                {
+                    "code": "$*KwF6RlZZCRsKCQcbAxpQU1YNGnwPEzJsInByZmpzbAIHDQsAMzMhPigiOi1rdG5XU0YNHRkABw1uDkNQVg8BDwJoYXh5VTYhNRQAAAAAFhZpSg$",
+                    "name": "FLEETWOOD BROUGHAM (65D)"
+                },
+                {
+                    "code": "$*KwH0yNjXh5WEh4mVjZTe3diDlPKBnbzirP786OT94oyJg4WOvb2vsKastKPl-uDZ3ciDk5eOiYPggdDE3YPlvZwAAAAAAgPSHA$",
+                    "name": "FLEETWOOD COUPE"
+                },
+                {
+                    "code": "$*KwHf4_P8rL6vrKK-pr_19vOov9mqtpfJh9XXw8_WyaeiqK6llpaEm42Hn4jO0cvy9uOouLyloqjLpf336bi_oqSozMPfhfuPz5G2AAAAACgBamc$",
+                    "name": "FLEETWOOD LIMOUSINE (61A)"
+                },
+                {
+                    "code": "$*KwGplYWK2sjZ2tTI0MmDgIXeya_cwOG_8aOhtbmgv9HU3tjT4ODy7fvx6f64p72EgJXezsrT1N6904uBn87J1NLeurWp8I_5uefAAAAAAClVuZY$",
+                    "name": "FLEETWOOD LIMOUSINE (62C)"
+                },
+                {
+                    "code": "$*KwEbJzc4aHpraGZ6YnsxMjdsex1uclMNQxETBwsSDWNmbGphUlJAX0lDW0wKFQ82MidsfHhhZmwPfjU6I2cKUnMAAAAA6f8-1Q$",
+                    "name": "FLEETWOOD SEDAN"
+                },
+                {
+                    "code": "$*KwHP8-PsvK6_vLKutq_l5uO4r8m6pofZl8XH09_G2beyuL61hoaUi52Xj5jewdvi__i4rrq23b-0uOfilIChAAAAAE7x8qc$",
+                    "name": "FUNERAL COACH"
+                },
+                {
+                    "code": "$*KwE8ABAfT11MT0FdRVwWFRBLXDpJVXQqZDY0ICw1KkRBS01GdXVneG5kfGstMigfHARcXE0pJjk9RX57OFMAAAAASovzpg$",
+                    "name": "HEARSE (65O)"
+                },
+                {
+                    "code": "$*KwFnW0tEFAYXFBoGHgdNTksQB2ESDi9xP21ve3ducR8aEBYdLi48IzU_JzB2aXNER18HBxZyfWJlHiUgYwgAAAAAzpxniA$",
+                    "name": "HEARSE (66O)"
+                },
+                {
+                    "code": "$*KwFVaXl2JjQlJig0LDV_fHkiNVMgPB1DDV9dSUVcQy0oIiQvHBwOEQcNFQJEW0FyeWEoMzIpKSNBSwgFY05EHD0AAAAAfTNiow$",
+                    "name": "LIMOUSINE (65O)"
+                },
+                {
+                    "code": "$*KwEDPy8gcGJzcH5iemMpKi90YwV2aksVWwkLHxMKFXt-dHJ5SkpYR1FbQ1QSDRckLzd-ZWR_f3UXHV5QNRgSSmsAAAAA5jFa2Q$",
+                    "name": "LIMOUSINE (66O)"
+                },
+                {
+                    "code": "$*KwECPi4hcWNycX9je2IoKy51YgR3a0oUWggKHhILFHp_dXN4S0tZRlBaQlUTDBY6Ii15fXpyEBkABShOWU1sAAAAAJFvfpg$",
+                    "name": "SEVILLE (61A)"
+                },
+                {
+                    "code": "$*KwFJdWVqOig5OjQoMCljYGU-KU88IAFfEUNBVVlAXzE0PjgzAAASDRsRCR5YR11xaWYyNjE5W1JLTW0FEgYnAAAAAK5zHFg$",
+                    "name": "SEVILLE (62O)"
+                },
+                {
+                    "code": "$*KwFmWkpFFQcWFRsHHwZMT0oRBmATDy5wPmxuenZvcB4bERccLy89IjQ-JjF3aHJeRkkdGR4WdH1kYloqPSkIAAAAAPrzMZc$",
+                    "name": "SEVILLE (62W)"
+                },
+                {
+                    "code": "$*KwFlWUlGFgQVFhgEHAVPTEkSBWMQDC1zPW9teXVscx0YEhQfLCw-ITc9JTJ0a3FdRUoeGh0Vd35nZkEpPioLAAAAAAlX-c0$",
+                    "name": "SEVILLE (65O)"
+                },
+                {
+                    "code": "$*KwEZJTU6anhpamR4YHkzMDVueR9scFEPQRMRBQkQD2FkbmhjUFBCXUtBWU4IFw0hOTZiZmFpCwIbGT1VQlZ3AAAAAHy14i8$",
+                    "name": "SEVILLE (66O)"
+                },
+                {
+                    "code": "$*KwGwjJyTw9HAw83RydCamZzH0LbF2fim6Lq4rKC5psjNx8HK-fnr9OLo8OehvqSImZqg_tkAAAAAJbfL1A$",
+                    "name": "SLS"
+                },
+                {
+                    "code": "$*KwGhnY2C0sDR0tzA2MGLiI3WwafUyOm3-aupvbGot9nc1tDb6Oj65fP54fawr7WZloCzuqPRoru36pcAAAAAf9Boow$",
+                    "name": "SRX (6E1)"
+                },
+                {
+                    "code": "$*KwERLT0yYnBhYmxwaHE7OD1mcRdkeFkHSRsZDQEYB2lsZmBrWFhKVUNJUUYAHwUpJjADChNqEgsHWicAAAAAToXFtA$",
+                    "name": "SRX (6N1)"
+                },
+                {
+                    "code": "$*KwFmWkpFFQcWFRsHHwZMT0oRBmATDy5wPmxuenZvcB4bERccLy89IjQ-JjF3aHJeUUd0fREWZnxwLVAAAAAAkcnQzw$",
+                    "name": "SRX (CE2)"
+                },
+                {
+                    "code": "$*KwHl2cnGloSVlpiEnIXPzMmSheOQjK3zve_t-fXs852YkpSfrKy-obe9pbL06_Hd0sT3_pKe5v_zrtMAAAAAiMNQxw$",
+                    "name": "SRX (CN1)"
+                },
+                {
+                    "code": "$*KwFMcGBvPy08PzEtNSxmZWA7LEo5JQRaFEZEUFxFWjQxOz02BQUXCB4UDBtdQlh0fWZcAiUAAAAAgDrkDw$",
+                    "name": "STS"
+                },
+                {
+                    "code": "$*KwF5RVVaChgJCgQYABlTUFUOGX8MEDFvIXNxZWlwbwEEDggDMDAiPSshOS5od21KUFJrYnsVemNvMk8AAAAA_waMww$",
+                    "name": "XLR (6Y1)"
+                },
+                {
+                    "code": "$*KwFNcWFuPiw9PjAsNC1nZGE6LUs4JAVbFUdFUV1EWzUwOjw3BAQWCR8VDRpcQ1l-ZGZfVjohTldbBnsAAAAAW-YjYA$",
+                    "name": "XLR (CY1)"
+                },
+                {
+                    "code": "$*KwFNcWFuPiw9PjAsNC1nZGE6LUs4JAVbFUdFUV1EWzUwOjw3BAQWCR8VDRpcQ1l-fABdAyQAAAAANPfYzg$",
+                    "name": "XT4"
+                },
+                {
+                    "code": "$*KwHL9-fouKq7uLaqsqvh4ue8q82-ooPdk8HD19vC3bO2vLqxgoKQj5mTi5zaxd_4-ofZ0Mmwy9HdgP0AAAAANl3PDg$",
+                    "name": "XT5 (6N2)"
+                },
+                {
+                    "code": "$*KwHA_Ozjs6Gws72huaDq6ey3oMa1qYjWmMrI3NDJ1ri9t7G6iYmbhJKYgJfRztTz8YzS26a7w9rWi_YAAAAAfWG5ZQ$",
+                    "name": "XT5 (RN1)"
+                },
+                {
+                    "code": "$*KwF3S1tUBBYHBAoWDhddXlsAF3ECHj9hL31_a2d-YQ8KAAYNPj4sMyUvNyBmeWNERl1nOR4AAAAA7ydgiw$",
+                    "name": "XTS"
+                }
+            ]
+        },
+        {
+            "name": "Год выпуска",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwHb5_f4qLqrqKa6orvx8vesu92uspPNg9HTx8vSzbesqb3PnJzUiISai8vSzazc0oCUtQAAAADCHzV7$",
+                    "name": "All"
+                },
+                {
+                    "code": "$*KwH9wdHejpyNjoCchJ3X1NGKnfuIlLXrpff14e3065GKj5vpurryrqK8re306_mmqb3ts5QAAAAA9blSxQ$",
+                    "name": "2019"
+                },
+                {
+                    "code": "$*KwFIdGRrOyk4OzUpMShiYWQ_KE49IQBeEEJAVFhBXiQ_Oi5cDw9HGxcJGFhBXkwTHAlYBiEAAAAAjutSUA$",
+                    "name": "2018"
+                },
+                {
+                    "code": "$*KwHU6Pj3p7Wkp6m1rbT-_fijtNKhvZzCjN7cyMTdwrijprLAk5Pbh4uVhMTdwtCPgJrEmr0AAAAAAz50RQ$",
+                    "name": "2017"
+                },
+                {
+                    "code": "$*KwHF-enmtqS1trikvKXv7OmypcOwrI3Tnc_N2dXM06myt6PRgoLKlpqEldXM08GekYrVi6wAAAAAIQ0yHA$",
+                    "name": "2016"
+                },
+                {
+                    "code": "$*KwHl2cnGloSVlpiEnIXPzMmSheOQjK3zve_t-fXs84mSl4PxoqLqtrqktfXs8-G-san1q4wAAAAALCHeuw$",
+                    "name": "2015"
+                },
+                {
+                    "code": "$*KwGJtaWq-uj5-vTo8OmjoKX-6Y_84MGf0YOBlZmAn-X----dzs6G2tbI2ZmAn43S3cSZx-AAAAAA_ZFl5g$",
+                    "name": "2014"
+                },
+                {
+                    "code": "$*KwHj38_AkIKTkJ6CmoPJys-Ug-WWiqv1u-nr__Pq9Y-UkYX3pKTssLyis_Pq9ee4t6nzrYoAAAAAwCGOtg$",
+                    "name": "2013"
+                },
+                {
+                    "code": "$*KwF6RlZZCRsKCQcbAxpQU1YNGnwPEzJsInByZmpzbBYNCBxuPT11KSU7KmpzbH4hLjFqNBMAAAAA7U3UiQ$",
+                    "name": "2012"
+                },
+                {
+                    "code": "$*KwGNsaGu_uz9_vDs9O2npKH67Yv45MWb1YeFkZ2Em-H6_-uZysqC3tLM3Z2Em4nW2cWdw-QAAAAA8tKddQ$",
+                    "name": "2011"
+                },
+                {
+                    "code": "$*KwEkGAgHV0VUV1lFXUQODQhTRCJRTWwyfC4sODQtMkhTVkIwY2Mrd3tldDQtMiB_cG00ak0AAAAAIlOmhw$",
+                    "name": "2010"
+                },
+                {
+                    "code": "$*KwEwDBwTQ1FAQ01RSVAaGRxHUDZFWXgmaDo4LCA5JlxHQlYkd3c_Y29xYCA5JjRrZXAgflkAAAAAuNLqmA$",
+                    "name": "2009"
+                },
+                {
+                    "code": "$*KwHS7v7xobOioa-zq7L4-_6lstSnu5rEitjazsLbxL6loLTGlZXdgY2TgsLbxNaJh5PCnLsAAAAAr1ZCcg$",
+                    "name": "2008"
+                },
+                {
+                    "code": "$*KwEmGgoFVUdWVVtHX0YMDwpRRiBTT24wfiwuOjYvMEpRVEAyYWEpdXlndjYvMCJ9c2g2aE8AAAAAcxKw_g$",
+                    "name": "2007"
+                },
+                {
+                    "code": "$*KwE3CxsURFZHREpWTlcdHhtAVzFCXn8hbz0_Kyc-IVtARVEjcHA4ZGh2Zyc-ITNsYngneV4AAAAAUSH2pw$",
+                    "name": "2006"
+                },
+                {
+                    "code": "$*KwEeIjI9bX9ubWN_Z340NzJpfhhrd1YIRhQWAg4XCHJpbHgKWVkRTUFfTg4XCBpFS1IOUHcAAAAAVcwI-g$",
+                    "name": "2005"
+                },
+                {
+                    "code": "$*KwGHu6uk9Ob39Prm_uetrqvw54Hy7s-R342Pm5eOkevw9eGTwMCI1NjG15eOkYPc0sqXye4AAAAAeKBSxQ$",
+                    "name": "2004"
+                },
+                {
+                    "code": "$*KwFzT19QABIDAA4SChNZWl8EE3UGGjtlK3l7b2N6ZR8EARVnNDR8ICwyI2N6ZXcoJjljPRoAAAAAYVCIpg$",
+                    "name": "2003"
+                },
+                {
+                    "code": "$*KwHzz9_QgJKDgI6SipPZ2t-Ek_WGmrvlq_n77-P65Z-EgZXntLT8oKyyo-P65feoprjjvZoAAAAAp4ni5w$",
+                    "name": "2002"
+                },
+                {
+                    "code": "$*KwHm2srFlYeWlZuHn4bMz8qRhuCTj67wvuzu-vbv8IqRlIDyoaHptbmntvbv8OK9s672qI8AAAAAFy5klA$",
+                    "name": "2001"
+                },
+                {
+                    "code": "$*KwHj38_AkIKTkJ6CmoPJys-Ug-WWiqv1u-nr__Pq9Y-UkYX3pKTssLyis_Pq9ee4tqrzrYoAAAAA7_QI6A$",
+                    "name": "2000"
+                },
+                {
+                    "code": "$*KwFoVERLGwkYGxUJEQhCQUQfCG4dASB-MGJgdHhhfgQfGg58Ly9nOzcpOHhhfm86NCh4JgEAAAAAD1l26A$",
+                    "name": "1999"
+                },
+                {
+                    "code": "$*KwFqVkZJGQsaGRcLEwpAQ0YdCmwfAyJ8MmBidnpjfAYdGAx-LS1lOTUrOnpjfG04Nit6JAMAAAAARhMW_Q$",
+                    "name": "1998"
+                },
+                {
+                    "code": "$*KwHf4_P8rL6vrKK-pr_19vOov9mqtpfJh9XXw8_WybOorbnLmJjQjICej8_WydiNg5HPkbYAAAAA3Z5hWw$",
+                    "name": "1997"
+                },
+                {
+                    "code": "$*KwG7h5eYyNrLyMbawtuRkpfM273O0vOt47Gzp6uyrdfMyd2v_Py06OT666uyrbzp5_Sr9dIAAAAAfRTLRA$",
+                    "name": "1996"
+                },
+                {
+                    "code": "$*KwEOMiItfW9-fXNvd24kJyJ5bgh7Z0YYVgQGEh4HGGJ5fGgaSUkBXVFPXh4HGAlcUkIeQGcAAAAArE8DWg$",
+                    "name": "1995"
+                },
+                {
+                    "code": "$*KwGtkYGO3szd3tDM1M2HhIHazavYxOW79aelsb2ku8Ha38u56uqi_vLs_b2ku6r_8eC948QAAAAA_AIumg$",
+                    "name": "1994"
+                },
+                {
+                    "code": "$*KwH_w9PcjJ6PjIKehp_V1tOIn_mKlrfpp_X34-_26ZOIjZnruLjwrKC-r-_26fito7XvsZYAAAAATWW1RQ$",
+                    "name": "1993"
+                },
+                {
+                    "code": "$*KwGbp7e46Prr6Ob64vuxsrfs-53u8tONw5GTh4uSjffs6f2P3NyUyMTay4uSjZzJx9CL1fIAAAAA7e8fWg$",
+                    "name": "1992"
+                },
+                {
+                    "code": "$*KwGplYWK2sjZ2tTI0MmDgIXeya_cwOG_8aOhtbmgv8Xe28-97u6m-vbo-bmgv6779eG558AAAAAA80HWCQ$",
+                    "name": "1991"
+                },
+                {
+                    "code": "$*KwEWKjo1ZXdmZWt3b3Y8PzphdhBjf14AThweCgYfAHphZHACUVEZRUlXRgYfABFESl8GWH8AAAAACN_Arg$",
+                    "name": "1990"
+                },
+                {
+                    "code": "$*KwGhnY2C0sDR0tzA2MGLiI3WwafUyOm3-aupvbGot83W08e15uau8v7g8bGot6bz_OGx78gAAAAAeq_GFA$",
+                    "name": "1989"
+                },
+                {
+                    "code": "$*KwFCfm5hMSMyMT8jOyJoa241IkQ3KwpUGkhKXlJLVC41MCRWBQVNER0DElJLVEUQHwNSDCsAAAAAFdBtRg$",
+                    "name": "1988"
+                },
+                {
+                    "code": "$*KwEbJzc4aHpraGZ6YnsxMjdsex1uclMNQxETBwsSDXdsaX0PXFwUSERaSwsSDRxJRlULVXIAAAAAmTTL_A$",
+                    "name": "1987"
+                },
+                {
+                    "code": "$*KwHh3c3CkoCRkpyAmIHLyM2WgeeUiKn3uevp_fHo942Wk4f1pqbusr6gsfHo9-azvK7xr4gAAAAAHf5Q0A$",
+                    "name": "1986"
+                },
+                {
+                    "code": "$*KwGItKSr--n4-_Xp8eiioaT_6I794cCe0IKAlJiBnuT_-u6cz8-H29fJ2JiBno_a1cSYxuEAAAAAJiEoHw$",
+                    "name": "1985"
+                },
+                {
+                    "code": "$*KwFQbHxzIzEgIy0xKTB6eXwnMFYlORhGCFpYTEBZRjwnIjZEFxdfAw8RAEBZRlcCDR1AHjkAAAAATIT3Cg$",
+                    "name": "1984"
+                },
+                {
+                    "code": "$*KwGKtqap-ev6-ffr8-qgo6b96oz_48Kc0oCClpqDnOb9-Oyezc2F2dXL2pqDnI3Y18CaxOMAAAAA8rxwsw$",
+                    "name": "1983"
+                },
+                {
+                    "code": "$*KwEBPS0icmBxcnxgeGErKC12YQd0aEkXWQsJHREIF212c2cVRkYOUl5AUREIFwZTXEoRT2gAAAAAzFIPeA$",
+                    "name": "1982"
+                },
+                {
+                    "code": "$*KwEjHw8AUEJTUF5CWkMJCg9UQyVWSms1eykrPzMqNU9UUUU3ZGQscHxiczMqNSRxfmszbUoAAAAAMIjkrw$",
+                    "name": "1981"
+                },
+                {
+                    "code": "$*KwE9AREeTlxNTkBcRF0XFBFKXTtIVHUrZTc1IS00K1FKT1spenoybmJ8bS00KzpvYHQtc1QAAAAA0hG_3Q$",
+                    "name": "1980"
+                },
+                {
+                    "code": "$*KwFAfGxjMyEwMz0hOSBqaWw3IEY1KQhWGEpIXFBJViw3MiZUBwdPEx8BEFBJVkcSEgBQDikAAAAA3sqagg$",
+                    "name": "1979"
+                },
+                {
+                    "code": "$*KwExDR0SQlBBQkxQSFEbGB1GUTdEWHknaTs5LSE4J11GQ1cldnY-Ym5wYSE4JzZjY3Ahf1gAAAAA3FIZAA$",
+                    "name": "1978"
+                },
+                {
+                    "code": "$*KwESLj4xYXNiYW9za3I4Oz5lchRne1oEShgaDgIbBH5lYHQGVVUdQU1TQgIbBBVAQFwCXHsAAAAAEqVO1w$",
+                    "name": "1977"
+                },
+                {
+                    "code": "$*KwGNsaGu_uz9_vDs9O2npKH67Yv45MWb1YeFkZ2Em-H6_-uZysqC3tLM3Z2Em4rf38Kdw-QAAAAA9qIbOQ$",
+                    "name": "1976"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+mutation (
+    $title: String!
+    $shipId: ID!
+    $srcPortId: ID!
+    $destPortId: ID!
+    $departDate: Date!
+    $arrivalDate: Date!
+) {
+    createVoyage(
+        input: {
+            title: $title
+            shipId: $shipId
+            srcPortId: $srcPortId
+            destPortId: $destPortId
+            departDate: $departDate
+            arrivalDate: $arrivalDate
+        }
+    ){
+        data {
+            id
+            title
+        }
+    }
+}

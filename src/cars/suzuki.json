@@ -1,0 +1,20 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Регион",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwGC2KfKAAAAAOYsvBo$",
+                    "name": "Europe"
+                },
+                {
+                    "code": "$*KwGB26TKAAAAAM9HUYA$",
+                    "name": "Japan"
+                }
+            ]
+        }
+    ]
+}

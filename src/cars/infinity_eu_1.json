@@ -1,0 +1,335 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Место продаж",
+            "removeparam": "",
+            "value": "Europe (RHD)",
+            "list": []
+        },
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwHps73Q4uqj7u2a6QAAAADo-C6y$",
+                    "name": "G37 SEDAN"
+                },
+                {
+                    "code": "$*KwEudHoXLSoiZS4rWiwAAAAAGMdPEA$",
+                    "name": "Q30/QX30"
+                },
+                {
+                    "code": "$*KwGcxsiln5eZ15yZ6J4AAAAAvvfOwA$",
+                    "name": "Q50"
+                },
+                {
+                    "code": "$*KwFXDQNuVFxQHFdSI1UAAAAA30gOig$",
+                    "name": "Q60/G CONVERTIBLE"
+                },
+                {
+                    "code": "$*KwGw6uSJs7uw-7C1xLIAAAAAUdlbfA$",
+                    "name": "Q60/G COUPE"
+                },
+                {
+                    "code": "$*KwEXTUMuFBwUXBcSYxUAAAAAha9vDQ$",
+                    "name": "Q70/M"
+                },
+                {
+                    "code": "$*KwE3bWMONDw7fDcyQzUAAAAA-fpPMA$",
+                    "name": "Q70/M HYBRID"
+                },
+                {
+                    "code": "$*KwGSyMarkZiQ2ZKX5pAAAAAA0g3ZJQ$",
+                    "name": "QX50/EX"
+                },
+                {
+                    "code": "$*KwHUjoDt1NfRn9TRoNYAAAAA4aFAbw$",
+                    "name": "QX70/FX"
+                }
+            ]
+        },
+        {
+            "name": "Год выпуска",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwHWjITv1dbT1ZrX1KCJAAAAAMklv1Y$",
+                    "name": "2008"
+                },
+                {
+                    "code": "$*KwHiuLDb4eLn4K7j4JS9AAAAAM90SEk$",
+                    "name": "2009"
+                },
+                {
+                    "code": "$*KwHgurLZ4-Dl7azh4pa_AAAAADdx3g0$",
+                    "name": "2010"
+                },
+                {
+                    "code": "$*KwFeBAxnXV5bUhJfXCgBAAAAACRlsUQ$",
+                    "name": "2011"
+                },
+                {
+                    "code": "$*KwHXjYXu1NfR0pvW1aGIAAAAAMeFV74$",
+                    "name": "2012"
+                },
+                {
+                    "code": "$*KwH4oqrB-_j-_LT5-o6nAAAAAE5DI5Q$",
+                    "name": "2013"
+                },
+                {
+                    "code": "$*KwG-5OyHvb64ufK_vMjhAAAAACI3qOg$",
+                    "name": "2014"
+                },
+                {
+                    "code": "$*KwH5o6vA-vn__7X4-4-mAAAAAOqak_c$",
+                    "name": "2015"
+                },
+                {
+                    "code": "$*KwEaQEgjGRocG1YbGGxFAAAAAEqgZUQ$",
+                    "name": "2016"
+                },
+                {
+                    "code": "$*KwHehIzn3d7Y3pLf3KiBAAAAAFsVRSE$",
+                    "name": "2017"
+                },
+                {
+                    "code": "$*KwFkPjZdZ2RiZyhlZhI7AAAAABdvwkE$",
+                    "name": "2018"
+                }
+            ]
+        },
+        {
+            "name": "WHEEL DRIVE",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwHWj4Pv19Pa1prX1KCJAAAAAOKaabo$",
+                    "name": "2WD"
+                },
+                {
+                    "code": "$*KwFHHhJ-RkJKQAtGRTEYAAAAAMM6SdU$",
+                    "name": "2WD W/O HICAS"
+                },
+                {
+                    "code": "$*KwGJ0NywiIyEjMWIi__WAAAAAHgErcs$",
+                    "name": "2WD WITH 4WAS"
+                },
+                {
+                    "code": "$*KwHxqKTI8PT89b3w84euAAAAALiqFdM$",
+                    "name": "2WD WITH HICAS"
+                },
+                {
+                    "code": "$*KwHPlpr2zsrDzIPOzbmQAAAAAOLKvLA$",
+                    "name": "2WD/4WS"
+                },
+                {
+                    "code": "$*KwEFXFA8BAAIB0kEB3NaAAAAAGuxaJY$",
+                    "name": "4WD"
+                },
+                {
+                    "code": "$*KwFCGxd7Q0ZGTg5DQDQdAAAAAAt4pBE$",
+                    "name": "AWD"
+                },
+                {
+                    "code": "$*KwHosb3RpOnqne4AAAAA7kaxAA$",
+                    "name": "No"
+                }
+            ]
+        },
+        {
+            "name": "Тип кузова",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwHOl533yIPIzLzMz8mWAAAAALT5laU$",
+                    "name": "5 DOOR HATCHBACK"
+                },
+                {
+                    "code": "$*KwGL0tiyjcaNifmJio7YAAAAABu_4oQ$",
+                    "name": "CONVERTIBLE"
+                },
+                {
+                    "code": "$*KwGt9P6Uq-Crr9-vrKj_AAAAAOJ_9rE$",
+                    "name": "COUPE"
+                },
+                {
+                    "code": "$*KwHbgoji3Zbd2anZ2dyIAAAAAJBDjrY$",
+                    "name": "SEDAN"
+                },
+                {
+                    "code": "$*KwFwKSNJdj12cgJycnAoAAAAACG2Adc$",
+                    "name": "WAGON"
+                }
+            ]
+        },
+        {
+            "name": "Класс",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwF2LyVPcDtxcgR3dnYuAAAAAFtc_00$",
+                    "name": "BASE"
+                },
+                {
+                    "code": "$*KwEGX1U_AEsBAnQHBwJbAAAAAGAmXQg$",
+                    "name": "C/LEATHE"
+                },
+                {
+                    "code": "$*KwFlPDZcYyhiYRdkZmE-AAAAAA6kxNs$",
+                    "name": "GT"
+                },
+                {
+                    "code": "$*KwHkvbfd4qnj4Jbl5-a4AAAAABbRyRU$",
+                    "name": "GT PREMIUM GRADE"
+                },
+                {
+                    "code": "$*KwHdhI7k25Da2a_c3tmOAAAAAMPCnbY$",
+                    "name": "GT-COMFORT GRADE"
+                },
+                {
+                    "code": "$*KwGu9_2XqOOpqtyvraz9AAAAAFtk9jA$",
+                    "name": "GT-PREMIUM GRADE"
+                },
+                {
+                    "code": "$*KwFcBQ9lWhFbWC5dX14BAAAAAKJrKNw$",
+                    "name": "GT/PRE"
+                },
+                {
+                    "code": "$*KwEZQEogH1QeHWsYFRdFAAAAAHgn3FA$",
+                    "name": "LEATHER"
+                },
+                {
+                    "code": "$*KwGi-_GbpO-lptAAAAAA2A0-kA$",
+                    "name": "No"
+                },
+                {
+                    "code": "$*KwHmv7Xf4Kvh4pTm4uK6AAAAAPQrO-I$",
+                    "name": "PREMIUM"
+                },
+                {
+                    "code": "$*KwFHHhR-QQpAQzVHQ0UdAAAAAA5rT6o$",
+                    "name": "PREMIUM UPPER GRADE"
+                },
+                {
+                    "code": "$*KwEYQUshHlUfHGoYHBZLAAAAALcm5nQ$",
+                    "name": "S"
+                },
+                {
+                    "code": "$*KwEKU1kzDEcNDngKDwVVAAAAAOWD8TA$",
+                    "name": "S/PRE"
+                },
+                {
+                    "code": "$*KwHZgIrg35Te3avZ3NeEAAAAAHACCs4$",
+                    "name": "SPORT"
+                },
+                {
+                    "code": "$*KwEOV103CEMJCnwOCwFVAAAAAPBIfAs$",
+                    "name": "SPORTS UPPER GRADE"
+                },
+                {
+                    "code": "$*KwGt9P6Uq-Cqqd-tqq3zAAAAAEgUEk8$",
+                    "name": "UPPER"
+                },
+                {
+                    "code": "$*KwGQycOplt2XlOKQkJHOAAAAAFUQkh0$",
+                    "name": "XOVER GRADE"
+                },
+                {
+                    "code": "$*KwHfhozm2ZLY263f396CAAAAAOqkuVk$",
+                    "name": "XOVER-PREMIUM GRADE"
+                }
+            ]
+        },
+        {
+            "name": "Место продаж",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwHwqaPJ9r338ILy9_KjAAAAAFB8_Ao$",
+                    "name": "EUROPE A GROUP"
+                },
+                {
+                    "code": "$*KwFNFB50SwBKTT8AAAAAmx41xw$",
+                    "name": "No"
+                }
+            ]
+        },
+        {
+            "name": "Трансмиссия",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwH1rKbM87jy9of19_epAAAAABEiwR8$",
+                    "name": "6MT"
+                },
+                {
+                    "code": "$*KwH_pqzG-bL4_I3__f2sAAAAAK2Cals$",
+                    "name": "7AT"
+                },
+                {
+                    "code": "$*KwG44euBvvW_u8oAAAAAUt56Fg$",
+                    "name": "No"
+                }
+            ]
+        },
+        {
+            "name": "Двигатель",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwEzamAKNX40MUExMDdqAAAAAIQ_NF4$",
+                    "name": "1.6L TURBO ENGINE"
+                },
+                {
+                    "code": "$*KwGbwsiindacmemZmJ_HAAAAAH1xNQY$",
+                    "name": "2.0L TURBO"
+                },
+                {
+                    "code": "$*KwG27-WPsPuxtMS0tbLlAAAAAKYHq4k$",
+                    "name": "2.0L TURBO ENGINE"
+                },
+                {
+                    "code": "$*KwEzamAKNX40MUExMDZoAAAAAHMqZDM$",
+                    "name": "2.2L DIESEL ENGINE"
+                },
+                {
+                    "code": "$*KwHLkpjyzYbMybnJx8iWAAAAAPXnZIM$",
+                    "name": "K9K"
+                },
+                {
+                    "code": "$*KwETSkAqFV4UEWERHhxBAAAAAG-1UAc$",
+                    "name": "V9X"
+                },
+                {
+                    "code": "$*KwH2r6XP8Lvx9IT38vKuAAAAANc6Xws$",
+                    "name": "VK50VE"
+                },
+                {
+                    "code": "$*KwHchY_l2pHb3q7d2NmAAAAAAHBhVZY$",
+                    "name": "VQ35HR"
+                },
+                {
+                    "code": "$*KwFUDQdtUhlTViZVUFEHAAAAAPzI9MA$",
+                    "name": "VQ37VHR"
+                },
+                {
+                    "code": "$*KwH0rafN8rnz9ob18PavAAAAABE6jaY$",
+                    "name": "VR30DDTT ENGINE HI OUTPUT"
+                },
+                {
+                    "code": "$*KwFxKCJIdzx2cwNwdXMoAAAAAD3ZmkM$",
+                    "name": "VR30DDTT TYPE ENGINE"
+                }
+            ]
+        }
+    ]
+}

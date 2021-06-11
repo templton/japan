@@ -1,0 +1,161 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Регион",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwGm_IPu6qfSoAAAAAAxX37X$",
+                    "name": "Europe"
+                }
+            ]
+        },
+        {
+            "name": "Vehicle type",
+            "removeparam": "",
+            "value": "Light Commercial",
+            "list": []
+        },
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwGp8Izj5a7dqKwAAAAANEB7UQ$",
+                    "name": "Edge/MKX TQ1"
+                },
+                {
+                    "code": "$*KwGs9Ynm4KvYra0AAAAAjdCyWw$",
+                    "name": "Escape R3 2008-"
+                },
+                {
+                    "code": "$*KwEEXSFOSANwAwIAAAAAHH2Gkw$",
+                    "name": "Everest EP 2009-"
+                },
+                {
+                    "code": "$*KwHQifWanNek1NYAAAAAWA2otA$",
+                    "name": "Everest EU 2006-2009"
+                },
+                {
+                    "code": "$*KwErcg5hZyxfJi8AAAAA1tmCDQ$",
+                    "name": "Everest/Endeavour EV 2003-2006"
+                },
+                {
+                    "code": "$*KwFtNEgnIWoZamYAAAAAieZCEg$",
+                    "name": "Explorer EX 1992-2000"
+                },
+                {
+                    "code": "$*KwEbQj5RVxxvFh0AAAAAnf2xSw$",
+                    "name": "Explorer TUB 2011-"
+                },
+                {
+                    "code": "$*KwHmv8OsquGS6uAAAAAAV4d7Cw$",
+                    "name": "Explorer TWJ 2013-"
+                },
+                {
+                    "code": "$*KwGu94vk4qnaowAAAAALQW62$",
+                    "name": "Maverick ML (LHD) 1993-1996"
+                },
+                {
+                    "code": "$*KwGk_YHu6KPQo6cAAAAABAiT4g$",
+                    "name": "Maverick MR (RHD) 1993-1996"
+                },
+                {
+                    "code": "$*KwFlPEAvKWIRZmcAAAAApdrYoQ$",
+                    "name": "Maverick NL (LHD) 1996-1998"
+                },
+                {
+                    "code": "$*KwF_Jlo1M3gLfHQAAAAAGZSyRA$",
+                    "name": "Maverick NR (RHD) 1996-1998"
+                },
+                {
+                    "code": "$*KwEVTDBfWRJhEhEAAAAA2unUIw$",
+                    "name": "Maverick TM1 2001-2006"
+                },
+                {
+                    "code": "$*KwEqcw9gZi1eLiAAAAAAqyDp-Q$",
+                    "name": "Maverick TM3 (RHD) 2002-2006"
+                },
+                {
+                    "code": "$*KwE9ZBh3cTpJMD0AAAAA0NSD7w$",
+                    "name": "Maverick TM7 2007-"
+                },
+                {
+                    "code": "$*KwFoMU0iJG8caWIAAAAAFkbYEQ$",
+                    "name": "P100 DP 1987-1993"
+                },
+                {
+                    "code": "$*KwFJEGwDBU49SUgAAAAAFT9RLg$",
+                    "name": "Ranger EQ 2002-"
+                },
+                {
+                    "code": "$*KwEBWCRLTQZ1BwIAAAAAy_FOTg$",
+                    "name": "Ranger ER 1998-2003"
+                },
+                {
+                    "code": "$*KwETSjZZXxRnEhUAAAAAAMQZVA$",
+                    "name": "Ranger ES 2009-"
+                },
+                {
+                    "code": "$*KwHbgv6Rl9yv3NkAAAAAmUXesw$",
+                    "name": "Ranger ET 2006-2009"
+                },
+                {
+                    "code": "$*KwFeB3sUElkqX14AAAAAMcBouA$",
+                    "name": "Ranger TKE 2012-"
+                },
+                {
+                    "code": "$*KwGl_IDv6aLRpqEAAAAAtYM-_w$",
+                    "name": "Transit CY 1985-1991"
+                },
+                {
+                    "code": "$*KwEmfwNsaiFSJi0AAAAAfLkL0Q$",
+                    "name": "Transit Connect TC7 2002-2013"
+                },
+                {
+                    "code": "$*KwHvtsqlo-ib7AAAAAAVW0Kh$",
+                    "name": "Transit DY 1991-1994"
+                },
+                {
+                    "code": "$*KwH0rdG-uPOA9vQAAAAA1HnG4g$",
+                    "name": "Transit EY 1994-2000"
+                },
+                {
+                    "code": "$*KwGo8Y3i5K_crKoAAAAAnNDnDQ$",
+                    "name": "Transit FY 2000-2006"
+                },
+                {
+                    "code": "$*KwGSy7fY3pXmkJYAAAAAIEirsw$",
+                    "name": "Transit GY (Turkey) 2000-2006"
+                },
+                {
+                    "code": "$*KwFSC3cYHlUmUlYAAAAA60SKWg$",
+                    "name": "Transit TT9 2006-2014"
+                },
+                {
+                    "code": "$*KwHfhvqVk9ir3d4AAAAAiEWL5Q$",
+                    "name": "Transit TTG 2014-"
+                },
+                {
+                    "code": "$*KwF9JFg3MXoJcQAAAACyc6Rc$",
+                    "name": "Transit TY (Turkey) 1992-2000"
+                },
+                {
+                    "code": "$*KwGN1KjHwYr5i48AAAAA1igU0A$",
+                    "name": "Transit/Tourneo Connect CHC 2013-"
+                },
+                {
+                    "code": "$*KwE2bxN8ejFCOzMAAAAATbaWvQ$",
+                    "name": "Transit/Tourneo Courier 2014-"
+                },
+                {
+                    "code": "$*KwEKUy9ARg1-CQwAAAAAK-SvWQ$",
+                    "name": "Transit/Tourneo Custom TTF 2012-"
+                }
+            ]
+        }
+    ]
+}

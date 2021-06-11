@@ -1,0 +1,235 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwGC2KfKiYkAAAAATQbpKQ$",
+                    "name": "DEDRA"
+                },
+                {
+                    "code": "$*KwEjeQZoISAAAAAA5r6FzA$",
+                    "name": "DELTA"
+                },
+                {
+                    "code": "$*KwFHHWIPR00AAAAAc3Q4dA$",
+                    "name": "FLAVIA"
+                },
+                {
+                    "code": "$*KwE3bRJ8NDwAAAAAlD7FsQ$",
+                    "name": "KAPPA"
+                },
+                {
+                    "code": "$*KwFIEm0DSE0AAAAAJ8VaWA$",
+                    "name": "LYBRA"
+                },
+                {
+                    "code": "$*KwE6YB9yOD4AAAAA1uHa9w$",
+                    "name": "MUSA"
+                },
+                {
+                    "code": "$*KwEmfANtICcAAAAAmDSchw$",
+                    "name": "PHEDRA"
+                },
+                {
+                    "code": "$*KwHIku2JygAAAAAGx71s$",
+                    "name": "THEMA"
+                },
+                {
+                    "code": "$*KwEhewRqIiMAAAAAh9fIMA$",
+                    "name": "THESIS"
+                },
+                {
+                    "code": "$*KwGXzbLakgAAAAAGbxxE$",
+                    "name": "VOYAGER"
+                },
+                {
+                    "code": "$*KwEmfANtLSEAAAAAxPlH_w$",
+                    "name": "Y10"
+                },
+                {
+                    "code": "$*KwFwKlU7cHAAAAAA5oQ9kw$",
+                    "name": "YPSILON"
+                },
+                {
+                    "code": "$*KwESSDdZERIAAAAAAFBj6g$",
+                    "name": "ZETA"
+                }
+            ]
+        },
+        {
+            "name": "Каталог",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwEJUCxEAwAAAADWArSB$",
+                    "name": "25 | LANCIA VOYAGER (2011-....)"
+                },
+                {
+                    "code": "$*KwEGXyNHBQAAAABHcxUc$",
+                    "name": "32 | LANCIA THEMA (2011-....)"
+                },
+                {
+                    "code": "$*KwF_Jlo3fXQAAAAAwM6D9A$",
+                    "name": "43 | MUSA FLL (2011-2012)"
+                },
+                {
+                    "code": "$*KwEEXSFMBQcAAAAAhLwhfg$",
+                    "name": "75 | LANCIA FLAVIA (2012-....)"
+                },
+                {
+                    "code": "$*KwGB2KTJiosAAAAAmNbKcQ$",
+                    "name": "RJ | DEDRA IE.TB.INTEGRALE (1990-1994)"
+                },
+                {
+                    "code": "$*KwEudwtlLCwAAAAAHyRCRQ$",
+                    "name": "RT | DELTA 4WD (1986-1991)"
+                },
+                {
+                    "code": "$*KwFrMk4gaWoAAAAARx0tvQ$",
+                    "name": "RY | DEDRA BENZINA (1989-1994)"
+                },
+                {
+                    "code": "$*KwFeB3sVXF4AAAAASAwDoA$",
+                    "name": "RZ | DEDRA TURBO DIESEL (1989-1994)"
+                },
+                {
+                    "code": "$*KwHlvMCu5-IAAAAA6YVqGw$",
+                    "name": "SA | DELTA EVOLUZIONE (1991-1994)"
+                },
+                {
+                    "code": "$*KwHwqdW78vYAAAAAEcCGtg$",
+                    "name": "SB | THEMA IE. 16V FL.92 (1992-1994)"
+                },
+                {
+                    "code": "$*KwHAmeWLwsUAAAAABDd05A$",
+                    "name": "SC | THEMA TURBO DS FL.92 (1992-1994)"
+                },
+                {
+                    "code": "$*KwHwqdW78vQAAAAA_87nmg$",
+                    "name": "SD | THEMA 3.0 V6 FL.92 (1992-1994)"
+                },
+                {
+                    "code": "$*KwEkfQFvJi8AAAAAVFiGZg$",
+                    "name": "SE | THEMA I.E. 8V FL.92 (1992-1994)"
+                },
+                {
+                    "code": "$*KwEQSTVbEhoAAAAAsUuNTg$",
+                    "name": "SF | N.DELTA 1400-1600-1800(1993-1999)"
+                },
+                {
+                    "code": "$*KwFTCnYYUFAAAAAAASPulA$",
+                    "name": "SG | N.DELTA 2.0 -1750 132CV ('93-'99)"
+                },
+                {
+                    "code": "$*KwESSzdZERMAAAAAMPcprA$",
+                    "name": "SJ | THESIS (2001-2007)"
+                },
+                {
+                    "code": "$*KwGK06_BiY0AAAAA9FrbLw$",
+                    "name": "SK | \"Z\" (1994-2002)"
+                },
+                {
+                    "code": "$*KwGG36PNhYAAAAAAoGJDQw$",
+                    "name": "SL | DEDRA FL.94 1580-1750 8/16V 2000 (1994-1999)"
+                },
+                {
+                    "code": "$*KwG95Jj2vrgAAAAAbTfoow$",
+                    "name": "SM | DEDRA FL.94 1750-2.0 (1994-1999)"
+                },
+                {
+                    "code": "$*KwEMVSlHDwgAAAAAF31Yqg$",
+                    "name": "SN | DEDRA FL.94 T.DS (1994-1999)"
+                },
+                {
+                    "code": "$*KwFUDXEfV14AAAAAg2KneA$",
+                    "name": "SP | KAPPA BZ 2000-2400 (1994-2001)"
+                },
+                {
+                    "code": "$*KwGC26fJgoEAAAAA5c98WQ$",
+                    "name": "SQ | N.DELTA TB/DS (1994-1999)"
+                },
+                {
+                    "code": "$*KwEHXiJMBwUAAAAADZH37g$",
+                    "name": "SR | KAPPA DIESEL (1994-2001)"
+                },
+                {
+                    "code": "$*KwG44Z3zuLkAAAAAtZ_CGg$",
+                    "name": "SS | KAPPA  3.0 V6 (1994-2001)"
+                },
+                {
+                    "code": "$*KwGG36PNhoEAAAAA_EggFg$",
+                    "name": "SU | Y (1995-2000)"
+                },
+                {
+                    "code": "$*KwGv9orkr6kAAAAAq8zHqQ$",
+                    "name": "SV | KAPPA  COUPE' (1997-2001)"
+                },
+                {
+                    "code": "$*KwGi-4fpoqYAAAAAjP8rSg$",
+                    "name": "SX | LYBRA BZ (1999-2005)"
+                },
+                {
+                    "code": "$*KwFmP0MtZm0AAAAAXMMr7g$",
+                    "name": "SY | LYBRA DS (1999-2005)"
+                },
+                {
+                    "code": "$*KwH8pdm3_PYAAAAACX8A5Q$",
+                    "name": "SZ | THEMA BZ/DS R.88 (1988-1992)"
+                },
+                {
+                    "code": "$*KwG74p7wvbgAAAAA6Lxtrg$",
+                    "name": "TA | Y FL.2000 (2000-2003)"
+                },
+                {
+                    "code": "$*KwGZwLzSn5sAAAAAZ5rTow$",
+                    "name": "TB | DELTA R.86 BZ/DS (1986-1992)"
+                },
+                {
+                    "code": "$*KwH_ptq0-f8AAAAAWocnYw$",
+                    "name": "TC | PHEDRA (2001-2010)"
+                },
+                {
+                    "code": "$*KwG_5pr0ubgAAAAA8Tsx4Q$",
+                    "name": "TE | YPSILON (2003-2009)"
+                },
+                {
+                    "code": "$*KwEXTjJcEREAAAAAJwz1KQ$",
+                    "name": "TG | MUSA (2004-2007)"
+                },
+                {
+                    "code": "$*KwEJUCxCDwwAAAAA6eUhGg$",
+                    "name": "TH | NUOVA DELTA 844 (2008-2011)"
+                },
+                {
+                    "code": "$*KwFsNUknamgAAAAAqIbtfg$",
+                    "name": "TI | YPSILON (2009-2011)"
+                },
+                {
+                    "code": "$*KwGaw7_RnJEAAAAA-zECGQ$",
+                    "name": "TJ | MUSA (2007-2011)"
+                },
+                {
+                    "code": "$*KwH7ot6w_fEAAAAApLhWKw$",
+                    "name": "TK | NEW YPSILON (2011-....)"
+                },
+                {
+                    "code": "$*KwHQifWb19MAAAAA64lEzA$",
+                    "name": "TN | LANCIA DELTA MY 2011 (2011-2014)"
+                },
+                {
+                    "code": "$*KwE4YR1zMz4AAAAAo76IMA$",
+                    "name": "ZL | Y10 FL.89 (1988-1992)"
+                },
+                {
+                    "code": "$*KwHstcmn5-kAAAAAAZ6l5w$",
+                    "name": "ZM | Y10 R.92 (1992-1995)"
+                }
+            ]
+        }
+    ]
+}

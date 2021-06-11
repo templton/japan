@@ -1,0 +1,151 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwEudAtjLAAAAAC1RFOx$",
+                    "name": "DOBLÒ"
+                },
+                {
+                    "code": "$*KwHRi_SZ29AAAAAAH826EQ$",
+                    "name": "DUCATO '94"
+                },
+                {
+                    "code": "$*KwG545zxvrMAAAAAwuhs6Q$",
+                    "name": "DUCATO R/90"
+                },
+                {
+                    "code": "$*KwHKkO-FzAAAAADqnEuw$",
+                    "name": "FIORINO - QUBO"
+                },
+                {
+                    "code": "$*KwG07pH4swAAAABlOLJT$",
+                    "name": "NUOVO DUCATO"
+                },
+                {
+                    "code": "$*KwGx65T_tAAAAACFCIPu$",
+                    "name": "SCUDO"
+                },
+                {
+                    "code": "$*KwFkPkEvYgAAAADxSI9g$",
+                    "name": "STRADA"
+                },
+                {
+                    "code": "$*KwFfBXoXW14AAAAAxrV1DA$",
+                    "name": "TALENTO"
+                }
+            ]
+        },
+        {
+            "name": "Каталог",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwHEneGPwwAAAAB4OEt8$",
+                    "name": "1G | STRADA (1999-2005)"
+                },
+                {
+                    "code": "$*KwEmfwNrJQAAAADdU7ek$",
+                    "name": "1W | DOBLO (2000-2004)"
+                },
+                {
+                    "code": "$*KwEEXSFIAAAAAAAZDOG5$",
+                    "name": "2E | DUCATO RESTYL. BZ/DS (2001-2006)"
+                },
+                {
+                    "code": "$*KwHstcmj7wAAAAAgCdy4$",
+                    "name": "2J | NUOVO DUCATO 2006 (2006-2014)"
+                },
+                {
+                    "code": "$*KwEkfQFrIwAAAACdvQ50$",
+                    "name": "2M | FIORINO (1991-1993)"
+                },
+                {
+                    "code": "$*KwHpsMym7QAAAACCZXsI$",
+                    "name": "2N | FIORINO RL (1993-2000)"
+                },
+                {
+                    "code": "$*KwHJkOyHzQAAAACt66f9$",
+                    "name": "2W | DOBLO MY. 2004 (2004-2005)"
+                },
+                {
+                    "code": "$*KwEKUy9EAAAAAABf-PSM$",
+                    "name": "2X | SCUDO FL.2004 (2004-2006)"
+                },
+                {
+                    "code": "$*KwHEneGFxQAAAABrtAbD$",
+                    "name": "3A | FIORINO EXPORT (2004-2008)"
+                },
+                {
+                    "code": "$*KwFXDnIWUwAAAAB4FKGI$",
+                    "name": "3C | DOBLO REST. 2005 (2005-....)"
+                },
+                {
+                    "code": "$*KwHjusaj4QAAAACUjqbU$",
+                    "name": "3G | STRADA REST. 2 (2005-2011)"
+                },
+                {
+                    "code": "$*KwHGn-OGxQAAAADpFEnl$",
+                    "name": "3H | NUOVO SCUDO (2007-....)"
+                },
+                {
+                    "code": "$*KwH_ptq_-wAAAACAaLDA$",
+                    "name": "3N | NUOVO FIORINO-QUBO (2007-....)"
+                },
+                {
+                    "code": "$*KwFjOkYrYWIAAAAAeI6jSA$",
+                    "name": "3T | DUCATO RUSSIA 2008 (2008-2011)"
+                },
+                {
+                    "code": "$*KwFpMEwha24AAAAAo016-g$",
+                    "name": "3V | NUOVO DOBLO 2009 (2009-....)"
+                },
+                {
+                    "code": "$*KwG44Z3wu78AAAAAdZeKtQ$",
+                    "name": "4X | NUOVO DUCATO MY 2011 (2011-2014)"
+                },
+                {
+                    "code": "$*KwEheARpIicAAAAAxVzIoA$",
+                    "name": "4Y | NUOVO DUCATO MY 2014 (2014-....)"
+                },
+                {
+                    "code": "$*KwHOl-uGzcoAAAAARCcvuw$",
+                    "name": "52 | STRADA 2011 (2011-2014)"
+                },
+                {
+                    "code": "$*KwF8JVk0eH8AAAAAfTjFXg$",
+                    "name": "NA | NUOVO DUCATO DS.R.90 (1990-1994)"
+                },
+                {
+                    "code": "$*KwFTCnYbV1EAAAAAOyP2nA$",
+                    "name": "NB | NUOVO DUCATO BZ R.90 (1990-1994)"
+                },
+                {
+                    "code": "$*KwEpcAxhLSkAAAAAXqvL_g$",
+                    "name": "NC | TALENTO R.90 (1990-1994)"
+                },
+                {
+                    "code": "$*KwGWz7PekpEAAAAA4cg6Ew$",
+                    "name": "ND | DUCATO 4X4 R.90 (1990-1994)"
+                },
+                {
+                    "code": "$*KwGs9YnkpqwAAAAAX3FdUQ$",
+                    "name": "PD | DUCATO '94 BENZINA (1994-2002)"
+                },
+                {
+                    "code": "$*KwF9JFg1d3oAAAAADtQJ_A$",
+                    "name": "PE | DUCATO'94 DIESEL (1994-2002)"
+                },
+                {
+                    "code": "$*KwHPluqHxcUAAAAAmF-cwA$",
+                    "name": "PL | SCUDO (1995-2004)"
+                }
+            ]
+        }
+    ]
+}

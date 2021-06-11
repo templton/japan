@@ -1,0 +1,35 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Регион",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwF6IF8yAAAAADL4j-k$",
+                    "name": "Europe"
+                }
+            ]
+        },
+        {
+            "name": "Vehicle type",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwGr8o7hAAAAADsMGYc$",
+                    "name": "Light Commercial"
+                },
+                {
+                    "code": "$*KwGv9orkAAAAACgDgNA$",
+                    "name": "Passenger"
+                },
+                {
+                    "code": "$*KwFBGGQMAAAAAOVTyVI$",
+                    "name": "Unknown"
+                }
+            ]
+        }
+    ]
+}

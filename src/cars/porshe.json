@@ -1,0 +1,462 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Место продаж",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwGC2KfJAAAAAH8l7aA$",
+                    "name": "Europe"
+                },
+                {
+                    "code": "$*KwEvdQpnAAAAAIRCb9g$",
+                    "name": "USA"
+                }
+            ]
+        },
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwGD2qbLhYQAAAAAXLyEqg$",
+                    "name": "Porsche 356/356A"
+                },
+                {
+                    "code": "$*KwF8JVk0enoAAAAAP2RTUw$",
+                    "name": "Porsche 356B/356C"
+                },
+                {
+                    "code": "$*KwHqs8-i7O8AAAAAp-mxjg$",
+                    "name": "Porsche 718 Boxster"
+                },
+                {
+                    "code": "$*KwG54Jzxv70AAAAAe-sKfw$",
+                    "name": "Porsche 718 Cayman"
+                },
+                {
+                    "code": "$*KwEzahZ7NTgAAAAAskVtKw$",
+                    "name": "Porsche 911"
+                },
+                {
+                    "code": "$*KwEwaRV4NzMAAAAAQPK9Rg$",
+                    "name": "Porsche 911 Carrera"
+                },
+                {
+                    "code": "$*KwElfABtIicAAAAAuLdR6w$",
+                    "name": "Porsche 911 Carrera 2/4"
+                },
+                {
+                    "code": "$*KwEGXyNOAQcAAAAAM52r_w$",
+                    "name": "Porsche 911 Carrera, 2. Ge"
+                },
+                {
+                    "code": "$*KwGRyLTZlpEAAAAArxwNOw$",
+                    "name": "Porsche 911 T / GT2RS 2. G"
+                },
+                {
+                    "code": "$*KwESSzdaFRUAAAAAv773xA$",
+                    "name": "Porsche 911 Turbo"
+                },
+                {
+                    "code": "$*KwGZwLzRnp8AAAAAe6qYog$",
+                    "name": "Porsche 911 Turbo/GT2"
+                },
+                {
+                    "code": "$*KwFMFWkESkYAAAAAuiy8kA$",
+                    "name": "Porsche 911/912"
+                },
+                {
+                    "code": "$*KwGL0q7DjI4AAAAAlnzkaw$",
+                    "name": "Porsche 914"
+                },
+                {
+                    "code": "$*KwFSC3caVVYAAAAAE28lXw$",
+                    "name": "Porsche 918 Spyder"
+                },
+                {
+                    "code": "$*KwGE3aHMg48AAAAAt4wIiA$",
+                    "name": "Porsche 924"
+                },
+                {
+                    "code": "$*KwGXzrLfkJ0AAAAAXlYwWA$",
+                    "name": "Porsche 924S"
+                },
+                {
+                    "code": "$*KwF_Jlo3e3wAAAAAmE-sQA$",
+                    "name": "Porsche 928"
+                },
+                {
+                    "code": "$*KwEnfgJvIyUAAAAAnO9OAw$",
+                    "name": "Porsche 944"
+                },
+                {
+                    "code": "$*KwF4IV0wfHkAAAAAjdw8JA$",
+                    "name": "Porsche 959"
+                },
+                {
+                    "code": "$*KwE1bBB9MTUAAAAABj4CXA$",
+                    "name": "Porsche 968"
+                },
+                {
+                    "code": "$*KwHMlemEyMoAAAAA6h2Uew$",
+                    "name": "Porsche 991 Turbo / GT2 RS"
+                },
+                {
+                    "code": "$*KwHMlemEyMsAAAAAnRqk7Q$",
+                    "name": "Porsche 991R/GT3/RS/GT-Speed"
+                },
+                {
+                    "code": "$*KwEFXCBNAQAAAAAA-qpVOw$",
+                    "name": "Porsche 996 GT3"
+                },
+                {
+                    "code": "$*KwFTCnYbV1cAAAAA0kBTqQ$",
+                    "name": "Porsche 997 GT3"
+                },
+                {
+                    "code": "$*KwGm_4Puoq0AAAAAZIDV0A$",
+                    "name": "Porsche Boxster"
+                },
+                {
+                    "code": "$*KwHKk--CzsAAAAAA8jQMLQ$",
+                    "name": "Porsche Boxster 2. Generat"
+                },
+                {
+                    "code": "$*KwG37pL_srQAAAAA4ugozg$",
+                    "name": "Porsche Boxster Spyder"
+                },
+                {
+                    "code": "$*KwHnvsKv4uUAAAAA2536IQ$",
+                    "name": "Porsche Carrera GT"
+                },
+                {
+                    "code": "$*KwEpcAxhLCgAAAAAMLfKKQ$",
+                    "name": "Porsche Cayenne"
+                },
+                {
+                    "code": "$*KwF9JFg1eH0AAAAAFyiAkA$",
+                    "name": "Porsche Cayman"
+                },
+                {
+                    "code": "$*KwFCG2cKR0UAAAAAw_p3Pw$",
+                    "name": "Porsche Cayman 2. Generati"
+                },
+                {
+                    "code": "$*KwHRiPSZ1NcAAAAAQZFJrQ$",
+                    "name": "Porsche Cayman GT4"
+                },
+                {
+                    "code": "$*KwGw6ZX4tbUAAAAA8BZ8sw$",
+                    "name": "Porsche Macan"
+                },
+                {
+                    "code": "$*KwHQifWY1dQAAAAARZ0NtA$",
+                    "name": "Porsche Panamera"
+                },
+                {
+                    "code": "$*KwH7ot6z_vAAAAAA-tSLJw$",
+                    "name": "Porsche Taycan"
+                }
+            ]
+        },
+        {
+            "name": "Год выпуска",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwE8ZBl3PD4AAAAAZK0kBA$",
+                    "name": "1950"
+                },
+                {
+                    "code": "$*KwFnP0IsZ2YAAAAAa3TOdQ$",
+                    "name": "1951"
+                },
+                {
+                    "code": "$*KwFKEm8BSkoAAAAAIhqxnA$",
+                    "name": "1952"
+                },
+                {
+                    "code": "$*KwGK0q_Bio0AAAAA4hehXA$",
+                    "name": "1953"
+                },
+                {
+                    "code": "$*KwFKEm8BSkwAAAAAy3kUqQ$",
+                    "name": "1954"
+                },
+                {
+                    "code": "$*KwEfRzpUHxoAAAAA6OoaCQ$",
+                    "name": "1955"
+                },
+                {
+                    "code": "$*KwFOFmsFTkoAAAAAO53t0w$",
+                    "name": "1956"
+                },
+                {
+                    "code": "$*KwHehvuV3tUAAAAAuzmXWA$",
+                    "name": "1957"
+                },
+                {
+                    "code": "$*KwHwqNW78PoAAAAAFyCBrw$",
+                    "name": "1958"
+                },
+                {
+                    "code": "$*KwFhOUQqYGIAAAAAjf5KZQ$",
+                    "name": "1959"
+                },
+                {
+                    "code": "$*KwGexrvVn5wAAAAA7iadnA$",
+                    "name": "1960"
+                },
+                {
+                    "code": "$*KwFgOEUrYWEAAAAAifIOfA$",
+                    "name": "1961"
+                },
+                {
+                    "code": "$*KwEdRThWHB0AAAAAju6T7A$",
+                    "name": "1962"
+                },
+                {
+                    "code": "$*KwHFneCOxMIAAAAACJzS2A$",
+                    "name": "1963"
+                },
+                {
+                    "code": "$*KwEgeAVrISYAAAAAIk4Y_g$",
+                    "name": "1964"
+                },
+                {
+                    "code": "$*KwFrM04gam4AAAAAVj2T1w$",
+                    "name": "1965"
+                },
+                {
+                    "code": "$*KwEheQRqICUAAAAAJkJc5w$",
+                    "name": "1966"
+                },
+                {
+                    "code": "$*KwGD26bIgogAAAAAJW3Jrw$",
+                    "name": "1967"
+                },
+                {
+                    "code": "$*KwHlvcCu5O8AAAAAgXls1Q$",
+                    "name": "1968"
+                },
+                {
+                    "code": "$*KwH6ot-x_PkAAAAACgbiCg$",
+                    "name": "1969"
+                },
+                {
+                    "code": "$*KwFNFWgGS08AAAAAYdOGfg$",
+                    "name": "1970"
+                },
+                {
+                    "code": "$*KwFKEm8BTEsAAAAAA0cmjA$",
+                    "name": "1971"
+                },
+                {
+                    "code": "$*KwFmPkMtYGYAAAAAoCt8UA$",
+                    "name": "1972"
+                },
+                {
+                    "code": "$*KwGi-ofppKUAAAAAfsz0xg$",
+                    "name": "1973"
+                },
+                {
+                    "code": "$*KwHWjvOd0NAAAAAArgd8zw$",
+                    "name": "1974"
+                },
+                {
+                    "code": "$*KwFQCHUbVlUAAAAATSD_Sg$",
+                    "name": "1975"
+                },
+                {
+                    "code": "$*KwEQSDVbFhQAAAAAD_9M_Q$",
+                    "name": "1976"
+                },
+                {
+                    "code": "$*KwHDm-aIxcgAAAAAX_TcSQ$",
+                    "name": "1977"
+                },
+                {
+                    "code": "$*KwH-ptu1-PQAAAAAbTDC-A$",
+                    "name": "1978"
+                },
+                {
+                    "code": "$*KwGq8o_hrakAAAAAXW8xMg$",
+                    "name": "1979"
+                },
+                {
+                    "code": "$*KwECWidJBQAAAAAAi1j1-g$",
+                    "name": "1980"
+                },
+                {
+                    "code": "$*KwH6ot-x_fsAAAAA_ROyZw$",
+                    "name": "1981"
+                },
+                {
+                    "code": "$*KwF1LVA-cnUAAAAAJ-1FVw$",
+                    "name": "1982"
+                },
+                {
+                    "code": "$*KwHdhfiW2toAAAAAGLkkqg$",
+                    "name": "1983"
+                },
+                {
+                    "code": "$*KwEUTDFfExIAAAAA5gCExg$",
+                    "name": "1984"
+                },
+                {
+                    "code": "$*KwHZgfyS3twAAAAA6F3d0A$",
+                    "name": "1985"
+                },
+                {
+                    "code": "$*KwH7o96w_P8AAAAAZ3tj3Q$",
+                    "name": "1986"
+                },
+                {
+                    "code": "$*KwG07JH_s78AAAAABFQ8iQ$",
+                    "name": "1987"
+                },
+                {
+                    "code": "$*KwEbQz5QHBEAAAAAKf4JCQ$",
+                    "name": "1988"
+                },
+                {
+                    "code": "$*KwHagv-R3tkAAAAAz2RCOA$",
+                    "name": "1989"
+                },
+                {
+                    "code": "$*KwFKEm8BTkgAAAAAqHgVtA$",
+                    "name": "1990"
+                },
+                {
+                    "code": "$*KwFTC3YYV1IAAAAAnQwwzw$",
+                    "name": "1991"
+                },
+                {
+                    "code": "$*KwFqMk8hbmoAAAAAsSK2KA$",
+                    "name": "1992"
+                },
+                {
+                    "code": "$*KwGP16rEi4gAAAAAcpPZOw$",
+                    "name": "1993"
+                },
+                {
+                    "code": "$*KwEzaxZ4NzUAAAAAweTk_Q$",
+                    "name": "1994"
+                },
+                {
+                    "code": "$*KwGM1KnHiIkAAAAAeerRCQ$",
+                    "name": "1995"
+                },
+                {
+                    "code": "$*KwGcxLnXmJgAAAAAdUeAxw$",
+                    "name": "1996"
+                },
+                {
+                    "code": "$*KwEeRjtVGhUAAAAAgTzXPw$",
+                    "name": "1997"
+                },
+                {
+                    "code": "$*KwEHXyJMAw0AAAAAWkaTaA$",
+                    "name": "1998"
+                },
+                {
+                    "code": "$*KwFwKFU7dXMAAAAAeDrLDA$",
+                    "name": "1999"
+                },
+                {
+                    "code": "$*KwGRybTalJMAAAAATAKZfA$",
+                    "name": "2000"
+                },
+                {
+                    "code": "$*KwHttcim6OwAAAAATxJA9Q$",
+                    "name": "2001"
+                },
+                {
+                    "code": "$*KwE4YB1zPTgAAAAA6T4pOw$",
+                    "name": "2002"
+                },
+                {
+                    "code": "$*KwEpcQxiLC4AAAAA5vL49Q$",
+                    "name": "2003"
+                },
+                {
+                    "code": "$*KwG17ZD-sLMAAAAAotEHgw$",
+                    "name": "2004"
+                },
+                {
+                    "code": "$*KwGYwL3TnZ0AAAAABbEZRg$",
+                    "name": "2005"
+                },
+                {
+                    "code": "$*KwE-Zht1OzoAAAAA_8w5Xw$",
+                    "name": "2006"
+                },
+                {
+                    "code": "$*KwEHXyJMAgwAAAAANFqSvw$",
+                    "name": "2007"
+                },
+                {
+                    "code": "$*KwGI0K3DjYIAAAAA7qRljw$",
+                    "name": "2008"
+                },
+                {
+                    "code": "$*KwErcw5gISgAAAAAaXJsCA$",
+                    "name": "2009"
+                },
+                {
+                    "code": "$*KwG-5pv1tLwAAAAA-oaG5w$",
+                    "name": "2010"
+                },
+                {
+                    "code": "$*KwHYgP2T0tkAAAAAsJxCsQ$",
+                    "name": "2011"
+                },
+                {
+                    "code": "$*KwFZAXwSU1kAAAAARihRUA$",
+                    "name": "2012"
+                },
+                {
+                    "code": "$*KwGN1ajGh4oAAAAA42W4ng$",
+                    "name": "2013"
+                },
+                {
+                    "code": "$*KwHpscyi4-8AAAAASARRzw$",
+                    "name": "2014"
+                },
+                {
+                    "code": "$*KwF7I14wcX4AAAAAzmMrRA$",
+                    "name": "2015"
+                },
+                {
+                    "code": "$*KwFUDHEfXlAAAAAAiHgYhg$",
+                    "name": "2016"
+                },
+                {
+                    "code": "$*KwE6Yh9xMDEAAAAA9gGgVw$",
+                    "name": "2017"
+                },
+                {
+                    "code": "$*KwEiegdpKCgAAAAAx3nBNQ$",
+                    "name": "2018"
+                },
+                {
+                    "code": "$*KwG375L8vLQAAAAAQ02SqQ$",
+                    "name": "2019"
+                },
+                {
+                    "code": "$*KwG_55r0tL0AAAAACZ-Skw$",
+                    "name": "2020"
+                },
+                {
+                    "code": "$*KwE0bBF_PzUAAAAAI4Wc2Q$",
+                    "name": "2021"
+                }
+            ]
+        }
+    ]
+}

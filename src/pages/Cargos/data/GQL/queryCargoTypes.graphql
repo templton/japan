@@ -1,0 +1,9 @@
+{
+    cargoTypes {
+        data {
+            id
+            icon
+            title
+        }
+    }
+}

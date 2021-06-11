@@ -1,0 +1,1407 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Vehicle Type",
+            "removeparam": "",
+            "value": "Commercial vehicles",
+            "list": []
+        },
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwEeRDtVUh9qGRsAAAAAIF6O8g$",
+                    "name": "BERLINGO"
+                },
+                {
+                    "code": "$*KwFGHGMNCkcyQkQAAAAAkJRffg$",
+                    "name": "C15"
+                },
+                {
+                    "code": "$*KwH6oN-xtvuO_vsAAAAAxmk2pg$",
+                    "name": "DISPATCH"
+                },
+                {
+                    "code": "$*KwFzKVY4P3IHdHQAAAAA0ASnSw$",
+                    "name": "NEMO"
+                },
+                {
+                    "code": "$*KwFzKVY4P3IHcQAAAAAbsTg4$",
+                    "name": "RELAY"
+                }
+            ]
+        },
+        {
+            "name": "Двигатель",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwHLke6Ah8u_z8vJAAAAAK2Pmfg$",
+                    "name": "1.0 (TU9)"
+                },
+                {
+                    "code": "$*KwGz6Zb4_7PHtbIAAAAAYfoXMQ$",
+                    "name": "1.1 (TU1)"
+                },
+                {
+                    "code": "$*KwHJk-yChcm9zcPLAAAAAO6RooA$",
+                    "name": "1.1 (TU1M)"
+                },
+                {
+                    "code": "$*KwG27JP9-rbCsrK8AAAAALuZdv8$",
+                    "name": "1.1 i (TU1JP)"
+                },
+                {
+                    "code": "$*KwH8ptm3sPyI-P74AAAAALBaV1k$",
+                    "name": "1.1 i (TU1M+)"
+                },
+                {
+                    "code": "$*KwEMVilHQAx4AQ8AAAAAf3CReg$",
+                    "name": "1.3 HDI 75"
+                },
+                {
+                    "code": "$*KwG955j28b3JvbwAAAAAZFVceQ$",
+                    "name": "1.4"
+                },
+                {
+                    "code": "$*KwESSDdZXhJmHhYAAAAAyOMXcA$",
+                    "name": "1.4 (TU3-2)"
+                },
+                {
+                    "code": "$*KwEeRDtVUh5qGhUUAAAAADruTCk$",
+                    "name": "1.4 (TU3M)"
+                },
+                {
+                    "code": "$*KwFzKVY4P3MHd3h4AAAAAP6RUtk$",
+                    "name": "1.4 HDi 70"
+                },
+                {
+                    "code": "$*KwEyaBd5fjJGNTEyAAAAAHagayc$",
+                    "name": "1.4 i (TU3AE5)"
+                },
+                {
+                    "code": "$*KwH4ot2ztPiM_vwAAAAAq448ug$",
+                    "name": "1.4 i (TU3JPH)"
+                },
+                {
+                    "code": "$*KwEpcwxiZSldLS4uAAAAAC5qdo4$",
+                    "name": "1.4 i 75 (TU3A)"
+                },
+                {
+                    "code": "$*KwHkvsGvqOSQ4-fgAAAAAO6KER0$",
+                    "name": "1.4i 75 (TU3JP)"
+                },
+                {
+                    "code": "$*KwHVj_CemdWh0dPeAAAAANbnPdE$",
+                    "name": "1.6 (1580 SPI)"
+                },
+                {
+                    "code": "$*KwF6IF8xNnoOen4AAAAAxP8d-g$",
+                    "name": "1.6 HDI (DV6EU)"
+                },
+                {
+                    "code": "$*KwGJ06zCxYn9j4sAAAAA-1IIhg$",
+                    "name": "1.6 HDi (DV6C)"
+                },
+                {
+                    "code": "$*KwFaAH8RFlouWV0AAAAAsOiDzw$",
+                    "name": "1.6 HDi (DV6UC)"
+                },
+                {
+                    "code": "$*KwGA2qXLzID0h4sAAAAA4Zqbyg$",
+                    "name": "1.6 HDi 75"
+                },
+                {
+                    "code": "$*KwHYgv2TlNis39rSAAAAALn0e00$",
+                    "name": "1.6 HDi 75 (DV6ETED M)"
+                },
+                {
+                    "code": "$*KwEjeQZobyNXISIAAAAAyKNhoQ$",
+                    "name": "1.6 HDi 75 (DV6ETED4)"
+                },
+                {
+                    "code": "$*KwGB26TKzYH1hYqFAAAAAB05TiE$",
+                    "name": "1.6 HDi 90"
+                },
+                {
+                    "code": "$*KwHjucaor-OX5-TjAAAAAMJWNfc$",
+                    "name": "1.6 HDi 90 (DV6AUTED4)"
+                },
+                {
+                    "code": "$*KwFbAX4QF1svX1lYAAAAAO8eOkY$",
+                    "name": "1.6 HDi 90 (DV6DU)"
+                },
+                {
+                    "code": "$*KwGVz7De2ZXhmZMAAAAAoTv9iQ$",
+                    "name": "1.6 HDi 90 particle emission filter"
+                },
+                {
+                    "code": "$*KwGv9Yrk46_bq6WsAAAAAEWzw3A$",
+                    "name": "1.6 HDi 92 (DV6ATED4)"
+                },
+                {
+                    "code": "$*KwFhO0QqLWEVYmoAAAAA8Xx8Uw$",
+                    "name": "1.6 HDi 92 (DV6DTED M)"
+                },
+                {
+                    "code": "$*KwFhO0QqLWEVZWRhAAAAAIHo-Xo$",
+                    "name": "1.6 HDi 92 (DV6DTED)"
+                },
+                {
+                    "code": "$*KwHCmOeJjsK2wMkAAAAAXPyqIg$",
+                    "name": "1.6 VTi 100 (EP6C B)"
+                },
+                {
+                    "code": "$*KwEVTzBeWRVhERITAAAAAPCwMA4$",
+                    "name": "1.6 VTi 16v 120"
+                },
+                {
+                    "code": "$*KwE3bRJ8ezdDMzY3AAAAALK6_6A$",
+                    "name": "1.6 i 16v"
+                },
+                {
+                    "code": "$*KwG545zy9bnNvrq4AAAAAKaDWUw$",
+                    "name": "1.6 i 16v 110 (TU5JP4)"
+                },
+                {
+                    "code": "$*KwGN16jGwY35jIsAAAAARgCq8Q$",
+                    "name": "1.8 D"
+                },
+                {
+                    "code": "$*KwExaxR6fTFFNTA0AAAAANOzeXg$",
+                    "name": "1.8 i 8v 92"
+                },
+                {
+                    "code": "$*KwHjucaor-OX5-DhAAAAAEg0kd8$",
+                    "name": "1.9"
+                },
+                {
+                    "code": "$*KwEwahV7fDBEMDIAAAAA3AGacQ$",
+                    "name": "1.9 D"
+                },
+                {
+                    "code": "$*KwHjucaor-OX4uAAAAAA9LoQJQ$",
+                    "name": "1.9 D (DW8)"
+                },
+                {
+                    "code": "$*KwGH3aLMy4fzhIUAAAAA1dAQDQ$",
+                    "name": "1.9 D (XUD9)"
+                },
+                {
+                    "code": "$*KwHDmeaIj8O3x8PJAAAAACkAVME$",
+                    "name": "1.9 D 71 (DW8B)"
+                },
+                {
+                    "code": "$*KwFrMU4gJ2sfbGhsAAAAAHg14_8$",
+                    "name": "1.9 TD"
+                },
+                {
+                    "code": "$*KwH_pdq0s_-L-_36AAAAACJUXcQ$",
+                    "name": "2,5 L TD (DJ5TED)"
+                },
+                {
+                    "code": "$*KwGP1arEw4_7g4wAAAAAFMPbRw$",
+                    "name": "2.0 DT (DW10CD)"
+                },
+                {
+                    "code": "$*KwH7od6wt_uP__j-AAAAAJPdzSA$",
+                    "name": "2.0 DT (DW10CE)"
+                },
+                {
+                    "code": "$*KwH3rdK8u_eD8_D0AAAAADwUSb8$",
+                    "name": "2.0 HDI 110 (DW10TED)"
+                },
+                {
+                    "code": "$*KwHoss2jpOic7O_pAAAAANoMemE$",
+                    "name": "2.0 HDi (DW10BTED W3)"
+                },
+                {
+                    "code": "$*KwHwqtW7vPCE_PoAAAAAh1UeJA$",
+                    "name": "2.0 HDi (DW10BTED W4)"
+                },
+                {
+                    "code": "$*KwGcxrnX0Jzonp8AAAAANd0-IQ$",
+                    "name": "2.0 HDi (DW10BTED+)"
+                },
+                {
+                    "code": "$*KwGexLvV0p7qnp4AAAAACeX2bQ$",
+                    "name": "2.0 HDi 110"
+                },
+                {
+                    "code": "$*KwE-ZBt1cj5KPzwAAAAAlu9H_g$",
+                    "name": "2.0 HDi 110 (DW10ATED)"
+                },
+                {
+                    "code": "$*KwHvtcqko--b4-8AAAAAHO8oaA$",
+                    "name": "2.0 HDi 120"
+                },
+                {
+                    "code": "$*KwEBWyRKTQF1BQUFAAAAAFLYLxM$",
+                    "name": "2.0 HDi 120 particle emission filter"
+                },
+                {
+                    "code": "$*KwH8ptm3sPyI-Pz_AAAAABwIoHg$",
+                    "name": "2.0 HDi 138 particle emission filter"
+                },
+                {
+                    "code": "$*KwE3bRJ8ezdDNj0AAAAA4jvVZQ$",
+                    "name": "2.0 HDi 163 PEF"
+                },
+                {
+                    "code": "$*KwEhewRqbSFVJSsgAAAAAPjz6P0$",
+                    "name": "2.0 HDi 90"
+                },
+                {
+                    "code": "$*KwF8Jlk3MHwIeH58AAAAAH9O7r0$",
+                    "name": "2.0 i"
+                },
+                {
+                    "code": "$*KwFRC3QaHVElVVdVAAAAACaz_Bg$",
+                    "name": "2.0 i 16v 138"
+                },
+                {
+                    "code": "$*KwHjucaor-OX5-jhAAAAAIDtG9c$",
+                    "name": "2.0 i 16v 143"
+                },
+                {
+                    "code": "$*KwFoMk0jJGgcbGpvAAAAAIZhVuw$",
+                    "name": "2.2 HDI 100 PUMA"
+                },
+                {
+                    "code": "$*KwEyaBd5fjJGNDcAAAAAgzhTIA$",
+                    "name": "2.2 HDI 110 PUMA C"
+                },
+                {
+                    "code": "$*KwGXzbLc25fjlJ0AAAAAuBJWGQ$",
+                    "name": "2.2 HDI 120 PUMA"
+                },
+                {
+                    "code": "$*KwG37ZL8-7fDs7K0AAAAAIemFuM$",
+                    "name": "2.2 HDI 130 PUMA"
+                },
+                {
+                    "code": "$*KwEcRjlXUBxoGhcAAAAA8UYOpQ$",
+                    "name": "2.2 HDI 130 PUMA C"
+                },
+                {
+                    "code": "$*KwFDGWYID0M3R0VJAAAAALcjjro$",
+                    "name": "2.2 HDI 150 PUMA C"
+                },
+                {
+                    "code": "$*KwHXjfKcm9ej09LRAAAAADqKwV0$",
+                    "name": "2.2 HDi (DW12UTED)"
+                },
+                {
+                    "code": "$*KwFIEm0DBEg8TkgAAAAAp-XXew$",
+                    "name": "2.3 TD (SOFIM EURO5)"
+                },
+                {
+                    "code": "$*KwGH3aLMy4fzhIEAAAAA0r3UFA$",
+                    "name": "2.3 TD (SOFIM)"
+                },
+                {
+                    "code": "$*KwEtdwhmYS1ZKScmAAAAADrg5U0$",
+                    "name": "2.5 D (DJ5)"
+                },
+                {
+                    "code": "$*KwG44p3z9LjMvLy6AAAAAC51yZE$",
+                    "name": "2.5 D (DJ5T)"
+                },
+                {
+                    "code": "$*KwFWDHMdGlYiUldSAAAAACRp8XE$",
+                    "name": "2.5 D (SOFIM)"
+                },
+                {
+                    "code": "$*KwGXzbLc25fjlpwAAAAA_SMEDQ$",
+                    "name": "2.8 D (SOFIM)"
+                },
+                {
+                    "code": "$*KwFxK1Q6PXEFc3MAAAAA8qI7kA$",
+                    "name": "2.8 HDI (SOFIM)"
+                },
+                {
+                    "code": "$*KwFYAn0TFFgsW1sAAAAAIIK8og$",
+                    "name": "2.8 HDI 146 (SOFIM)"
+                },
+                {
+                    "code": "$*KwEMVilHQAx4DA8AAAAAyt7vNw$",
+                    "name": "2.8 TD (SOFIM)"
+                },
+                {
+                    "code": "$*KwHOlOuFgs66yczJAAAAABn_-fA$",
+                    "name": "2.8 TDE (SOFIM)"
+                },
+                {
+                    "code": "$*KwF3LVI8O3cDe3IAAAAAkDyIYA$",
+                    "name": "3.0 HDI 145 PEF EURO 5"
+                },
+                {
+                    "code": "$*KwFeBHsVEl4qWlpZAAAAAEpDEYU$",
+                    "name": "3.0 HDI 160"
+                },
+                {
+                    "code": "$*KwGF36DOyYXxgYWOAAAAAMbgK94$",
+                    "name": "3.0 HDI 160 PEF"
+                },
+                {
+                    "code": "$*KwF9J1g2MX0JeXZ8AAAAAIVzjJs$",
+                    "name": "3.0 HDI 160 PEF EURO 5"
+                },
+                {
+                    "code": "$*KwGu9Ivl4q7aqqukAAAAAOcPjuI$",
+                    "name": "3.0 HDi 175 FAP EURO 5"
+                },
+                {
+                    "code": "$*KwFPFWoEA087S0hEAAAAAPv5a8M$",
+                    "name": "ELECTRICAL"
+                },
+                {
+                    "code": "$*KwGSyLfZ3pLmAAAAADjLqII$",
+                    "name": "No"
+                },
+                {
+                    "code": "$*KwEwahV7fDBENDE6AAAAAB_0jRA$",
+                    "name": "SA18"
+                },
+                {
+                    "code": "$*KwH3rdK8u_eD8_b2AAAAAIRAjxU$",
+                    "name": "VENTURI ELECTRIC MOTOR"
+                }
+            ]
+        },
+        {
+            "name": "Трансмиссия",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwEhewRqbSZVJiAkAAAAAKwMl2Y$",
+                    "name": "4-SPEED AUTOMATIC GEARBOX"
+                },
+                {
+                    "code": "$*KwG64J_x9r3Ovbq6AAAAAK2A3AI$",
+                    "name": "4X4 5-speed manual gearbox"
+                },
+                {
+                    "code": "$*KwFsNkknIGsYa2xqAAAAANukxxQ$",
+                    "name": "Auto gearbox 4"
+                },
+                {
+                    "code": "$*KwFDGWYID0Q3RENIAAAAACYYe-M$",
+                    "name": "BVA AM6"
+                },
+                {
+                    "code": "$*KwENVyhGQQp5Cg0MAAAAANR-mH8$",
+                    "name": "Manual gearbox 4"
+                },
+                {
+                    "code": "$*KwGB26TKzYb1hoCCAAAAAMnUUUE$",
+                    "name": "Manual gearbox 5"
+                },
+                {
+                    "code": "$*KwGXzbLc25DjkJadAAAAAG6yF-U$",
+                    "name": "Manual gearbox 5 (With stop and start)"
+                },
+                {
+                    "code": "$*KwF6IF8xNn0OfXtxAAAAAGK0dOg$",
+                    "name": "Manual gearbox 6"
+                },
+                {
+                    "code": "$*KwGp84zi5a7dAAAAAE1rM3E$",
+                    "name": "No"
+                },
+                {
+                    "code": "$*KwHtt8imoeqZ6uzpAAAAALgwA30$",
+                    "name": "automatic gearbox with regulator"
+                },
+                {
+                    "code": "$*KwE3bRJ8ezBDMDcwAAAAAIWjOQs$",
+                    "name": "piloted manual gearbox 5"
+                },
+                {
+                    "code": "$*KwGexLvV0pnqmZ-YAAAAALGo9zw$",
+                    "name": "piloted manual gearbox 6 (With stop and start)"
+                }
+            ]
+        },
+        {
+            "name": "Тип кузова",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwE1bxB-eTNBNDE2AAAAAGa-vuY$",
+                    "name": "3 DOOR VAN"
+                },
+                {
+                    "code": "$*KwFFH2AOCUMxQ0BOAAAAAHauvnY$",
+                    "name": "BARE CHASSIS LWB TYPE 16"
+                },
+                {
+                    "code": "$*KwFfBXoUE1krWVVYAAAAAAT89Dw$",
+                    "name": "BARE CHASSIS LWB TYPE 16H"
+                },
+                {
+                    "code": "$*KwEwahV7fDZENzszAAAAABHBlsc$",
+                    "name": "BARE CHASSIS LWB TYPE 20H"
+                },
+                {
+                    "code": "$*KwE0bhF_eDJANTQ-AAAAACf2Kr8$",
+                    "name": "BARE CHASSIS MEDIUM TYPE 16"
+                },
+                {
+                    "code": "$*KwEbQT5QVx1vHB4RAAAAAN0BYgI$",
+                    "name": "BARE CHASSIS MEDIUM TYPE 16H"
+                },
+                {
+                    "code": "$*KwFlP0AuKWMRY2VjAAAAADGqKGE$",
+                    "name": "BARE CHASSIS MEDIUM TYPE 20H"
+                },
+                {
+                    "code": "$*KwHSiPeZntSm09nRAAAAAKmCZ0s$",
+                    "name": "BARE CHASSIS SWB TYPE 16"
+                },
+                {
+                    "code": "$*KwE-ZBt1cjhKOD06AAAAAN2J1Ac$",
+                    "name": "BARE COATCH TYPE 16"
+                },
+                {
+                    "code": "$*KwGN16jGwYv5i4-GAAAAAPJGLZk$",
+                    "name": "BARE COATCH TYPE 16H"
+                },
+                {
+                    "code": "$*KwHYgv2TlN6s39LSAAAAAP5tBOU$",
+                    "name": "BARE COATCH TYPE 20"
+                },
+                {
+                    "code": "$*KwEtdwhmYStZLCgtAAAAAKMhF0E$",
+                    "name": "BARE PLATFORM CAB TYPE 16H"
+                },
+                {
+                    "code": "$*KwEUTjFfWBJgEx8fAAAAAPNKob8$",
+                    "name": "BARE PLATFORM CAB TYPE 20H"
+                },
+                {
+                    "code": "$*KwHGnOONisCyx8XBAAAAAAF9BKg$",
+                    "name": "BARE PLATFORM LWB TYPE 16"
+                },
+                {
+                    "code": "$*KwGw6pX7_LbEtrO1AAAAAPnArjA$",
+                    "name": "BARE PLATFORM LWB TYPE 16H"
+                },
+                {
+                    "code": "$*KwEUTjFfWBJgEhEQAAAAAPy0-5c$",
+                    "name": "BARE PLATFORM LWB TYPE 20H"
+                },
+                {
+                    "code": "$*KwH0rtG_uPKA8vDwAAAAAOCQlBo$",
+                    "name": "CAB FLOOR - LONG TYPE 8"
+                },
+                {
+                    "code": "$*KwHLke6Ah82_zcvIAAAAAFZMiKA$",
+                    "name": "CAB FLOOR - LONG TYPE 9"
+                },
+                {
+                    "code": "$*KwHHneKMi8GzxsXNAAAAADovoK0$",
+                    "name": "CAB FLOOR - SHORT TYPE 9"
+                },
+                {
+                    "code": "$*KwHps8yipe-d7-_vAAAAAI1PFrQ$",
+                    "name": "CAB-MOT TYPE 14"
+                },
+                {
+                    "code": "$*KwEvdQpkYylbKCotAAAAAPBT2S0$",
+                    "name": "CAB-MOT TYPE 18"
+                },
+                {
+                    "code": "$*KwF0LlE_OHIAc3J1AAAAAGt3Fd0$",
+                    "name": "CHASSIS CAB EXTENDED TYPE 14"
+                },
+                {
+                    "code": "$*KwGI0q3DxI78iYiOAAAAAE_kbX8$",
+                    "name": "CHASSIS CAB EXTENDED TYPE 18"
+                },
+                {
+                    "code": "$*KwE_ZRp0czlLPjg0AAAAAHDt8-4$",
+                    "name": "CHASSIS CAB LWB TYPE 16"
+                },
+                {
+                    "code": "$*KwH4ot2ztP6M-fv-AAAAAGZWkdo$",
+                    "name": "CHASSIS CAB LWB TYPE 16H"
+                },
+                {
+                    "code": "$*KwG37ZL8-7HDsbCxAAAAAEk-oSA$",
+                    "name": "CHASSIS CAB LWB TYPE 20H"
+                },
+                {
+                    "code": "$*KwHlv8CuqeOR4-DvAAAAAI0S7fI$",
+                    "name": "CHASSIS CAB MED-LONG TYPE 12"
+                },
+                {
+                    "code": "$*KwHBm-SKjce1x8vBAAAAAAYPp2k$",
+                    "name": "CHASSIS CAB MED-LONG TYPE 20H"
+                },
+                {
+                    "code": "$*KwF9J1g2MXsJfHx3AAAAAGHFitI$",
+                    "name": "CHASSIS CAB MEDIUM TYPE 12"
+                },
+                {
+                    "code": "$*KwEsdglnYCpYLSguAAAAAAjMrtU$",
+                    "name": "CHASSIS CAB MEDIUM TYPE 16"
+                },
+                {
+                    "code": "$*KwGO1KvFwoj6iYiJAAAAAHtX9Io$",
+                    "name": "CHASSIS CAB MEDIUM TYPE 16H"
+                },
+                {
+                    "code": "$*KwFRC3QaHVclV1pWAAAAAIbQ8iE$",
+                    "name": "CHASSIS CAB MEDIUM TYPE 20H"
+                },
+                {
+                    "code": "$*KwE7YR5wdz1POjowAAAAAI4l9c0$",
+                    "name": "CHASSIS CAB SWB TYPE 12"
+                },
+                {
+                    "code": "$*KwHMlumHgMq4y8fGAAAAAIA9GFY$",
+                    "name": "CHASSIS CAB SWB TYPE 16"
+                },
+                {
+                    "code": "$*KwFfBXoUE1krWV9eAAAAABdwuYM$",
+                    "name": "DOUBLE CHASSIS CAB LWB TYPE 16"
+                },
+                {
+                    "code": "$*KwFzKVY4P3UHdHd5AAAAAIMINXk$",
+                    "name": "DOUBLE CHASSIS CAB LWB TYPE 16H"
+                },
+                {
+                    "code": "$*KwGO1KvFwoj6iYSKAAAAAE7r6jw$",
+                    "name": "DOUBLE CHASSIS CAB LWB TYPE 20H"
+                },
+                {
+                    "code": "$*KwH8ptm3sPqI_fj4AAAAAG-Lx5Q$",
+                    "name": "DOUBLE CHASSIS CAB MEDIUM TYPE 16"
+                },
+                {
+                    "code": "$*KwEZQzxSVR9tHh0ZAAAAAJ0-aa8$",
+                    "name": "DOUBLE CHASSIS CAB MEDIUM TYPE 16H"
+                },
+                {
+                    "code": "$*KwHstsmnoOqY7ersAAAAAJUJ7Vg$",
+                    "name": "DOUBLE CHASSIS CAB MEDIUM TYPE 20H"
+                },
+                {
+                    "code": "$*KwGH3aLMy4HzhoyGAAAAAPW7_7I$",
+                    "name": "ESTATE VAN"
+                },
+                {
+                    "code": "$*KwHKkO-Bhsy-y8DOAAAAAGtwCvU$",
+                    "name": "EXTENDED BARE CHASSIS TYPE 16"
+                },
+                {
+                    "code": "$*KwFUDnEfGFIgUlVXAAAAAI84lu4$",
+                    "name": "EXTENDED BARE CHASSIS TYPE 16H"
+                },
+                {
+                    "code": "$*KwGm_IPt6qDSoaKhAAAAAIf3zew$",
+                    "name": "EXTENDED BARE CHASSIS TYPE 20H"
+                },
+                {
+                    "code": "$*KwEBWyRKTQd1BwYCAAAAAGtVyL0$",
+                    "name": "EXTENDED BARE PLATFORM CAB TYPE 16H"
+                },
+                {
+                    "code": "$*KwF1L1A-OXMBdHd0AAAAAFduRZI$",
+                    "name": "EXTENDED BARE PLATFORM CAB TYPE 20H"
+                },
+                {
+                    "code": "$*KwG07pH_-LLAtbe-AAAAAMSiBIE$",
+                    "name": "EXTENDED CHASSIS CAB TYPE 16"
+                },
+                {
+                    "code": "$*KwHWjPOdmtCi0dLUAAAAAPUClgU$",
+                    "name": "EXTENDED CHASSIS CAB TYPE 16H"
+                },
+                {
+                    "code": "$*KwH2rNO9uvCC8PfzAAAAAFMRgzs$",
+                    "name": "EXTENDED CHASSIS CAB TYPE 20H"
+                },
+                {
+                    "code": "$*KwEyaBd5fjRGMzk4AAAAANVhgSM$",
+                    "name": "EXTENDED DOUBLE CHASSIS CAB TYPE 16H"
+                },
+                {
+                    "code": "$*KwFbAX4QF10vWl5YAAAAACnUm8o$",
+                    "name": "EXTENDED DOUBLE CHASSIS CAB TYPE 20H"
+                },
+                {
+                    "code": "$*KwFgOkUrLGYUZmtlAAAAAL896Ew$",
+                    "name": "EXTENDED GLAZED VAN H2 TYPE 16H"
+                },
+                {
+                    "code": "$*KwEOVCtFQgh6CAsOAAAAAAelJSA$",
+                    "name": "EXTENDED GLAZED VAN H2 TYPE 20H"
+                },
+                {
+                    "code": "$*KwEtdwhmYStZKywpAAAAAMVvANk$",
+                    "name": "EXTENDED PLATFORM CAB TYPE 16"
+                },
+                {
+                    "code": "$*KwGexLvV0pjqn5yYAAAAAKNo8f0$",
+                    "name": "EXTENDED PLATFORM CAB TYPE 16H"
+                },
+                {
+                    "code": "$*KwF5I1wyNX8NfnN5AAAAAM77ZxA$",
+                    "name": "EXTENDED PLATFORM CAB TYPE 20H"
+                },
+                {
+                    "code": "$*KwF5I1wyNX8NeHl-AAAAAK79Zos$",
+                    "name": "EXTENDED STRIPPED CHASSIS TYPE 14"
+                },
+                {
+                    "code": "$*KwHNl-iGgcu5y8vPAAAAAGZybec$",
+                    "name": "EXTENDED STRIPPED CHASSIS TYPE 18"
+                },
+                {
+                    "code": "$*KwH6oN-xtvyO_PzwAAAAAK4p7MM$",
+                    "name": "EXTENDED VAN H2 TYPE 16H"
+                },
+                {
+                    "code": "$*KwGO1KvFwoj6iImKAAAAAPqH_kY$",
+                    "name": "EXTENDED VAN H2 TYPE 20H"
+                },
+                {
+                    "code": "$*KwH9p9i2sfuJ-__-AAAAAP4CCs0$",
+                    "name": "EXTENDED VAN H2 TYPE 20H"
+                },
+                {
+                    "code": "$*KwE8Zhl3cDpIOzg6AAAAAMT1mik$",
+                    "name": "EXTENDED VAN H3 TYPE 16H"
+                },
+                {
+                    "code": "$*KwFIEm0DBE48SU1PAAAAAARp6Y8$",
+                    "name": "GLAZED VAN LWB H2 TYPE 14"
+                },
+                {
+                    "code": "$*KwFkPkEvKGIQZWRhAAAAAPEUhqc$",
+                    "name": "GLAZED VAN LWB H2 TYPE 16"
+                },
+                {
+                    "code": "$*KwFSCHcZHlQmVFZZAAAAAO33mM4$",
+                    "name": "GLAZED VAN LWB H2 TYPE 16H"
+                },
+                {
+                    "code": "$*KwEmfANtaiBSICUmAAAAAJ9p2UI$",
+                    "name": "GLAZED VAN LWB H2 TYPE 20H"
+                },
+                {
+                    "code": "$*KwEwahV7fDZENjoyAAAAAH4f_Sc$",
+                    "name": "GLAZED VAN LWB H3 TYPE 14"
+                },
+                {
+                    "code": "$*KwF_JVo0M3kLfnp0AAAAAMtfrLI$",
+                    "name": "GLAZED VAN LWB H3 TYPE 16"
+                },
+                {
+                    "code": "$*KwGt94jm4avZq6ioAAAAAB59iLY$",
+                    "name": "GLAZED VAN LWB H3 TYPE 16H"
+                },
+                {
+                    "code": "$*KwG_5Zr087nLvri_AAAAAC9GV5s$",
+                    "name": "GLAZED VAN LWB H3 TYPE 20H"
+                },
+                {
+                    "code": "$*KwHbgf6Ql92v3dnaAAAAAEWtB1k$",
+                    "name": "GLAZED VAN MEDIUM H1 TYPE 12"
+                },
+                {
+                    "code": "$*KwHIku2DhM68ycvDAAAAAJP8f98$",
+                    "name": "GLAZED VAN MEDIUM H1 TYPE 14"
+                },
+                {
+                    "code": "$*KwGawL_R1pzum5ueAAAAAM7ZYrc$",
+                    "name": "GLAZED VAN MEDIUM H1 TYPE 16"
+                },
+                {
+                    "code": "$*KwELUS5ARw1_DQ8OAAAAAJq-qLI$",
+                    "name": "GLAZED VAN MEDIUM H2 TYPE 14"
+                },
+                {
+                    "code": "$*KwHstsmnoOqY7e3vAAAAAENBKiU$",
+                    "name": "GLAZED VAN MEDIUM H2 TYPE 16"
+                },
+                {
+                    "code": "$*KwFpM0wiJW8daG9tAAAAAK53HOA$",
+                    "name": "GLAZED VAN MEDIUM H2 TYPE 16H"
+                },
+                {
+                    "code": "$*KwEOVCtFQgh6DwgMAAAAAMfJAUo$",
+                    "name": "GLAZED VAN MEDIUM H2 TYPE 20H"
+                },
+                {
+                    "code": "$*KwFZA3wSFV8tX1teAAAAAN1GDGM$",
+                    "name": "GLAZED VAN SWB H1 TYPE 12"
+                },
+                {
+                    "code": "$*KwGv9Yrk46nbqKmlAAAAAB3cfyE$",
+                    "name": "GLAZED VAN SWB H1 TYPE 14"
+                },
+                {
+                    "code": "$*KwH7od6wt_2P_P76AAAAAE_s5UY$",
+                    "name": "GLAZED VAN SWB H1 TYPE 16"
+                },
+                {
+                    "code": "$*KwG85pn38LrIuri6AAAAAA1OjeM$",
+                    "name": "LONG CHASSIS CAB TYPE 14"
+                },
+                {
+                    "code": "$*KwEQSjVbXBZkFxQUAAAAAEz_AUQ$",
+                    "name": "LONG CHASSIS CAB TYPE 18"
+                },
+                {
+                    "code": "$*KwGTybbY35XnkpeSAAAAABVozo8$",
+                    "name": "LONG CHASSIS DOUBLE-CAB TYPE 14"
+                },
+                {
+                    "code": "$*KwHjucaor-WX5OniAAAAAI35MNU$",
+                    "name": "LONG CHASSIS DOUBLE-CAB TYPE 18"
+                },
+                {
+                    "code": "$*KwGn_YLs66HTpqalAAAAANKfWG0$",
+                    "name": "LONG FLOOR CAB HIGH ROOF TYPE 18"
+                },
+                {
+                    "code": "$*KwGt94jm4avZq6mvAAAAAJkCLFQ$",
+                    "name": "LONG FLOOR CAB STANDARD ROOF TYPE 14"
+                },
+                {
+                    "code": "$*KwHVj_CemdOh09_fAAAAAIGRY4U$",
+                    "name": "LONG GLAZED VAN H1 TYPE 10"
+                },
+                {
+                    "code": "$*KwH5o9yytf-N-Pv7AAAAACTYjXs$",
+                    "name": "LONG GLAZED VAN H1 TYPE 12"
+                },
+                {
+                    "code": "$*KwH4ot2ztP6M__37AAAAAETrvmE$",
+                    "name": "LONG GLAZED VAN H2 TYPE 12"
+                },
+                {
+                    "code": "$*KwELUS5ARw1_CgELAAAAAHEYZzY$",
+                    "name": "LONG PANEL VAN H1 TYPE 12"
+                },
+                {
+                    "code": "$*KwF-JFs1MngKeH98AAAAAI9YLm4$",
+                    "name": "LONG PANEL VAN H2 TYPE 12"
+                },
+                {
+                    "code": "$*KwFpM0wiJW8db2tsAAAAALhT__c$",
+                    "name": "LONG PANELLED VAN HIGH SIDE ROOF SUR TYPE 14"
+                },
+                {
+                    "code": "$*KwERSzRaXRdlFxYTAAAAANOLdHw$",
+                    "name": "LONG PANELLED VAN HIGH SIDE ROOF SUR TYPE 18"
+                },
+                {
+                    "code": "$*KwHlv8CuqeOR5OXkAAAAAGL41ro$",
+                    "name": "LONG PLATFORM CAB HIGH ROOF TYPE 14"
+                },
+                {
+                    "code": "$*KwGP1arEw4n7j42NAAAAADbmOn0$",
+                    "name": "LONG PLATFORM CAB TYPE 12"
+                },
+                {
+                    "code": "$*KwHehPuVktiq2dXcAAAAAPjOz8E$",
+                    "name": "LONG SEMI-GLAZED VAN H1 TYPE 10"
+                },
+                {
+                    "code": "$*KwHhu8SqreeV5-brAAAAABe2LtU$",
+                    "name": "LONG STRIPPED CHASSIS TYPE 14"
+                },
+                {
+                    "code": "$*KwGZw7zS1Z_tn5udAAAAAAWyHfo$",
+                    "name": "LONG STRIPPED CHASSIS TYPE 18"
+                },
+                {
+                    "code": "$*KwF5I1wyNX8NeH9_AAAAAI-g8Zs$",
+                    "name": "LONG WINDOW VAN HIGH SIDE TYPE 14"
+                },
+                {
+                    "code": "$*KwHchvmXkNqo2t3XAAAAAMPOJio$",
+                    "name": "MED-LONG WHEELBASE BARE CHASSIS TYPE 14"
+                },
+                {
+                    "code": "$*KwF5I1wyNX8NfnN-AAAAAFCf8rM$",
+                    "name": "MED-LONG WHEELBASE BARE CHASSIS TYPE 16"
+                },
+                {
+                    "code": "$*KwEudAtlYihaKSUqAAAAANtLuG8$",
+                    "name": "MED-LONG WHEELBASE BARE CHASSIS TYPE 16H"
+                },
+                {
+                    "code": "$*KwHSiPeZntSm09nSAAAAADCLNvE$",
+                    "name": "MED-LONG WHEELBASE CHASSIS CAB TYPE 14"
+                },
+                {
+                    "code": "$*KwFtN0gmIWsZbGpnAAAAAPhGoQM$",
+                    "name": "MED-LONG WHEELBASE CHASSIS CAB TYPE 16H"
+                },
+                {
+                    "code": "$*KwHfhfqUk9mr3tvZAAAAACBOglw$",
+                    "name": "MEDIUM CAB FLOOR STANDARD ROOF TYPE 10"
+                },
+                {
+                    "code": "$*KwGYwr3T1J7snpuTAAAAANDu2NM$",
+                    "name": "MEDIUM CAB FLOOR STANDARD ROOF TYPE 8"
+                },
+                {
+                    "code": "$*KwFGHGMNCkAyQEJFAAAAAIRnPQ4$",
+                    "name": "MEDIUM CHASSIS CAB TYPE 10"
+                },
+                {
+                    "code": "$*KwH_pdq0s_mL_vz-AAAAALWpn9c$",
+                    "name": "MEDIUM CHASSIS CAB TYPE 14"
+                },
+                {
+                    "code": "$*KwEieAdpbiRWJCAgAAAAAMDuKIo$",
+                    "name": "MEDIUM CHASSIS CAB TYPE 18"
+                },
+                {
+                    "code": "$*KwE6YB9xdjxOPT4_AAAAAEyfucQ$",
+                    "name": "MEDIUM CHASSIS DOUBLE-CAB TYPE 14"
+                },
+                {
+                    "code": "$*KwHLke6Ah82_zc_LAAAAAKspHB4$",
+                    "name": "MEDIUM CHASSIS DOUBLE-CAB TYPE 18"
+                },
+                {
+                    "code": "$*KwGM1qnHwIr4ioeNAAAAAJ-pljc$",
+                    "name": "MEDIUM FLOOR CAB HIGH ROOF TYPE 14"
+                },
+                {
+                    "code": "$*KwGu9Ivl4qjaqaurAAAAAPq22Io$",
+                    "name": "MEDIUM FLOOR CAB HIGH ROOF TYPE 18"
+                },
+                {
+                    "code": "$*KwGr8Y7g563frKGoAAAAAGAnKSw$",
+                    "name": "MEDIUM FLOOR CAB HIGH ROOF TYPE 8"
+                },
+                {
+                    "code": "$*KwEYQj1TVB5sHx8cAAAAAO2GF4w$",
+                    "name": "MEDIUM PANELLED VAN HIGH SIDE ROOF SUR TYPE 10"
+                },
+                {
+                    "code": "$*KwH7od6wt_2P_Pz9AAAAAOO-Emc$",
+                    "name": "MEDIUM PANELLED VAN HIGH SIDE ROOF SUR TYPE 14"
+                },
+                {
+                    "code": "$*KwHhu8SqreeV5-vqAAAAANUfYA4$",
+                    "name": "MEDIUM PANELLED VAN HIGH SIDE ROOF SUR TYPE 18"
+                },
+                {
+                    "code": "$*KwG85pn38LrIur28AAAAAJla3JM$",
+                    "name": "MEDIUM PANELLED VAN STANDARD SIDE TYPE 8"
+                },
+                {
+                    "code": "$*KwFXDXIcG1EjVlBTAAAAAKdAiEU$",
+                    "name": "MEDIUM PANELLED VAN STD SIDE STD ROOF TYPE 18"
+                },
+                {
+                    "code": "$*KwHGnOONisCywcHDAAAAAI-S3DI$",
+                    "name": "MEDIUM PANELLED VAN STD SIDE TYPE 10"
+                },
+                {
+                    "code": "$*KwHdh_iWkdup3NndAAAAAHDc9Js$",
+                    "name": "MEDIUM PLATFORM CAB TYPE 10"
+                },
+                {
+                    "code": "$*KwG545zy9b_Nv7m8AAAAAARBUQE$",
+                    "name": "MEDIUM STRIPPED CHASSIS TYPE 14"
+                },
+                {
+                    "code": "$*KwEYQj1TVB5sHhgaAAAAAEpmTkk$",
+                    "name": "MEDIUM STRIPPED CHASSIS TYPE 18"
+                },
+                {
+                    "code": "$*KwHchvmXkNqo2trfAAAAAIJUON8$",
+                    "name": "MEDIUM WINDOW VAN STD SIDE STD ROOF TYPE 18"
+                },
+                {
+                    "code": "$*KwGfxbrU05nrmJmdAAAAAJgcZas$",
+                    "name": "MEDIUM-LONG CHASSIS CAB TYPE 16"
+                },
+                {
+                    "code": "$*KwHvtcqko-mb6OnsAAAAAO2E-ls$",
+                    "name": "MEDIUM-LONG PLATFORM CAB TYPE 14"
+                },
+                {
+                    "code": "$*KwGJ06zCxY_9j4KLAAAAAPLKj9E$",
+                    "name": "MIXED VAN - SHORT TYPE 800"
+                },
+                {
+                    "code": "$*KwHHneKMi8GzxszDAAAAAAxVNuM$",
+                    "name": "MOTOR CAB TYPE 16"
+                },
+                {
+                    "code": "$*KwFQCnUbHFYkVlJaAAAAAHVb3Cw$",
+                    "name": "MOTOR CAB TYPE 16H"
+                },
+                {
+                    "code": "$*KwFuNEslImgaaGtoAAAAACOAoyQ$",
+                    "name": "MOTOR CAB TYPE 20H"
+                },
+                {
+                    "code": "$*KwHkvsGvqOKQ4u7nAAAAAC-uoGA$",
+                    "name": "MOTOR CAB TYPE 20H"
+                },
+                {
+                    "code": "$*KwERSzRaXRdlEBsaAAAAABq2pBA$",
+                    "name": "PANELLED VAN - LONG HIGH SIDE STD ROOF TYPE 14"
+                },
+                {
+                    "code": "$*KwHbgf6Ql92v3dHdAAAAABMQGPI$",
+                    "name": "PANELLED VAN - LONG HIGH SIDE STD ROOF TYPE 18"
+                },
+                {
+                    "code": "$*KwEQSjVbXBZkERMTAAAAAJlXfpI$",
+                    "name": "PANELLED VAN - LONG TYPE 800"
+                },
+                {
+                    "code": "$*KwEocg1jZC5cKSwjAAAAANmCt9Q$",
+                    "name": "PANELLED VAN - LONG TYPE 900"
+                },
+                {
+                    "code": "$*KwHkvsGvqOKQ5eTvAAAAAN7V1l0$",
+                    "name": "PANELLED VAN - MEDIUM HIGH SIDE STD ROOF TYPE 14"
+                },
+                {
+                    "code": "$*KwG_5Zr087nLvrS4AAAAAB2XjTQ$",
+                    "name": "PANELLED VAN - MEDIUM HIGH SIDE STD ROOF TYPE 18"
+                },
+                {
+                    "code": "$*KwG545zy9b_Nvr66AAAAAKOhCMQ$",
+                    "name": "PANELLED VAN - MEDIUM STD SIDE STD ROOD TYPE 14"
+                },
+                {
+                    "code": "$*KwELUS5ARw1_CgoLAAAAAJLsvv0$",
+                    "name": "PANELLED VAN - SHORT STD SIDE STD ROOF TYPE 10"
+                },
+                {
+                    "code": "$*KwHwqtW7vPaE8fb1AAAAAAh8cS4$",
+                    "name": "PANELLED VAN - SHORT STD SIDE STD ROOF TYPE 14"
+                },
+                {
+                    "code": "$*KwElfwBuaSNRJCAjAAAAAMAW938$",
+                    "name": "PANELLED VAN - SHORT STD SIDE STD ROOF TYPE 18"
+                },
+                {
+                    "code": "$*KwHfhfqUk9mr2d7VAAAAAFHALLc$",
+                    "name": "PANELLED VAN MEDIUM HIGH SIDE STD ROOF TYPE 10"
+                },
+                {
+                    "code": "$*KwEudAtlYihaKSslAAAAANV3iHA$",
+                    "name": "PANELLED VAN SHORT STD SIDE HEIGTNING ROOF TYPE 8"
+                },
+                {
+                    "code": "$*KwGQyrXb3JbklpeQAAAAAKkEgVQ$",
+                    "name": "PANELLED-VAN STD SIDES HIGH ROOF TYPE 14"
+                },
+                {
+                    "code": "$*KwE1bxB-eTNBMzE_AAAAABotEMc$",
+                    "name": "PANELLED-VAN STD SIDES HIGH ROOF TYPE 18"
+                },
+                {
+                    "code": "$*KwFMFmkHAEo4TU9OAAAAAIrLGyM$",
+                    "name": "PICK UP"
+                },
+                {
+                    "code": "$*KwGSyLfZ3pTmk5iQAAAAAE4aW0I$",
+                    "name": "PLATFORM CAB LWB TYPE 14"
+                },
+                {
+                    "code": "$*KwEvdQpkYylbLi8tAAAAAImpUdo$",
+                    "name": "PLATFORM CAB LWB TYPE 16"
+                },
+                {
+                    "code": "$*KwGk_oHv6KLQpaWjAAAAAEf8luk$",
+                    "name": "PLATFORM CAB LWB TYPE 16H"
+                },
+                {
+                    "code": "$*KwEieAdpbiRWIycgAAAAAIrgqMg$",
+                    "name": "PLATFORM CAB LWB TYPE 20H"
+                },
+                {
+                    "code": "$*KwFKEG8BBkw-TExKAAAAAA2e6pg$",
+                    "name": "PLATFORM CAB MEDIUM TYPE 12"
+                },
+                {
+                    "code": "$*KwHoss2jpO6c6evoAAAAAEDsuLg$",
+                    "name": "PLATFORM CAB MEDIUM TYPE 14"
+                },
+                {
+                    "code": "$*KwGRy7Ta3Zfll5eQAAAAAJvgaXo$",
+                    "name": "PLATFORM CAB MEDIUM TYPE 16"
+                },
+                {
+                    "code": "$*KwEgegVrbCZUJiokAAAAAFil1EU$",
+                    "name": "PLATFORM CAB MEDIUM TYPE 16H"
+                },
+                {
+                    "code": "$*KwFyKFc5PnQGdXRyAAAAAA0TVxw$",
+                    "name": "PLATFORM CAB MEDIUM TYPE 20H"
+                },
+                {
+                    "code": "$*KwFsNkknIGoYamdsAAAAAO2R-G0$",
+                    "name": "PLATFORM CAB SWB TYPE 16"
+                },
+                {
+                    "code": "$*KwGRy7Ta3Zfll5KWAAAAAA_0OAo$",
+                    "name": "SEMI-GLAZED VAN LWB H2 TYPE 14"
+                },
+                {
+                    "code": "$*KwEjeQZobyVXJCYlAAAAANX4-Zo$",
+                    "name": "SEMI-GLAZED VAN LWB H2 TYPE 16"
+                },
+                {
+                    "code": "$*KwFfBXoUE1krXlleAAAAAERlCIA$",
+                    "name": "SEMI-GLAZED VAN LWB H2 TYPE 16H"
+                },
+                {
+                    "code": "$*KwEocg1jZC5cLi0vAAAAAMxg3Ds$",
+                    "name": "SEMI-GLAZED VAN LWB H2 TYPE 20H"
+                },
+                {
+                    "code": "$*KwEIUi1DRA58Dw8JAAAAAFI1b1Q$",
+                    "name": "SEMI-GLAZED VAN MEDIUM H2 TYPE 14"
+                },
+                {
+                    "code": "$*KwHutMulouia6OnpAAAAAK7IjM0$",
+                    "name": "SEMI-GLAZED VAN MEDIUM H2 TYPE 16"
+                },
+                {
+                    "code": "$*KwEXTTJcWxFjFhcXAAAAAGbo50U$",
+                    "name": "SEMI-GLAZED VAN MEDIUM H2 TYPE 16H"
+                },
+                {
+                    "code": "$*KwGn_YLs66HToKOsAAAAANK5aD4$",
+                    "name": "SEMI-GLAZED VAN MEDIUM H2 TYPE 20H"
+                },
+                {
+                    "code": "$*KwG64J_x9rzOu727AAAAAKwrL1E$",
+                    "name": "SEMI-GLAZED VAN SWB H1 TYPE 12"
+                },
+                {
+                    "code": "$*KwEtdwhmYStZLCsuAAAAABEFFTg$",
+                    "name": "SEMI-GLAZED VAN SWB H1 TYPE 14"
+                },
+                {
+                    "code": "$*KwEDWSZITwV3AggIAAAAAHWFyvQ$",
+                    "name": "SEMI-GLAZED VAN SWB H1 TYPE 16"
+                },
+                {
+                    "code": "$*KwE0bhF_eDJANTAxAAAAANMl8io$",
+                    "name": "SHORT CAB FLOOR STANDARD ROOF TYPE 10"
+                },
+                {
+                    "code": "$*KwGh-4Tq7afVp6KnAAAAAPPomiQ$",
+                    "name": "SHORT CAB FLOOR STANDARD ROOF TYPE 14"
+                },
+                {
+                    "code": "$*KwG27JP9-rDCt72zAAAAACU1QOo$",
+                    "name": "SHORT CAB FLOOR STANDARD ROOF TYPE 18"
+                },
+                {
+                    "code": "$*KwHiuMepruSW4-jhAAAAADuCxLI$",
+                    "name": "SHORT CAB FLOOR STANDARD ROOF TYPE 8"
+                },
+                {
+                    "code": "$*KwHDmeaIj8W3xMXIAAAAAIVbiCg$",
+                    "name": "SHORT CHASSIS CAB TYPE 10"
+                },
+                {
+                    "code": "$*KwEAWiVLTAZ0BgYFAAAAAMfVtTA$",
+                    "name": "SHORT CHASSIS CAB TYPE 14"
+                },
+                {
+                    "code": "$*KwESSDdZXhRmExkQAAAAAJ94F_4$",
+                    "name": "SHORT CHASSIS CAB TYPE 18"
+                },
+                {
+                    "code": "$*KwEBWyRKTQd1BgYDAAAAAB2Qkhw$",
+                    "name": "SHORT CHASSIS CAB TYPE 8"
+                },
+                {
+                    "code": "$*KwEQSjVbXBZkFhsWAAAAACSrFpA$",
+                    "name": "SHORT FLOOR CAB UNIT '765'"
+                },
+                {
+                    "code": "$*KwG44p3z9L7Mub6yAAAAAJsTFGo$",
+                    "name": "SHORT GLAZED VAN H1 TYPE 10"
+                },
+                {
+                    "code": "$*KwE8Zhl3cDpIOzk7AAAAAKrpm_4$",
+                    "name": "SHORT H2 GLAZED VAN TYPE 14"
+                },
+                {
+                    "code": "$*KwGo8o3j5K7crqioAAAAAOcKwCA$",
+                    "name": "SHORT PANEL VAN H1 TYPE 10"
+                },
+                {
+                    "code": "$*KwEIUi1DRA58CQoDAAAAAMsaDr0$",
+                    "name": "SHORT PANEL VAN H1 TYPE 12"
+                },
+                {
+                    "code": "$*KwHZg_ySld-t3tPcAAAAADIq8I0$",
+                    "name": "SHORT PANELLED-VAN STD SIDES HIGH ROOF TYPE 10"
+                },
+                {
+                    "code": "$*KwGo8o3j5K7cqaKvAAAAAIbOq4w$",
+                    "name": "SHORT PLATFORM CAB TYPE 10"
+                },
+                {
+                    "code": "$*KwHXjfKcm9Gj1tbRAAAAANdtMxI$",
+                    "name": "SHORT PLATFORM CAB TYPE 14"
+                },
+                {
+                    "code": "$*KwFoMk0jJG4cbm1pAAAAAKyHRNA$",
+                    "name": "SHORT SEMI-GLAZED VAN H1 TYPE 10"
+                },
+                {
+                    "code": "$*KwF7IV4wN30PfXh5AAAAAEkEBLA$",
+                    "name": "SHORT STRIPPED CHASSIS TYPE 14"
+                },
+                {
+                    "code": "$*KwGG3KPNyoDygYKFAAAAAMRYFxo$",
+                    "name": "SHORT VAN '475'"
+                },
+                {
+                    "code": "$*KwEyaBd5fjRGMzU3AAAAAOlr074$",
+                    "name": "SHORT VAN '500'"
+                },
+                {
+                    "code": "$*KwGk_oHv6KLQpaOnAAAAABbL9XY$",
+                    "name": "SHORT VAN '600'"
+                },
+                {
+                    "code": "$*KwHPleqEg8m7zsvFAAAAAOYhQiA$",
+                    "name": "SHORT VAN '800'"
+                },
+                {
+                    "code": "$*KwFHHWIMC0EzRkVHAAAAABKDNE4$",
+                    "name": "SHORT VAN H2 TYPE 12"
+                },
+                {
+                    "code": "$*KwE5YxxydT9NODo8AAAAAOJaabo$",
+                    "name": "SHORT VAN H2 TYPE 14"
+                },
+                {
+                    "code": "$*KwEJUyxCRQ99DwkCAAAAAKCbk0M$",
+                    "name": "SHORT VAN H2 TYPE 16"
+                },
+                {
+                    "code": "$*KwFwKlU7PHYEdnd1AAAAANxRKxc$",
+                    "name": "SHORT WIND VAN STD SIDES HIGH ROOF TYPE 10"
+                },
+                {
+                    "code": "$*KwFgOkUrLGYUZ2thAAAAALmSRmI$",
+                    "name": "SHORT WIND VAN STD SIDES HIGH ROOF TYPE 14"
+                },
+                {
+                    "code": "$*KwG74Z7w973PurC9AAAAAMICHAc$",
+                    "name": "SHORT WINDOW VAN STD SIDE STD ROOF TYPE 18"
+                },
+                {
+                    "code": "$*KwElfwBuaSNRJC8jAAAAAEeO67A$",
+                    "name": "STD ROOF LONG FLOOR CAB TYPE 18"
+                },
+                {
+                    "code": "$*KwH-pNu1sviK-PX9AAAAAMrJi48$",
+                    "name": "STD ROOF MEDIUM FLOOR CAB TYPE 14"
+                },
+                {
+                    "code": "$*KwFNF2gGAUs5S0tGAAAAANfXqL4$",
+                    "name": "STD ROOF MEDIUM FLOOR CAB TYPE 18"
+                },
+                {
+                    "code": "$*KwGM1qnHwIr4io2NAAAAAGVGfr0$",
+                    "name": "STRIPPED MOT TYPE 14"
+                },
+                {
+                    "code": "$*KwFmPEMtKmASZ2xsAAAAACK1oE4$",
+                    "name": "STRIPPED MOT TYPE 18"
+                },
+                {
+                    "code": "$*KwHtt8imoeuZ6-vpAAAAAMvT1j0$",
+                    "name": "TYPE 14 EXTENDED DOUBLE CAB CHASSIS"
+                },
+                {
+                    "code": "$*KwHYgv2TlN6s3tvSAAAAAC5t1Zs$",
+                    "name": "TYPE 18 EXTENTED DOUBLE CAB CHASSIS"
+                },
+                {
+                    "code": "$*KwF1L1A-OXMBcnJ_AAAAALlGFO0$",
+                    "name": "TYPE 18 PLATFORM CAB"
+                },
+                {
+                    "code": "$*KwEAWiVLTAZ0BwsHAAAAAJ23wGY$",
+                    "name": "TYPE 6 SHORT PLATFORM CAB"
+                },
+                {
+                    "code": "$*KwGawL_R1pzunJydAAAAAB3es08$",
+                    "name": "TYPE 8 H1 LONG VAN"
+                },
+                {
+                    "code": "$*KwGawL_R1pzum52YAAAAAHHgYAQ$",
+                    "name": "TYPE 8 PLATFORM CAB"
+                },
+                {
+                    "code": "$*KwFrMU4gJ20fam5qAAAAAEzBaF4$",
+                    "name": "TYPE 800 SHORT SIDE WINDOW VAN"
+                },
+                {
+                    "code": "$*KwEUTjFfWBJgFRQQAAAAAISMGVc$",
+                    "name": "TYPE 800 VAN SHORT"
+                },
+                {
+                    "code": "$*KwGfxbrU05nrmJqfAAAAAF0_V0Q$",
+                    "name": "TYPE 800 VAN SHORT"
+                },
+                {
+                    "code": "$*KwHCmOeJjsS2w8HGAAAAADDm9Lc$",
+                    "name": "TYPE 900 SHORT SIDE WINDOW VAN"
+                },
+                {
+                    "code": "$*KwEEXiFPSAJwAwMDAAAAAJmQLs8$",
+                    "name": "TYPE 900 VAN SHORT"
+                },
+                {
+                    "code": "$*KwEOVCtFQgh6CAkFAAAAAKJBnio$",
+                    "name": "VAN"
+                },
+                {
+                    "code": "$*KwFnPUIsK2ETYWNmAAAAAHJTqzQ$",
+                    "name": "VAN LONG WHEELBASE H2 TYPE 14"
+                },
+                {
+                    "code": "$*KwEUTjFfWBJgFRUVAAAAAO393Jk$",
+                    "name": "VAN LONG WHEELBASE H2 TYPE 16"
+                },
+                {
+                    "code": "$*KwEmfANtaiBSJyQiAAAAAIRQOp8$",
+                    "name": "VAN LONG WHEELBASE H2 TYPE 16H"
+                },
+                {
+                    "code": "$*KwFOFGsFAkg6SUlFAAAAACoHycM$",
+                    "name": "VAN LONG WHEELBASE H2 TYPE 20H"
+                },
+                {
+                    "code": "$*KwEEXiFPSAJwAw4CAAAAAFs5YBQ$",
+                    "name": "VAN LONG WHEELBASE H3 TYPE 14"
+                },
+                {
+                    "code": "$*KwE0bhF_eDJANTY3AAAAAGwc8Jk$",
+                    "name": "VAN LONG WHEELBASE H3 TYPE 16"
+                },
+                {
+                    "code": "$*KwEBWyRKTQd1AAYHAAAAAB5wKrc$",
+                    "name": "VAN LONG WHEELBASE H3 TYPE 16H"
+                },
+                {
+                    "code": "$*KwEKUC9BRgx-DAsNAAAAAFU_1CI$",
+                    "name": "VAN LONG WHEELBASE H3 TYPE 20H"
+                },
+                {
+                    "code": "$*KwE_ZRp0czlLPjs4AAAAAFJ27AY$",
+                    "name": "VAN MEDIUM H1 TYPE 14"
+                },
+                {
+                    "code": "$*KwEkfgFvaCJQIi8uAAAAAA6UaaY$",
+                    "name": "VAN MEDIUM H1 TYPE 16"
+                },
+                {
+                    "code": "$*KwE-ZBt1cjhKOTQ8AAAAAOTqoEw$",
+                    "name": "VAN MEDIUM H1 TYPE 16H"
+                },
+                {
+                    "code": "$*KwFxK1Q6PXcFcHd2AAAAAHLzhAY$",
+                    "name": "VAN MEDIUM H2 TYPE 12"
+                },
+                {
+                    "code": "$*KwHwqtW7vPaE9vr1AAAAAKGGKKc$",
+                    "name": "VAN MEDIUM H2 TYPE 14"
+                },
+                {
+                    "code": "$*KwELUS5ARw1_DQAAAAAAAPqemXo$",
+                    "name": "VAN MEDIUM H2 TYPE 16"
+                },
+                {
+                    "code": "$*KwF4Il0zNH4Mfnh_AAAAAPdKmfc$",
+                    "name": "VAN MEDIUM H2 TYPE 16H"
+                },
+                {
+                    "code": "$*KwEUTjFfWBJgExAVAAAAAJQHVG4$",
+                    "name": "VAN MEDIUM H2 TYPE 20H"
+                },
+                {
+                    "code": "$*KwGQyrXb3JbklpOTAAAAAFRhFeo$",
+                    "name": "VAN SHORT WHEEBASE H1 TYPE 12"
+                },
+                {
+                    "code": "$*KwE4Yh1zdD5MPj06AAAAAHPTpOM$",
+                    "name": "VAN SHORT WHEEBASE H1 TYPE 14"
+                },
+                {
+                    "code": "$*KwHrsc6gp-2f7e_sAAAAAHGPl1I$",
+                    "name": "VAN SHORT WHEEBASE H1 TYPE 16"
+                },
+                {
+                    "code": "$*KwGB26TKzYf1hoqBAAAAAJdSwcE$",
+                    "name": "WINDOW VAN HIGH ROOF CU 18"
+                },
+                {
+                    "code": "$*KwEMVilHQAp4DQkGAAAAAFvOCUk$",
+                    "name": "WINDOWED VAN - LONG HIGH SIDE STD ROOF TYPE 18"
+                },
+                {
+                    "code": "$*KwFlP0AuKWMRZGVmAAAAAESPyms$",
+                    "name": "WINDOWED VAN - LONG TYPE 800"
+                },
+                {
+                    "code": "$*KwFqME8hJmwebGpuAAAAABhrl-g$",
+                    "name": "WINDOWED VAN - LONG TYPE 900"
+                },
+                {
+                    "code": "$*KwExaxR6fTdFNzIwAAAAAGos_i0$",
+                    "name": "WINDOWED VAN - MEDIUM HIGH SIDE STD ROOF TYPE 14"
+                },
+                {
+                    "code": "$*KwHbgf6Ql92v3dvRAAAAAOBJvFM$",
+                    "name": "WINDOWED VAN - MEDIUM HIGH SIDE STD ROOF TYPE 18"
+                },
+                {
+                    "code": "$*KwE_ZRp0czlLPj04AAAAAAQsS4A$",
+                    "name": "WINDOWED VAN - MEDIUM STD SIDE STD ROOF TYPE 10"
+                },
+                {
+                    "code": "$*KwGWzLPd2pDil5eTAAAAAJsYto8$",
+                    "name": "WINDOWED VAN - MEDIUM STD SIDE STD ROOF TYPE 14"
+                },
+                {
+                    "code": "$*KwGj-Ybo76XXpKWlAAAAADas16Q$",
+                    "name": "WINDOWED VAN - SHORT STD SIDE STD ROOF TYPE 10"
+                },
+                {
+                    "code": "$*KwFSCHcZHlQmU1dWAAAAAGEcops$",
+                    "name": "WINDOWED VAN - SHORT STD SIDE STD ROOF TYPE 14"
+                },
+                {
+                    "code": "$*KwElfwBuaSNRIi4gAAAAAMMR9_k$",
+                    "name": "WINDOWED VAN MEDIUM HIGH SIDE STD ROOF TYPE 10"
+                }
+            ]
+        }
+    ]
+}

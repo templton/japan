@@ -1,0 +1,67 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwFwKlU4PBQNHwMRAABUR0QUAggQBxB2BkBuKywiKSBgeWYLVFFMDmFoZzQiKDN-NzNgEXZnPx4AAAAAEyTU8w$",
+                    "name": "R2"
+                },
+                {
+                    "code": "$*KwFTCXYbHzcuPCAyIyN3ZGc3ISszJDNVJWNNCA8BCgNDWkUod3JvLUJLRBcBCxBdFBBDMlNEHD0AAAAAuCeKOw$",
+                    "name": "R4"
+                }
+            ]
+        },
+        {
+            "name": "Год выпуска",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwHSiPeanravvaGzoqL25ea2oKqypbLUpOLMiY6Ai4LC28S9_Pb5ws3EkYGNk4GbjYnS0dfewpy7AAAAAK5YxNY$",
+                    "name": "2019"
+                },
+                {
+                    "code": "$*KwGN16jFwenw4v7s_f2purnp__Xt-u2L-72T1tHf1N2dhJvio6mmnZKbzt7SzN7E0taNjoiAncPkAAAAAH2e7e4$",
+                    "name": "2018"
+                },
+                {
+                    "code": "$*KwFsNkkkIAgRAx8NHBxIW1gIHhQMGwxqGlxyNzA-NTx8ZXoDQkhHfHN6Lz8zLT8lMzdsb2lufCIFAAAAAJhzL18$",
+                    "name": "2017"
+                },
+                {
+                    "code": "$*KwGRy7TZ3fXs_uLw4eG1pqX14-nx5vGX56GPys3DyMGBmIf-v7W6gY6H0sLO0MLYzsqRkpSSgd_4AAAAAAUaAIs$",
+                    "name": "2016"
+                },
+                {
+                    "code": "$*KwFhO0QpLQUcDhIAERFFVlUFExkBFgFnF1F_Oj0zODFxaHcOT0VKcX53IjI-IDIoPjphYmRhcS8IAAAAAEm6Es0$",
+                    "name": "2015"
+                },
+                {
+                    "code": "$*KwGl_4Dt6cHYytbE1dWBkpHB193F0sWj05W7_vn3_PW1rLPKi4GOtbqz5vb65Pbs-v6lpqCktevMAAAAAJthGiU$",
+                    "name": "2014"
+                },
+                {
+                    "code": "$*KwEAWiVITGR9b3NhcHAkNzRkcnhgd2AGdjAeW1xSWVAQCRZvLiQrEB8WQ1NfQVNJX1sAAwUGEE5pAAAAAIO3QcU$",
+                    "name": "2013"
+                },
+                {
+                    "code": "$*KwG85pn08NjB08_dzMyYi4jYzsTcy9y6yoyi5-Du5eystarTkpiXrKOq_-_j_e_14-e8v7m7rPLVAAAAAH5ml_k$",
+                    "name": "2012"
+                },
+                {
+                    "code": "$*KwGRy7TZ3fXs_uLw4eG1pqX14-nx5vGX56GPys3DyMGBmIf-v7W6gY6H0sLO0MLYzsqRkpSVgd_4AAAAAJjNODI$",
+                    "name": "2011"
+                },
+                {
+                    "code": "$*KwHnvcKvq4OaiJSGl5fD0NODlZ-HkIfhkdf5vLu1vrf37vGIycPM9_jxpLS4prSuuLzn5OLi96mOAAAAAENWTKg$",
+                    "name": "2010"
+                }
+            ]
+        }
+    ]
+}

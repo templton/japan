@@ -1,0 +1,11 @@
+{
+    ports {
+        data {
+            id
+            show
+            title
+            country
+            extraFields
+        }
+    }
+}

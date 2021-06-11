@@ -1,0 +1,279 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Регион",
+            "removeparam": "",
+            "value": "Japan",
+            "list": []
+        },
+        {
+            "name": "Type",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwGj-Ybo76LXpKEAAAAAOk3eiQ$",
+                    "name": "Auto/Commercial"
+                }
+            ]
+        },
+        {
+            "name": "Series",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwFhO0QqLWEVbGAAAAAAjyq4ww$",
+                    "name": "JJ(110/120/510)"
+                },
+                {
+                    "code": "$*KwFAGmULDEA0TUYAAAAAnP5Mlg$",
+                    "name": "JR(120/130)"
+                },
+                {
+                    "code": "$*KwHkvsGvqOSQ6eMAAAAAdphtVw$",
+                    "name": "JT(150/190/600)"
+                },
+                {
+                    "code": "$*KwF8Jlk3MHwIcXgAAAAAEyhoag$",
+                    "name": "JT(151/191)"
+                },
+                {
+                    "code": "$*KwEzaRZ4fzNHPjYAAAAAK093UQ$",
+                    "name": "JT(151/191/641)"
+                },
+                {
+                    "code": "$*KwHutMulou6a4-QAAAAArqINjQ$",
+                    "name": "JT(191)"
+                },
+                {
+                    "code": "$*KwEWTDNdWhZiGx0AAAAAtDnLCQ$",
+                    "name": "JT(221)"
+                },
+                {
+                    "code": "$*KwEJUyxCRQl9BQsAAAAAr5Gdvg$",
+                    "name": "KB"
+                },
+                {
+                    "code": "$*KwEbQT5QVxtvHxkdAAAAABbw8xc$",
+                    "name": "NFR/NFS"
+                },
+                {
+                    "code": "$*KwGw6pX7_LDEtLGwAAAAADdYGfM$",
+                    "name": "TFR/TFS"
+                },
+                {
+                    "code": "$*KwEDWSZITwN3BwIEAAAAAA9XWR4$",
+                    "name": "UBS"
+                },
+                {
+                    "code": "$*KwG85pn38LzIuL26AAAAAPz9WGg$",
+                    "name": "UCS"
+                },
+                {
+                    "code": "$*KwEBWyRKTQF1BQAEAAAAAFio68A$",
+                    "name": "UER/UES"
+                },
+                {
+                    "code": "$*KwG74Z7w97vPv7q_AAAAAF9oouo$",
+                    "name": "UES"
+                },
+                {
+                    "code": "$*KwEMVilHQAx4CAoOAAAAAPez5fM$",
+                    "name": "WFR/WFS"
+                }
+            ]
+        },
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwGv9Yrk46jbqK-oAAAAAAhXjao$",
+                    "name": "ｱｽｶ"
+                },
+                {
+                    "code": "$*KwHMlumHgMu4y8zKAAAAAFcfpAY$",
+                    "name": "ｳｨｻﾞｰﾄﾞ/ｳｨｻﾞｰﾄﾞ ｱﾗｲﾌﾞ"
+                },
+                {
+                    "code": "$*KwGZw7zS1Z7tnpySAAAAAObu1Ss$",
+                    "name": "ｼﾞｪﾐﾆ"
+                },
+                {
+                    "code": "$*KwHxq9S6vfaF9vT7AAAAANb7g4c$",
+                    "name": "ｼﾞｪﾐﾆ(3ﾄﾞｱ ﾊｯﾁﾊﾞｯｸ)"
+                },
+                {
+                    "code": "$*KwENVyhGQQp5CgcOAAAAAMCfEdk$",
+                    "name": "ｼﾞｪﾐﾆ(4ﾄﾞｱ ｾﾀﾞﾝ)"
+                },
+                {
+                    "code": "$*KwHzqda4v_SH9PnxAAAAAOZJxIg$",
+                    "name": "ｼﾞｪﾐﾆ(ｸｰﾍﾟ)"
+                },
+                {
+                    "code": "$*KwEsdglnYCtYKycpAAAAACjdcrs$",
+                    "name": "ﾋﾞｯｸﾞﾎｰﾝ"
+                },
+                {
+                    "code": "$*KwGH3aLMy4DzgIyAAAAAACU1D4U$",
+                    "name": "ﾋﾟｱｯﾂｧ"
+                },
+                {
+                    "code": "$*KwGw6pX7_LfEt7u0AAAAAHq8Vyk$",
+                    "name": "ﾌｧｰｺﾞ"
+                },
+                {
+                    "code": "$*KwFUDnEfGFMgU19fAAAAAEeutdE$",
+                    "name": "ﾌｧｰｺﾞ ﾄﾗｯｸ"
+                },
+                {
+                    "code": "$*KwHyqNe5vvWG9fn4AAAAAK1xlAI$",
+                    "name": "ﾌｧｽﾀｰ/ﾛﾃﾞｵ"
+                },
+                {
+                    "code": "$*KwGp84zi5a7dr6irAAAAAHGHUAQ$",
+                    "name": "ﾐｭｰ"
+                },
+                {
+                    "code": "$*KwELUS5ARwx_DQoKAAAAAN3EsV4$",
+                    "name": "ﾐｭｰ ｳｨｻﾞ-ﾄﾞ"
+                }
+            ]
+        },
+        {
+            "name": "Год выпуска",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwFEHmEPCEIwQkVDAAAAAEeM3qA$",
+                    "name": "1983"
+                },
+                {
+                    "code": "$*KwGJ06zCxY_9j4iPAAAAAA9Io0I$",
+                    "name": "1984"
+                },
+                {
+                    "code": "$*KwFsNkknIGoYam1pAAAAAGcU5Gg$",
+                    "name": "1985"
+                },
+                {
+                    "code": "$*KwFKEG8BBkw-TEtOAAAAAEWyuEY$",
+                    "name": "1986"
+                },
+                {
+                    "code": "$*KwHmvMOtquCS4OftAAAAAHtwIms$",
+                    "name": "1987"
+                },
+                {
+                    "code": "$*KwF2LFM9OnACcHd8AAAAAAvX41c$",
+                    "name": "1988"
+                },
+                {
+                    "code": "$*KwGWzLPd2pDikJCVAAAAADh1k_g$",
+                    "name": "1989"
+                },
+                {
+                    "code": "$*KwG37ZL8-7HDsbG1AAAAAFdIVHg$",
+                    "name": "1990"
+                },
+                {
+                    "code": "$*KwHAmuWLjMa0xsbBAAAAAIFFMQo$",
+                    "name": "1991"
+                },
+                {
+                    "code": "$*KwEhewRqbSdVJychAAAAAK-Ftqk$",
+                    "name": "1992"
+                },
+                {
+                    "code": "$*KwFPFWoEA0k7SUlIAAAAAGeQN2c$",
+                    "name": "1993"
+                },
+                {
+                    "code": "$*KwFfBXoUE1krWVlZAAAAAN9Oi6Y$",
+                    "name": "1994"
+                },
+                {
+                    "code": "$*KwGL0a7Ax43_jY2OAAAAAGDxt80$",
+                    "name": "1995"
+                },
+                {
+                    "code": "$*KwEjeQZobyVXJSUnAAAAABEZoUI$",
+                    "name": "1996"
+                },
+                {
+                    "code": "$*KwEYQj1TVB5sHh4TAAAAAGXgUWs$",
+                    "name": "1997"
+                },
+                {
+                    "code": "$*KwH1r9C-ufOB8_P_AAAAAGnmMmY$",
+                    "name": "1998"
+                },
+                {
+                    "code": "$*KwFKEG8BBkw-TE1JAAAAAI2MimM$",
+                    "name": "1999"
+                },
+                {
+                    "code": "$*KwHEnuGPiMKwwsPGAAAAAKnF8FQ$",
+                    "name": "2000"
+                },
+                {
+                    "code": "$*KwH9p9i2sfuJ-_r8AAAAAG17n6Q$",
+                    "name": "2001"
+                },
+                {
+                    "code": "$*KwH1r9C-ufOB8_L1AAAAAJAo6jk$",
+                    "name": "2002"
+                },
+                {
+                    "code": "$*KwGdx7jW0Zvpm5qaAAAAAEleGaA$",
+                    "name": "2003"
+                },
+                {
+                    "code": "$*KwG_5Zr087nLubi5AAAAAMNq5Cs$",
+                    "name": "2004"
+                },
+                {
+                    "code": "$*KwEGXCNNSgByAAEDAAAAAM-t9iY$",
+                    "name": "2005"
+                },
+                {
+                    "code": "$*KwEMVilHQAp4CgsIAAAAAIsPUEk$",
+                    "name": "2006"
+                },
+                {
+                    "code": "$*KwFWDHMdGlAiUFFdAAAAAG5Iaqg$",
+                    "name": "2007"
+                },
+                {
+                    "code": "$*KwFHHWIMC0EzQUBNAAAAAIpuP5A$",
+                    "name": "2008"
+                },
+                {
+                    "code": "$*KwHyqNe5vvSG9PbxAAAAAG-Xc-4$",
+                    "name": "2009"
+                },
+                {
+                    "code": "$*KwG27JP9-rDCsLK0AAAAADmG3wM$",
+                    "name": "2010"
+                },
+                {
+                    "code": "$*KwFMFmkHAEo4SkhNAAAAAFnMyts$",
+                    "name": "2011"
+                },
+                {
+                    "code": "$*KwFOFGsFAkg6SEpOAAAAAJc6Kb8$",
+                    "name": "2012"
+                },
+                {
+                    "code": "$*KwEnfQJsayFTISMgAAAAABK0M98$",
+                    "name": "2013"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,801 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Major assembly type",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwHps8ykAAAAAI6tZug$",
+                    "name": "FG - Chassis"
+                },
+                {
+                    "code": "$*KwHfhfqX3tXY3gAAAAD1LlLh$",
+                    "name": "GA - Automatic transmission"
+                },
+                {
+                    "code": "$*KwHzqda99vbzAAAAALFnF8Q$",
+                    "name": "GM - Manual transmission"
+                },
+                {
+                    "code": "$*KwHYgv2Q2QAAAABVRqFF$",
+                    "name": "M  - Engine"
+                }
+            ]
+        },
+        {
+            "name": "Sales designation",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwFRCHQZVlRWVAAAAABW9JIQ$",
+                    "name": "452 AMT (R) 1,1/1,3/1,5"
+                },
+                {
+                    "code": "$*KwHzqta79Pb19AAAAAC2kTgG$",
+                    "name": "452 MT 1,1 L"
+                },
+                {
+                    "code": "$*KwGE3aHMg4GChQAAAAAioZ9u$",
+                    "name": "452 MT 1,3 L/1,5 L"
+                },
+                {
+                    "code": "$*KwFjOkYrZGZkZAAAAABNPw4i$",
+                    "name": "453 AMT (R) 1,5 LD"
+                },
+                {
+                    "code": "$*KwG645_yvb-8twAAAABNjyyu$",
+                    "name": "453 MT 1,5 LD"
+                },
+                {
+                    "code": "$*KwFjOkYrZGZlYAAAAABTSft6$",
+                    "name": "453 MT GTC"
+                },
+                {
+                    "code": "$*KwFIEW0AT01PSwAAAADFdcmq$",
+                    "name": "AMT"
+                },
+                {
+                    "code": "$*KwHLku6LyMrPAAAAAOmieXI$",
+                    "name": "FORFOUR ELECTRIC DRIVE"
+                },
+                {
+                    "code": "$*KwHVjPCV19_RAAAAAGWoLOw$",
+                    "name": "FORTWO CABRIO"
+                },
+                {
+                    "code": "$*KwFWD3MWVFxRAAAAAOpDdHw$",
+                    "name": "FORTWO CABRIO BRABUS"
+                },
+                {
+                    "code": "$*KwF1LFA1d352AAAAAGcuXRI$",
+                    "name": "FORTWO CABRIO CDI"
+                },
+                {
+                    "code": "$*KwE3bhJ3NDc6AAAAABqdp4Q$",
+                    "name": "FORTWO CABRIO ELECTRIC DRIVE"
+                },
+                {
+                    "code": "$*KwFHHmIHRU1EAAAAALQMJTY$",
+                    "name": "FORTWO CABRIO EV"
+                },
+                {
+                    "code": "$*KwHgucWg4-PkAAAAAJkJdQc$",
+                    "name": "FORTWO CABRIO EV BRABUS"
+                },
+                {
+                    "code": "$*KwFWD3MWVFxXAAAAAAMg0Uk$",
+                    "name": "FORTWO CABRIO MHD"
+                },
+                {
+                    "code": "$*KwE2bxN2NDIxAAAAAL64Fzk$",
+                    "name": "FORTWO COUPE"
+                },
+                {
+                    "code": "$*KwHBmOSBw8XCAAAAAJhILUI$",
+                    "name": "FORTWO COUPE BRABUS"
+                },
+                {
+                    "code": "$*KwGE3aHEhoCAAAAAAJiJHXw$",
+                    "name": "FORTWO COUPE CDI"
+                },
+                {
+                    "code": "$*KwGC26fCgYKGAAAAADrhhS8$",
+                    "name": "FORTWO COUPE ELECTRIC DRIVE"
+                },
+                {
+                    "code": "$*KwHiu8ei4OnkAAAAAPyhGTQ$",
+                    "name": "FORTWO COUPE EV"
+                },
+                {
+                    "code": "$*KwFNFGgNT0ZMAAAAANAiKro$",
+                    "name": "FORTWO COUPE EV BRABUS"
+                },
+                {
+                    "code": "$*KwH5oNy5-_30AAAAACbyFsE$",
+                    "name": "FORTWO COUPE MHD"
+                },
+                {
+                    "code": "$*KwFRCHQZUFtWXAAAAAB2GALD$",
+                    "name": "H-DCT"
+                },
+                {
+                    "code": "$*KwFCG2cOSUQAAAAALXfC-w$",
+                    "name": "M122 E15"
+                },
+                {
+                    "code": "$*KwHrss6q7uoAAAAAbno47g$",
+                    "name": "M132 E10"
+                },
+                {
+                    "code": "$*KwExaBRwNDUAAAAACXNU3Q$",
+                    "name": "M134 E11"
+                },
+                {
+                    "code": "$*KwGM1anNho8AAAAAPv311A$",
+                    "name": "M135 E13"
+                },
+                {
+                    "code": "$*KwHwqdWx-vEAAAAASuocyw$",
+                    "name": "M135 E15"
+                },
+                {
+                    "code": "$*KwFcBXkWXlhRAAAAAGiTD2k$",
+                    "name": "M281 E09LA"
+                },
+                {
+                    "code": "$*KwGWz7PclJ2TAAAAAD1qX6I$",
+                    "name": "M281 E10"
+                },
+                {
+                    "code": "$*KwFjOkYrZGZkYgAAAACkXKsX$",
+                    "name": "MT 1,5 T/C"
+                },
+                {
+                    "code": "$*KwH7ot6z-Pn5_gAAAABUt-Fa$",
+                    "name": "OM639"
+                },
+                {
+                    "code": "$*KwE9ZBh1PT09OwAAAADJM6_k$",
+                    "name": "OM660"
+                },
+                {
+                    "code": "$*KwGWz7Pel5yQmwAAAADPoMig$",
+                    "name": "SG"
+                },
+                {
+                    "code": "$*KwGj-objoaOkAAAAAHOMj7Q$",
+                    "name": "SMART & BUSINESS PURE"
+                },
+                {
+                    "code": "$*KwEOVytODA8IAAAAAO3KxW4$",
+                    "name": "SMART & BUSINESS PURE CDI"
+                },
+                {
+                    "code": "$*KwFWD3MWVFZaAAAAAId-RX4$",
+                    "name": "SMART & PASSION"
+                },
+                {
+                    "code": "$*KwFhOEQhY2BlAAAAAP6imbg$",
+                    "name": "SMART & PASSION CDI"
+                },
+                {
+                    "code": "$*KwEocQ1oKigpAAAAAF2LkWo$",
+                    "name": "SMART & PULSE"
+                },
+                {
+                    "code": "$*KwHRiPSR09PdAAAAACbR9JY$",
+                    "name": "SMART & PULSE CDI"
+                },
+                {
+                    "code": "$*KwEzahZzMTIwAAAAAGCHC7U$",
+                    "name": "SMART & PURE"
+                },
+                {
+                    "code": "$*KwHxqNSx8_PzAAAAADGRHhc$",
+                    "name": "SMART & PURE CDI"
+                },
+                {
+                    "code": "$*KwGP1qrPjYiKAAAAAHbG11g$",
+                    "name": "SMART & PURE K"
+                },
+                {
+                    "code": "$*KwGP1qrPjYiMAAAAAJ-lcm0$",
+                    "name": "SMART CABRIO"
+                },
+                {
+                    "code": "$*KwH0rdG09vH1AAAAAEP89bo$",
+                    "name": "SMART CABRIO & PASSION"
+                },
+                {
+                    "code": "$*KwFKE28KSExNAAAAAGp3MDI$",
+                    "name": "SMART CABRIO & PASSION CDI"
+                },
+                {
+                    "code": "$*KwEwaRVwMjY1AAAAAKVGI_c$",
+                    "name": "SMART CABRIO & PULSE"
+                },
+                {
+                    "code": "$*KwEYQT1YGh0eAAAAADYcVMk$",
+                    "name": "SMART CABRIO & PURE"
+                },
+                {
+                    "code": "$*KwFhOEQhY2ZsAAAAANEkhpo$",
+                    "name": "SMART CABRIO & PURE CDI"
+                },
+                {
+                    "code": "$*KwEDWiZDAQYHAAAAABIL_1c$",
+                    "name": "SMART CABRIO BRABUS"
+                },
+                {
+                    "code": "$*KwFLEm4LSEtNAAAAAGu2O4U$",
+                    "name": "SMART CABRIOLET"
+                },
+                {
+                    "code": "$*KwHosc2o6-jrAAAAAP3GAaY$",
+                    "name": "SMART CABRIOLET BRABUS"
+                },
+                {
+                    "code": "$*KwFBGGQBQ0NBAAAAACIayeQ$",
+                    "name": "SMART CITY-COUPE"
+                },
+                {
+                    "code": "$*KwEEXSFEBgQAAAAAAInkyuI$",
+                    "name": "SMART CITY-COUPE BRABUS"
+                },
+                {
+                    "code": "$*KwGA2aXAg4GGAAAAAI9JOGI$",
+                    "name": "SMART COUPE"
+                },
+                {
+                    "code": "$*KwGI0a3Ii4mEAAAAAL4aY70$",
+                    "name": "SMART COUPE BRABUS"
+                },
+                {
+                    "code": "$*KwHrss6r6e3oAAAAAMm916c$",
+                    "name": "SMART CROSSBLADE"
+                },
+                {
+                    "code": "$*KwGQybXQk5eVAAAAADhmrZ0$",
+                    "name": "SMART FORFOUR"
+                },
+                {
+                    "code": "$*KwGE3aHEh4OIAAAAALy9rLo$",
+                    "name": "SMART FORFOUR BRABUS"
+                },
+                {
+                    "code": "$*KwEzahZzMTQyAAAAANjTzR8$",
+                    "name": "SMART GLIDER"
+                },
+                {
+                    "code": "$*KwEdRDhdHh8bAAAAANy6hOk$",
+                    "name": "SMART LIMOUSINE"
+                },
+                {
+                    "code": "$*KwGF3KDFhoeJAAAAAOCUrm8$",
+                    "name": "SMART LIMOUSINE BRABUS"
+                },
+                {
+                    "code": "$*KwERSDRREhISAAAAAOE2KaY$",
+                    "name": "SMART ROADSTER"
+                },
+                {
+                    "code": "$*KwG95Jj9vr-5AAAAALdNMNk$",
+                    "name": "SMART ROADSTER BRABUS"
+                },
+                {
+                    "code": "$*KwEMVSlMDw8KAAAAAJyDIPs$",
+                    "name": "SMART ROADSTER-COUPE"
+                },
+                {
+                    "code": "$*KwHiu8ei4eHjAAAAAKvebKg$",
+                    "name": "SMART ROADSTER-COUPE BRABUS"
+                },
+                {
+                    "code": "$*KwEeRzteHBgfAAAAAESTpck$",
+                    "name": "SMART-BRABUS CABRIO"
+                },
+                {
+                    "code": "$*KwGw6ZXwsrGwAAAAAO9sUyU$",
+                    "name": "SMART-BRABUS COUPE"
+                }
+            ]
+        },
+        {
+            "name": "Model designation",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwG74573sLwAAAAAYlDozw$",
+                    "name": "122.950"
+                },
+                {
+                    "code": "$*KwGK0q_Lj4gAAAAA4p0kQA$",
+                    "name": "132.910"
+                },
+                {
+                    "code": "$*KwFQCHURVVAAAAAAG_Dd0A$",
+                    "name": "132.930"
+                },
+                {
+                    "code": "$*KwG44J35vb0AAAAA_3JeIA$",
+                    "name": "134.910"
+                },
+                {
+                    "code": "$*KwGP16rOioQAAAAAb6khhw$",
+                    "name": "134.911"
+                },
+                {
+                    "code": "$*KwFHH2IGQk0AAAAAexKk3g$",
+                    "name": "135.930"
+                },
+                {
+                    "code": "$*KwGv94rupa0AAAAAZrlHXA$",
+                    "name": "135.950"
+                },
+                {
+                    "code": "$*KwFAGGUKQkRMAAAAAPhJ5xg$",
+                    "name": "281.910"
+                },
+                {
+                    "code": "$*KwEjewZpISgnAAAAANiRJp4$",
+                    "name": "281.920"
+                },
+                {
+                    "code": "$*KwERSTRRExMWAAAAADXeZWw$",
+                    "name": "450.300"
+                },
+                {
+                    "code": "$*KwGcxLncnp6dAAAAANwfTNI$",
+                    "name": "450.301"
+                },
+                {
+                    "code": "$*KwFcBHkcXl5fAAAAAH2Qtik$",
+                    "name": "450.302"
+                },
+                {
+                    "code": "$*KwFZAXwZW1tUAAAAAD4Nt_4$",
+                    "name": "450.303"
+                },
+                {
+                    "code": "$*KwGP16rPjY6KAAAAAOvAo3s$",
+                    "name": "450.306"
+                },
+                {
+                    "code": "$*KwECWidCAAMFAAAAAAVsTtw$",
+                    "name": "450.314"
+                },
+                {
+                    "code": "$*KwHpscyp6-joAAAAAOETHsk$",
+                    "name": "450.330"
+                },
+                {
+                    "code": "$*KwGx6ZTxs7CzAAAAAOtgFzw$",
+                    "name": "450.331"
+                },
+                {
+                    "code": "$*KwHdhfid39zRAAAAAJJdHHE$",
+                    "name": "450.332"
+                },
+                {
+                    "code": "$*KwHMlOmMzs3BAAAAALx4ubQ$",
+                    "name": "450.333"
+                },
+                {
+                    "code": "$*KwHyqtey8PL3AAAAADV8ISM$",
+                    "name": "450.335"
+                },
+                {
+                    "code": "$*KwHdhfid393bAAAAAGuTxC4$",
+                    "name": "450.336"
+                },
+                {
+                    "code": "$*KwGP16rPjY-PAAAAAIKxZrU$",
+                    "name": "450.341"
+                },
+                {
+                    "code": "$*KwGWzrPWlJaUAAAAAOQbIAs$",
+                    "name": "450.342"
+                },
+                {
+                    "code": "$*KwFVDXAVV1VWAAAAAL9-kPo$",
+                    "name": "450.343"
+                },
+                {
+                    "code": "$*KwGUzLHUlpSZAAAAADYZ0Lo$",
+                    "name": "450.346"
+                },
+                {
+                    "code": "$*KwH1rdC19_LxAAAAAOuiRoI$",
+                    "name": "450.347"
+                },
+                {
+                    "code": "$*KwGm_oPmpKGgAAAAACSz1pA$",
+                    "name": "450.352"
+                },
+                {
+                    "code": "$*KwGl_YDlp6KiAAAAADBX_bY$",
+                    "name": "450.353"
+                },
+                {
+                    "code": "$*KwGm_oPmpKGmAAAAAM3Qc6U$",
+                    "name": "450.399"
+                },
+                {
+                    "code": "$*KwGg-IXgoqeiAAAAAOQYJek$",
+                    "name": "450.400"
+                },
+                {
+                    "code": "$*KwEdRThdHxoRAAAAAIuGICA$",
+                    "name": "450.401"
+                },
+                {
+                    "code": "$*KwFSCncSUFRWAAAAAJHYYy8$",
+                    "name": "450.402"
+                },
+                {
+                    "code": "$*KwFQCHUQUlZWAAAAAD1r7yM$",
+                    "name": "450.403"
+                },
+                {
+                    "code": "$*KwElfQBlJyMlAAAAAMIpS84$",
+                    "name": "450.414"
+                },
+                {
+                    "code": "$*KwFpMUwpa29rAAAAAEJayy4$",
+                    "name": "450.418"
+                },
+                {
+                    "code": "$*KwEHXyJHBQELAAAAAHnaLUM$",
+                    "name": "450.432"
+                },
+                {
+                    "code": "$*KwHRifSR09fcAAAAAP7m0qE$",
+                    "name": "450.433"
+                },
+                {
+                    "code": "$*KwEgeAVgIiUlAAAAAD1LwFI$",
+                    "name": "450.441"
+                },
+                {
+                    "code": "$*KwH9pdi9__j6AAAAAJEbx3s$",
+                    "name": "450.442"
+                },
+                {
+                    "code": "$*KwFTC3YTUVZTAAAAAJzGAmU$",
+                    "name": "450.443"
+                },
+                {
+                    "code": "$*KwE8ZBl8PjkwAAAAAGgWc7Q$",
+                    "name": "450.452"
+                },
+                {
+                    "code": "$*KwF7I147eX52AAAAAMMJC58$",
+                    "name": "451.300"
+                },
+                {
+                    "code": "$*KwFEHGEERkBBAAAAAGtTZZg$",
+                    "name": "451.301"
+                },
+                {
+                    "code": "$*KwGK0q_KiI6MAAAAAKubKlQ$",
+                    "name": "451.330"
+                },
+                {
+                    "code": "$*KwGQyLXQkpSQAAAAAKm_s0M$",
+                    "name": "451.331"
+                },
+                {
+                    "code": "$*KwHvt8qv7evuAAAAAFui3ew$",
+                    "name": "451.332"
+                },
+                {
+                    "code": "$*KwHSiveS0NbQAAAAAD-MtgI$",
+                    "name": "451.333"
+                },
+                {
+                    "code": "$*KwHttcit7-nhAAAAAGeuTHE$",
+                    "name": "451.334"
+                },
+                {
+                    "code": "$*KwEFXSBFBw4BAAAAAIASNhw$",
+                    "name": "451.380"
+                },
+                {
+                    "code": "$*KwHLk-6LycDOAAAAAK7UGPw$",
+                    "name": "451.390"
+                },
+                {
+                    "code": "$*KwHchPmc3tfbAAAAAN4-2-M$",
+                    "name": "451.391"
+                },
+                {
+                    "code": "$*KwEIUC1ICgMIAAAAAPLcbBQ$",
+                    "name": "451.392"
+                },
+                {
+                    "code": "$*KwGo8I3oqqOqAAAAAJkr2CQ$",
+                    "name": "451.400"
+                },
+                {
+                    "code": "$*KwH0rNG09v_4AAAAAGiSdyw$",
+                    "name": "451.401"
+                },
+                {
+                    "code": "$*KwHqss-q6OHnAAAAAHGpodg$",
+                    "name": "451.431"
+                },
+                {
+                    "code": "$*KwFbA34bWVFeAAAAALqyWOQ$",
+                    "name": "451.432"
+                },
+                {
+                    "code": "$*KwEpcQxpKyMvAAAAANMCyXY$",
+                    "name": "451.433"
+                },
+                {
+                    "code": "$*KwEsdAlsLiYsAAAAAJ5EQJM$",
+                    "name": "451.480"
+                },
+                {
+                    "code": "$*KwHKku-KyMDIAAAAAAj1So4$",
+                    "name": "451.490"
+                },
+                {
+                    "code": "$*KwE8ZBl8PjYwAAAAAO-Ob3s$",
+                    "name": "451.491"
+                },
+                {
+                    "code": "$*KwHzq9az8fn-AAAAAOAWtws$",
+                    "name": "451.492"
+                },
+                {
+                    "code": "$*KwGWzrPWlZWTAAAAAFCQjFw$",
+                    "name": "452.332"
+                },
+                {
+                    "code": "$*KwHHn-KHxMTAAAAAAN088W4$",
+                    "name": "452.334"
+                },
+                {
+                    "code": "$*KwH7o967-Pj7AAAAAJ8hqAk$",
+                    "name": "452.337"
+                },
+                {
+                    "code": "$*KwF9JVg9fn5_AAAAAMPo7N8$",
+                    "name": "452.432"
+                },
+                {
+                    "code": "$*KwF5IVw5enp1AAAAAKErG5g$",
+                    "name": "452.434"
+                },
+                {
+                    "code": "$*KwEbQz5bGBgWAAAAAF7piOU$",
+                    "name": "452.437"
+                },
+                {
+                    "code": "$*KwFHH2IHREVCAAAAAF8os5k$",
+                    "name": "453.041"
+                },
+                {
+                    "code": "$*KwHfh_qf3N3YAAAAAG3dES0$",
+                    "name": "453.042"
+                },
+                {
+                    "code": "$*KwFEHGEER0ZEAAAAAEyhXKY$",
+                    "name": "453.043"
+                },
+                {
+                    "code": "$*KwGh-YThoqOgAAAAACD6HLE$",
+                    "name": "453.044"
+                },
+                {
+                    "code": "$*KwHPl-qPzM3NAAAAAGXLhmE$",
+                    "name": "453.053"
+                },
+                {
+                    "code": "$*KwGo8I3oq6qrAAAAAD4sOcw$",
+                    "name": "453.062"
+                },
+                {
+                    "code": "$*KwHRifSR0tPcAAAAAJtIfZI$",
+                    "name": "453.091"
+                },
+                {
+                    "code": "$*KwHOluuOzc_LAAAAAPHctpE$",
+                    "name": "453.341"
+                },
+                {
+                    "code": "$*KwEsdAlsLy0rAAAAAOIWZsw$",
+                    "name": "453.342"
+                },
+                {
+                    "code": "$*KwHutsuu7e_uAAAAAHFOhZg$",
+                    "name": "453.343"
+                },
+                {
+                    "code": "$*KwHttcit7uzsAAAAAGWqrr4$",
+                    "name": "453.344"
+                },
+                {
+                    "code": "$*KwHiusei4ePgAAAAAMu9jDU$",
+                    "name": "453.353"
+                },
+                {
+                    "code": "$*KwH9pdi9_vz-AAAAAPPYrFE$",
+                    "name": "453.362"
+                },
+                {
+                    "code": "$*KwGl_YDlpqSoAAAAAIca2Rk$",
+                    "name": "453.391"
+                },
+                {
+                    "code": "$*KwEYQD1YGxgdAAAAABj8SKQ$",
+                    "name": "453.442"
+                },
+                {
+                    "code": "$*KwFaAn8aWVpdAAAAAI7PTeU$",
+                    "name": "453.443"
+                },
+                {
+                    "code": "$*KwFTC3YTUFNTAAAAAOBznBc$",
+                    "name": "453.444"
+                },
+                {
+                    "code": "$*KwE0bBF0NzQ1AAAAALuUI7o$",
+                    "name": "453.453"
+                },
+                {
+                    "code": "$*KwGI0K3Ii4iKAAAAAIvlrF4$",
+                    "name": "453.462"
+                },
+                {
+                    "code": "$*KwGo8I3oq6ikAAAAAJylRt8$",
+                    "name": "453.491"
+                },
+                {
+                    "code": "$*KwFPF2oPTEhLAAAAAITexYs$",
+                    "name": "454.000"
+                },
+                {
+                    "code": "$*KwFFHWAFRkJDAAAAAPnr-0Y$",
+                    "name": "454.001"
+                },
+                {
+                    "code": "$*KwF0LFE0d3NzAAAAACc2mQU$",
+                    "name": "454.030"
+                },
+                {
+                    "code": "$*KwElfQBlJiIlAAAAANrwELg$",
+                    "name": "454.031"
+                },
+                {
+                    "code": "$*KwEKUi9KCQ0LAAAAAGoRlJk$",
+                    "name": "454.032"
+                },
+                {
+                    "code": "$*KwHchPmc39veAAAAAAMjClc$",
+                    "name": "454.033"
+                },
+                {
+                    "code": "$*KwGO1qvOjYmNAAAAAHRlPW8$",
+                    "name": "454.034"
+                },
+                {
+                    "code": "$*KwFGHmMORURHSgAAAABptQcn$",
+                    "name": "639.939"
+                },
+                {
+                    "code": "$*KwG07JH8tLS0swAAAACAFG0s$",
+                    "name": "660.950"
+                },
+                {
+                    "code": "$*KwGr847jq6urqgAAAAC3gzTM$",
+                    "name": "660.951"
+                },
+                {
+                    "code": "$*KwHQiPWY0drW0gAAAAAj9SDr$",
+                    "name": "700.120"
+                },
+                {
+                    "code": "$*KwEOVitGDwQIAgAAAAAeDAhB$",
+                    "name": "700.121"
+                },
+                {
+                    "code": "$*KwH_p9q3_vX4-gAAAABamXnL$",
+                    "name": "700.122"
+                },
+                {
+                    "code": "$*KwGj-4broqmkpwAAAADf6kiR$",
+                    "name": "700.123"
+                },
+                {
+                    "code": "$*KwF7I14zenF8eQAAAABI3upT$",
+                    "name": "700.410"
+                },
+                {
+                    "code": "$*KwHDm-aLwsnEzwAAAACQ_8KN$",
+                    "name": "700.411"
+                },
+                {
+                    "code": "$*KwG95Zj1uri7uQAAAACxG2DA$",
+                    "name": "717.470"
+                },
+                {
+                    "code": "$*KwHOluuGycvIyAAAAABTcv3i$",
+                    "name": "717.471"
+                },
+                {
+                    "code": "$*KwFcBHkUW1laXAAAAACNhqO7$",
+                    "name": "717.472"
+                },
+                {
+                    "code": "$*KwHkvMGs4-Hi5gAAAABcEcdO$",
+                    "name": "717.473"
+                },
+                {
+                    "code": "$*KwHHn-KPwMLBywAAAADW5xV-$",
+                    "name": "717.474"
+                },
+                {
+                    "code": "$*KwFbA34TXF5cXwAAAACwz6md$",
+                    "name": "717.475"
+                },
+                {
+                    "code": "$*KwFRCXQZVlRWVwAAAABpisge$",
+                    "name": "717.478"
+                },
+                {
+                    "code": "$*KwFZAXwRXlxeWQAAAABigJGN$",
+                    "name": "717.480"
+                },
+                {
+                    "code": "$*KwEheQRpJiQmIwAAAAAwi_Ek$",
+                    "name": "717.481"
+                },
+                {
+                    "code": "$*KwH6ot-y_f_99wAAAACMaOpv$",
+                    "name": "717.482"
+                },
+                {
+                    "code": "$*KwELUy5DDA4MBwAAAADfPSKW$",
+                    "name": "717.483"
+                },
+                {
+                    "code": "$*KwHstMmk6-ns6QAAAAB2RgnN$",
+                    "name": "717.484"
+                }
+            ]
+        },
+        {
+            "name": "Место продаж",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwFbBH4XAAAAAMonoHE$",
+                    "name": "AG,Europe"
+                },
+                {
+                    "code": "$*KwFqNU8lAAAAAOEEeeQ$",
+                    "name": "JA,Japan"
+                },
+                {
+                    "code": "$*KwEUSzFfFBQAAAAA8gJrJA$",
+                    "name": "LA,Latin America"
+                },
+                {
+                    "code": "$*KwH3qNK5AAAAACmZeX8$",
+                    "name": "NA,North America"
+                },
+                {
+                    "code": "$*KwE5Zhx1MjwAAAAAWrofmg$",
+                    "name": "SM,smart"
+                }
+            ]
+        }
+    ]
+}

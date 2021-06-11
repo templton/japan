@@ -1,0 +1,555 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwEKUC9CDAkAAAAAoBcpuA$",
+                    "name": "126"
+                },
+                {
+                    "code": "$*KwETSTZTFgAAAACC_OpP$",
+                    "name": "500"
+                },
+                {
+                    "code": "$*KwEIUi1ACA0AAAAAEFtnIA$",
+                    "name": "500L"
+                },
+                {
+                    "code": "$*KwF-JFs2dHoAAAAANQpLiA$",
+                    "name": "BARCHETTA"
+                },
+                {
+                    "code": "$*KwFWDHMdXQAAAADXk_f4$",
+                    "name": "BRAVA"
+                },
+                {
+                    "code": "$*KwHutMul6wAAAADKBgws$",
+                    "name": "BRAVO"
+                },
+                {
+                    "code": "$*KwEVTzBdHxYAAAAAsUDGCA$",
+                    "name": "COUPÈ"
+                },
+                {
+                    "code": "$*KwHZg_yX2QAAAACjeTrQ$",
+                    "name": "CROMA"
+                },
+                {
+                    "code": "$*KwHutMui7QAAAABsJD_e$",
+                    "name": "DUNA - PENNY/CITYVAN"
+                },
+                {
+                    "code": "$*KwHdh_iW19cAAAAAqWZ1Og$",
+                    "name": "ELBA"
+                },
+                {
+                    "code": "$*KwHchvmR2wAAAAAqOM6j$",
+                    "name": "FREEMONT"
+                },
+                {
+                    "code": "$*KwFRC3QfUwAAAACahZZB$",
+                    "name": "IDEA"
+                },
+                {
+                    "code": "$*KwEZQzxRAAAAAOIC8hY$",
+                    "name": "LINEA"
+                },
+                {
+                    "code": "$*KwGE3qHOhQAAAAD33quO$",
+                    "name": "MAREA-MARENGO"
+                },
+                {
+                    "code": "$*KwE0bhF_PzYAAAAAwEyeAw$",
+                    "name": "MILLE"
+                },
+                {
+                    "code": "$*KwE7YR5wOwAAAAAqUlHS$",
+                    "name": "MULTIPLA"
+                },
+                {
+                    "code": "$*KwGi-IfvogAAAABn0sG2$",
+                    "name": "PALIO"
+                },
+                {
+                    "code": "$*KwHqsM-kAAAAAKfGi3I$",
+                    "name": "PANDA"
+                },
+                {
+                    "code": "$*KwFIEm0CAAAAAN6-2so$",
+                    "name": "PUNTO"
+                },
+                {
+                    "code": "$*KwG44p35vgAAAABBXrlz$",
+                    "name": "SEDICI"
+                },
+                {
+                    "code": "$*KwHKkO-ByAAAAACJnUqt$",
+                    "name": "SEICENTO"
+                },
+                {
+                    "code": "$*KwFaAH8XUQAAAABnBhWF$",
+                    "name": "SIENA"
+                },
+                {
+                    "code": "$*KwGs9onnpqkAAAAAav1tVw$",
+                    "name": "SMALL"
+                },
+                {
+                    "code": "$*KwE6YB92OwAAAADFdvsG$",
+                    "name": "STILO"
+                },
+                {
+                    "code": "$*KwGA2qXIh4EAAAAADhMDEA$",
+                    "name": "TEMPRA-MARENGO"
+                },
+                {
+                    "code": "$*KwGO1KvGiI8AAAAAO0LWgA$",
+                    "name": "TIPO"
+                },
+                {
+                    "code": "$*KwG175D5sAAAAABcVN_6$",
+                    "name": "ULYSSE"
+                },
+                {
+                    "code": "$*KwFHHWIPTQAAAABHkW7y$",
+                    "name": "UNO"
+                },
+                {
+                    "code": "$*KwHPleqDAAAAANS5avU$",
+                    "name": "VIAGGIO"
+                }
+            ]
+        },
+        {
+            "name": "Каталог",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwEJUCxCAAAAADIevLA$",
+                    "name": "0C | LINEA INDIA FL2014 (2014-....)"
+                },
+                {
+                    "code": "$*KwEEXSFJAAAAABi6iCY$",
+                    "name": "0D | GRANDE PUNTO INTERN. INDIA FL2014 (2014-....)"
+                },
+                {
+                    "code": "$*KwF9JFgyAAAAAHqwsfI$",
+                    "name": "0K | OTTIMO (2014-....)"
+                },
+                {
+                    "code": "$*KwGXzrLWAAAAAN0z2YM$",
+                    "name": "0X | PANDA MY 2011 (2010-2011)"
+                },
+                {
+                    "code": "$*KwHDmuaLxAAAAAAaqDXn$",
+                    "name": "1A | PUNTO BZ. GAMMA '97 (1997-1999)"
+                },
+                {
+                    "code": "$*KwFkPUEsYAAAAAAm3hJh$",
+                    "name": "1B | PUNTO TB.DS. GAMMA'97 (1997-1999)"
+                },
+                {
+                    "code": "$*KwHVjPCd0AAAAABxM4PM$",
+                    "name": "1C | PUNTO CABRIO GAMMA'97 (1997-2000)"
+                },
+                {
+                    "code": "$*KwF_Jlo3dAAAAAACWZGJ$",
+                    "name": "1D | UNO MONDO (1995-2010)"
+                },
+                {
+                    "code": "$*KwELUi5ACAAAAACMMbTo$",
+                    "name": "1E | SEICENTO (1998-2010)"
+                },
+                {
+                    "code": "$*KwHWj_Od1wAAAAD_pAfY$",
+                    "name": "1F | MULTIPLA (1998-2010)"
+                },
+                {
+                    "code": "$*KwErcg5gLwAAAAAkwMz_$",
+                    "name": "1H | SEICENTO ELETTRA (1998-2003)"
+                },
+                {
+                    "code": "$*KwEpcAxiIwAAAAC2zf6z$",
+                    "name": "1L | BRAVO G.98 BZ/DS (1998-2001)"
+                },
+                {
+                    "code": "$*KwGp8IzjqwAAAAB7WvEQ$",
+                    "name": "1M | BRAVA G.98 BZ/DS (1998-2001)"
+                },
+                {
+                    "code": "$*KwHosc2i6wAAAAC2FBZr$",
+                    "name": "1N | PUNTO BZ (1999-2003)"
+                },
+                {
+                    "code": "$*KwH9pNi3_QAAAAAIX4MY$",
+                    "name": "1P | PUNTO DS (1999-2003)"
+                },
+                {
+                    "code": "$*KwGo8Y3irgAAAACrVTmM$",
+                    "name": "1Q | MAREA BZ GAMMA'99 (1999-2002)"
+                },
+                {
+                    "code": "$*KwFCG2cIRQAAAAAlq-0w$",
+                    "name": "1R | MAREA DS GAMMA'99 (1999-2002)"
+                },
+                {
+                    "code": "$*KwFNFGgHSQAAAAD4uuq_$",
+                    "name": "1S | PANDA 4X2 MAQ 91 (1991-2003)"
+                },
+                {
+                    "code": "$*KwFyK1c4dwAAAADmepdy$",
+                    "name": "1T | PANDA 4X4 MAQ 91 (1991-2003)"
+                },
+                {
+                    "code": "$*KwEudwtkJAAAAADma-Kq$",
+                    "name": "1U | BRAVO BZ/DS (1995-1998)"
+                },
+                {
+                    "code": "$*KwEAWSVKCwAAAAA0g2U4$",
+                    "name": "1V | BRAVA BZ/DS (1995-1998)"
+                },
+                {
+                    "code": "$*KwGq84_nqwAAAAAPxSWj$",
+                    "name": "1X | PALIO 2V EXTRA EUROPA (1997-2002)"
+                },
+                {
+                    "code": "$*KwGex7vTmAAAAABXFJX4$",
+                    "name": "1Y | PALIO WE EXTRA EUROPA (1997-2002)"
+                },
+                {
+                    "code": "$*KwEJUCxEDQAAAAAxupmG$",
+                    "name": "24 | FREEMONT (2011-....)"
+                },
+                {
+                    "code": "$*KwFxKFQ9cwAAAACMk7aZ$",
+                    "name": "2A | SIENA EXTRA EUROPA (1997-2002)"
+                },
+                {
+                    "code": "$*KwGt9IjhrQAAAAAoZAks$",
+                    "name": "2B | DUNA BENZINA/DIESEL (1986-1990)"
+                },
+                {
+                    "code": "$*KwEEXSFIAgAAAAD3AoCV$",
+                    "name": "2C | STILO BZ/DS (2001-2003)"
+                },
+                {
+                    "code": "$*KwHQifWc2gAAAAC56GlK$",
+                    "name": "2F | NUOVO ULYSSE (2001-2010)"
+                },
+                {
+                    "code": "$*KwGv9orjpAAAAADKA8_v$",
+                    "name": "2G | PALIO WE EUROPA REST. (2002-2004)"
+                },
+                {
+                    "code": "$*KwFkPUErZgAAAACA_CGT$",
+                    "name": "2H | PALIO 2V EXTRA EUROPA REST. 2002 (2002-2011)"
+                },
+                {
+                    "code": "$*KwFcBXkTXAAAAABOiCC8$",
+                    "name": "2K | PALIO WE EXTRA EUROPA REST. 2002 (2002-2008)"
+                },
+                {
+                    "code": "$*KwHZgPyW2AAAAADf0JTp$",
+                    "name": "2L | SIENA EXTRA EUROPA REST.(2002-2012)"
+                },
+                {
+                    "code": "$*KwHBmOSOxAAAAADOUt1H$",
+                    "name": "2P | PANDA DS (1986-1993)"
+                },
+                {
+                    "code": "$*KwHMlemDxgAAAABvQImo$",
+                    "name": "2Q | NUOVA PANDA (2003-2009)"
+                },
+                {
+                    "code": "$*KwGVzLDangAAAAC04eNk$",
+                    "name": "2R | PANDA 4X4 R/86 (1985-1991)"
+                },
+                {
+                    "code": "$*KwHttMij7gAAAADucOF8$",
+                    "name": "2S | IDEA (2003-2008)"
+                },
+                {
+                    "code": "$*KwFBGGQPQAAAAAAKc57P$",
+                    "name": "2T | CROMA (2005-2010)"
+                },
+                {
+                    "code": "$*KwGn_oLpoQAAAACLIaq9$",
+                    "name": "2U | PUNTO FL.'03 (2003-2010)"
+                },
+                {
+                    "code": "$*KwEcRTlSGwAAAACk3F82$",
+                    "name": "2V | STILO F.L.L. 2003 (2003-2007)"
+                },
+                {
+                    "code": "$*KwE_ZhpxNAAAAAA5KO1n$",
+                    "name": "2Y | GRANDE PUNTO (2005-2008)"
+                },
+                {
+                    "code": "$*KwE-Zxt_PgAAAAD-ACSl$",
+                    "name": "33 | NUOVA PANDA (2012-....)"
+                },
+                {
+                    "code": "$*KwGRyLTQlgAAAADIvrxX$",
+                    "name": "3B | SEDICI (2006-2011)"
+                },
+                {
+                    "code": "$*KwFeB3sfWwAAAADV1Ob2$",
+                    "name": "3D | PALIO 2V REST.2 (2005-2011)"
+                },
+                {
+                    "code": "$*KwGZwLzYkwAAAAC7qruH$",
+                    "name": "3E | SIENA REST.2 (2005-2011)"
+                },
+                {
+                    "code": "$*KwFjOkYiaAAAAAAuHpnh$",
+                    "name": "3F | PALIO WEEKEND REST.2 (2005-2009)"
+                },
+                {
+                    "code": "$*KwFVDHAVVQAAAAAT10ub$",
+                    "name": "3J | PUNTO EVO (2009-2011)"
+                },
+                {
+                    "code": "$*KwGM1anMjQAAAAASIZeH$",
+                    "name": "3K | PERLA CINA (2006-2007)"
+                },
+                {
+                    "code": "$*KwHXjvKX0QAAAABVVkc1$",
+                    "name": "3L | NUOVA BRAVO (2007-2009)"
+                },
+                {
+                    "code": "$*KwFYAX0YXwAAAAC8HpdG$",
+                    "name": "3M | LINEA (2007-....)"
+                },
+                {
+                    "code": "$*KwF8JVk8dgAAAAAfUDjZ$",
+                    "name": "3P | NUOVA 500 (2007-2012)"
+                },
+                {
+                    "code": "$*KwGdxLjVn58AAAAAH1owqA$",
+                    "name": "3S | GRANDE PUNTO INTERN. INDIA (2008-2014)"
+                },
+                {
+                    "code": "$*KwGZwLzRm5kAAAAA777J0g$",
+                    "name": "3U | PANDA MY 2009 (2009-2010)"
+                },
+                {
+                    "code": "$*KwFoMU0gam4AAAAAPkhvWQ$",
+                    "name": "3X | GRANDE PUNTO ACTUAL (2009-2013)"
+                },
+                {
+                    "code": "$*KwEnfgJvJSIAAAAAVNF8Jg$",
+                    "name": "3Y | NUOVA BRAVO MY 2010 (2010-2014)"
+                },
+                {
+                    "code": "$*KwGYwb3Qm5kAAAAAa6DtMA$",
+                    "name": "4C | GRANDE PUNTO (2008-2009)"
+                },
+                {
+                    "code": "$*KwEzahZ7MDMAAAAAWOBA5g$",
+                    "name": "4D | IDEA (2008-2012)"
+                },
+                {
+                    "code": "$*KwFjOkYrYGYAAAAAZvhWEA$",
+                    "name": "51 | NUOVA PUNTO MY2012 (2012-2013)"
+                },
+                {
+                    "code": "$*KwEeRztWHh8AAAAAOqNszA$",
+                    "name": "63 | 500 USA - CINA (2010-....)"
+                },
+                {
+                    "code": "$*KwETSjZbExMAAAAAhJnRlQ$",
+                    "name": "6U | PUNTO MY 2013 (2013-....)"
+                },
+                {
+                    "code": "$*KwHosc2g6O8AAAAAEMg7Dw$",
+                    "name": "71 | PANDA CLASSIC (2012-2012)"
+                },
+                {
+                    "code": "$*KwHFnOCNxcMAAAAAWaZE5g$",
+                    "name": "72 | VIAGGIO (2012-....)"
+                },
+                {
+                    "code": "$*KwEocQ1gKCwAAAAA16jv1g$",
+                    "name": "73 | 500L (2012-....)"
+                },
+                {
+                    "code": "$*KwH2r9O-9v0AAAAATp7yrQ$",
+                    "name": "74 | SEDICI MY 2012 (2012-2014)"
+                },
+                {
+                    "code": "$*KwFYAX0QWVkAAAAAB_8K0Q$",
+                    "name": "83 | 500 MY2012 (2012-....)"
+                },
+                {
+                    "code": "$*KwEXTjJfFhMAAAAAhAW8mw$",
+                    "name": "LV | PANDA 4X2 RL/86(1985-1991)"
+                },
+                {
+                    "code": "$*KwGcxbnUmp4AAAAAkTTQmQ$",
+                    "name": "MD | 126 BIS (1987-1999)"
+                },
+                {
+                    "code": "$*KwGE3aHMgoQAAAAAOUXgQQ$",
+                    "name": "ME | TIPO 1100-1370-1580 (1987-1993)"
+                },
+                {
+                    "code": "$*KwE2bxN-MDEAAAAATxucYw$",
+                    "name": "MF | TIPO DIESEL-T.DS. (1987-1993)"
+                },
+                {
+                    "code": "$*KwGVzLDdk5MAAAAAQY4BGQ$",
+                    "name": "MJ | CROMA TURBO DS FL.90 (1990-1996)"
+                },
+                {
+                    "code": "$*KwE3bhJ_MTIAAAAASxfYeg$",
+                    "name": "ML | UNO CS (1988-1990)"
+                },
+                {
+                    "code": "$*KwGcxbnUmpgAAAAAeFd1rA$",
+                    "name": "MP | TIPO SPORT 16V IE. (1988-1993)"
+                },
+                {
+                    "code": "$*KwE9ZBh1OzYAAAAAng-J-g$",
+                    "name": "MR | UNO R/89 900-1.0-1.1 (1989-1995)"
+                },
+                {
+                    "code": "$*KwEQSTVYFhoAAAAA12H2Ew$",
+                    "name": "MS | UNO R/89 1.1-1370-1.5 (1989-1995)"
+                },
+                {
+                    "code": "$*KwEwaRV4NzMAAAAAQPK9Rg$",
+                    "name": "MT | UNO TURBO R/89 (1989-1993)"
+                },
+                {
+                    "code": "$*KwE7Yh5zPDkAAAAA71fUYg$",
+                    "name": "MU | UNO DIESEL R/89 (1989-1995)"
+                },
+                {
+                    "code": "$*KwFkPUEsY2QAAAAAiWOW0w$",
+                    "name": "MV | TEMPRA 1370-1580 (1989-1993)"
+                },
+                {
+                    "code": "$*KwEVTDBdEhIAAAAARCMGjA$",
+                    "name": "MW | TEMPRA 1750-2000 (1989-1993)"
+                },
+                {
+                    "code": "$*KwGK06_CjYwAAAAA5XeQ5A$",
+                    "name": "MX | TEMPRA DIESEL-TURBO D.(1989-1993)"
+                },
+                {
+                    "code": "$*KwFEHWEMQ0EAAAAADl2g7A$",
+                    "name": "MY | CROMA IE-IE TB. FL.90 (1990-1996)"
+                },
+                {
+                    "code": "$*KwFPFmoHSEsAAAAAofjJyA$",
+                    "name": "MZ | CROMA CHT FL.90 (1990-1992)"
+                },
+                {
+                    "code": "$*KwFPFmoHS0kAAAAAZNv7Jw$",
+                    "name": "NG | TIPO 1750-2000 (1990-1993)"
+                },
+                {
+                    "code": "$*KwGo8Y3grK0AAAAAr3IcBg$",
+                    "name": "NJ | TEMPRA MQ.93 D-TD (1993-1996)"
+                },
+                {
+                    "code": "$*KwGD2qbLh4cAAAAA94O3kg$",
+                    "name": "NM | CINQUECENTO (1992-1998)"
+                },
+                {
+                    "code": "$*KwEJUCxBDQIAAAAAPi3Qxg$",
+                    "name": "NQ | CROMA IE. 2500 V6 (1993-1996)"
+                },
+                {
+                    "code": "$*KwEpcAxhLSMAAAAAvn4i4A$",
+                    "name": "NS | TIPO MQ.93 1370-1580 (1993-1995)"
+                },
+                {
+                    "code": "$*KwEmfwNuIyUAAAAAGPFq4Q$",
+                    "name": "NT | TIPO MAQ.93 D-TD (1993-1995)"
+                },
+                {
+                    "code": "$*KwHvtsqn6u0AAAAA5kjKjQ$",
+                    "name": "NU | TIPO MQ.93 1750-2000 (1993-1995)"
+                },
+                {
+                    "code": "$*KwHwqdW49fEAAAAAwqM7iw$",
+                    "name": "NV | PUNTO 55-60-75-90 (1993-1997)"
+                },
+                {
+                    "code": "$*KwG37pL_srcAAAAAe-F5dA$",
+                    "name": "NW | PUNTO GT (1993-1997)"
+                },
+                {
+                    "code": "$*KwHlvMCt4OIAAAAApIJChQ$",
+                    "name": "NX | PUNTO D-TD (1993-1997)"
+                },
+                {
+                    "code": "$*KwEvdgpnKikAAAAAv0yL9w$",
+                    "name": "NY | TEMPRA MAQ.93 1370-1580 ('93-'96)"
+                },
+                {
+                    "code": "$*KwHwqdW49fUAAAAAxc7_kg$",
+                    "name": "NZ | TEMPRA MAQ.93 1750-2000 ('93-'96)"
+                },
+                {
+                    "code": "$*KwHWj_Oe3NQAAAAAOvlgMw$",
+                    "name": "PC | COUPE' (1994-1996)"
+                },
+                {
+                    "code": "$*KwFnPkIvbWEAAAAAMNkktQ$",
+                    "name": "PF | PUNTO CABRIO (1994-1997)"
+                },
+                {
+                    "code": "$*KwFfBnoXVVoAAAAAGPvmSw$",
+                    "name": "PG | ULYSSE (1994-2002)"
+                },
+                {
+                    "code": "$*KwHzqta7-fgAAAAAQJmnRA$",
+                    "name": "PK | BARCHETTA (1995-2004)"
+                },
+                {
+                    "code": "$*KwGRyLTZmpIAAAAAmqATjQ$",
+                    "name": "PT | MAREA BENZINA (1996-1999)"
+                },
+                {
+                    "code": "$*KwFeB3sWVVwAAAAAdYZnnA$",
+                    "name": "PU | MAREA DIESEL (1996-1999)"
+                },
+                {
+                    "code": "$*KwETSjZbGBIAAAAAEGo4yA$",
+                    "name": "PX | COUPE' GAMMA'96 (1996-2000)"
+                },
+                {
+                    "code": "$*KwGYwb3Qk5gAAAAA1H5Xrg$",
+                    "name": "PY | PALIO/WEEKEND EUROPA (1997-2002)"
+                },
+                {
+                    "code": "$*KwHGn-ONzMIAAAAAqnYaBw$",
+                    "name": "XD | SMALL 500 L-LS-SE (1990-1992)"
+                },
+                {
+                    "code": "$*KwF_Jlo0dXQAAAAAClG3pQ$",
+                    "name": "XN | SMALL 990 (1990-1992)"
+                },
+                {
+                    "code": "$*KwGbwr7QkJgAAAAAqkbRUw$",
+                    "name": "XP | ELBA CSL (1991-1996)"
+                },
+                {
+                    "code": "$*KwEiewdpKSMAAAAAdNAATA$",
+                    "name": "XR | MILLE (1994-1995)"
+                },
+                {
+                    "code": "$*KwEIUS1DAwgAAAAAxiOO7Q$",
+                    "name": "XS | MILLE CLIP (1995-1997)"
+                }
+            ]
+        }
+    ]
+}

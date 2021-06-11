@@ -1,0 +1,83 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Series",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwFSC3cYUFEAAAAA8_iQ1w$",
+                    "name": "Cullinan RR31"
+                },
+                {
+                    "code": "$*KwH1rNC_9_UAAAAADYn01w$",
+                    "name": "Dawn RR6"
+                },
+                {
+                    "code": "$*KwEjegZpISEAAAAA19ulvQ$",
+                    "name": "Ghost RR4"
+                },
+                {
+                    "code": "$*KwEheARpJCMAAAAAlGurPw$",
+                    "name": "Phantom Coupé"
+                },
+                {
+                    "code": "$*KwGdxLjVlp0AAAAAIJbqzQ$",
+                    "name": "Phantom Coupé Series II"
+                },
+                {
+                    "code": "$*KwFTCnYbVlAAAAAAVT_3Sw$",
+                    "name": "Phantom Drophead"
+                },
+                {
+                    "code": "$*KwEheARpKiAAAAAAk-HXCw$",
+                    "name": "Phantom Drophead Series II"
+                },
+                {
+                    "code": "$*KwFPFmoEREQAAAAAn7QlDA$",
+                    "name": "Phantom EWB RR12"
+                },
+                {
+                    "code": "$*KwGO16vFhYsAAAAAzGeoXQ$",
+                    "name": "Phantom RR1"
+                },
+                {
+                    "code": "$*KwHjusao6OkAAAAAV2l5kg$",
+                    "name": "Phantom RR1 Series II"
+                },
+                {
+                    "code": "$*KwGn_oLsrKMAAAAAm-NP4g$",
+                    "name": "Phantom RR11"
+                },
+                {
+                    "code": "$*KwElfABvJyQAAAAAX00geg$",
+                    "name": "Wraith RR5"
+                }
+            ]
+        },
+        {
+            "name": "Body Type",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwE3bxJ9NDYAAAAAD-kV-A$",
+                    "name": "Convertible"
+                },
+                {
+                    "code": "$*KwEjewZpICQAAAAAg8pJww$",
+                    "name": "Coupé"
+                },
+                {
+                    "code": "$*KwG375L9tLMAAAAAFDLnNQ$",
+                    "name": "SAV"
+                },
+                {
+                    "code": "$*KwFAGGUKQ0YAAAAA0zZR2g$",
+                    "name": "Saloon"
+                }
+            ]
+        }
+    ]
+}
