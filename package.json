@@ -2,13 +2,15 @@
   "name": "amixline.loc",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://templton.github.io/japan/",
   "proxy": "http://amixline.loc",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -28,5 +30,8 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "dependencies": {
+    "gh-pages": "^3.2.0"
+  }
 }
