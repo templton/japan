@@ -1,0 +1,155 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Vehicle Type",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwHrsc6gAAAAALhyFB0$",
+                    "name": "Commercial vehicles"
+                },
+                {
+                    "code": "$*KwEFXyBNAAAAAAVIqRA$",
+                    "name": "Private vehicles"
+                }
+            ]
+        },
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwFgOUUqYwAAAABh5tvW$",
+                    "name": "1007"
+                },
+                {
+                    "code": "$*KwFCG2cKQwAAAAD-_iqH$",
+                    "name": "106"
+                },
+                {
+                    "code": "$*KwHttMim5wAAAADq262d$",
+                    "name": "107"
+                },
+                {
+                    "code": "$*KwHttMil6gAAAAC_R4Lj$",
+                    "name": "2008"
+                },
+                {
+                    "code": "$*KwENVChGDgAAAAAS7pU1$",
+                    "name": "205"
+                },
+                {
+                    "code": "$*KwFlPEAuZQAAAADd_Ik-$",
+                    "name": "206"
+                },
+                {
+                    "code": "$*KwF8JVk0dwAAAACgjoJH$",
+                    "name": "207"
+                },
+                {
+                    "code": "$*KwEAWSVLCwAAAAAtmFR5$",
+                    "name": "208"
+                },
+                {
+                    "code": "$*KwGt9IjmrwAAAACJK_7H$",
+                    "name": "3008"
+                },
+                {
+                    "code": "$*KwGF3KDKAAAAAK5kggE$",
+                    "name": "301"
+                },
+                {
+                    "code": "$*KwECWydIAAAAAAA46sLX$",
+                    "name": "306"
+                },
+                {
+                    "code": "$*KwH1rNC-8wAAAAD1gmwB$",
+                    "name": "307"
+                },
+                {
+                    "code": "$*KwEheARqJgAAAADF2flj$",
+                    "name": "308"
+                },
+                {
+                    "code": "$*KwE-ZxtwAAAAAEvqvhE$",
+                    "name": "4007"
+                },
+                {
+                    "code": "$*KwHkvcGpAAAAAE8sSRI$",
+                    "name": "4008"
+                },
+                {
+                    "code": "$*KwHUjfGc1wAAAABPMip8$",
+                    "name": "405"
+                },
+                {
+                    "code": "$*KwGr8o7jqwAAAADS1-31$",
+                    "name": "406"
+                },
+                {
+                    "code": "$*KwE6Yx9yOAAAAAAqpsBW$",
+                    "name": "407"
+                },
+                {
+                    "code": "$*KwEbQj5THQAAAADMPOV-$",
+                    "name": "408"
+                },
+                {
+                    "code": "$*KwEAWSVIBAAAAACWChor$",
+                    "name": "5008"
+                },
+                {
+                    "code": "$*KwGcxbnWnAAAAACEg7lB$",
+                    "name": "508"
+                },
+                {
+                    "code": "$*KwHTivab2QAAAAB_U7-A$",
+                    "name": "605"
+                },
+                {
+                    "code": "$*KwEDWiZPAAAAALvXrVE$",
+                    "name": "607"
+                },
+                {
+                    "code": "$*KwF4IV04AAAAAOHZbkI$",
+                    "name": "806"
+                },
+                {
+                    "code": "$*KwFRCHQbUAAAAAB1Va0R$",
+                    "name": "807"
+                },
+                {
+                    "code": "$*KwH7ot6x_QAAAAB_4wfw$",
+                    "name": "Bipper"
+                },
+                {
+                    "code": "$*KwFzKlY4dgAAAAAoA6q2$",
+                    "name": "Boxer"
+                },
+                {
+                    "code": "$*KwFZAHwRXAAAAABNq3Dn$",
+                    "name": "Expert"
+                },
+                {
+                    "code": "$*KwFfBnoVAAAAAEPB0Dc$",
+                    "name": "Expert Tepee"
+                },
+                {
+                    "code": "$*KwFfBnoUWwAAAACPXjJv$",
+                    "name": "Ion"
+                },
+                {
+                    "code": "$*KwENVChMAAAAALbD_G8$",
+                    "name": "Partner"
+                },
+                {
+                    "code": "$*KwGn_oLspgAAAABoMstb$",
+                    "name": "RCZ"
+                }
+            ]
+        }
+    ]
+}

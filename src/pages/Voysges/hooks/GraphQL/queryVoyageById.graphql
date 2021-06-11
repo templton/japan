@@ -1,0 +1,204 @@
+query voyageById($id: ID!) {
+    voyage(id: $id) {
+        id
+        created_at
+        createdBy {
+            id
+            name
+            photos
+        }
+        updated_at
+        updatedBy {
+            id
+            name
+            photos
+        }
+        owner {
+            id
+            name
+            photos
+        }
+        title
+        departDate
+        srcPort {
+            id
+            title
+            country
+            description
+            photos
+            extraFields
+            documents
+            tags
+        }
+        arrivalDate
+        destPort {
+            id
+            title
+            country
+            description
+            photos
+            extraFields
+            documents
+            tags
+        }
+        description
+        extraFields
+        documents
+        tags
+        status {
+            id
+            icon
+            title
+        }
+        ship {
+            id
+            title
+            country
+            description
+            photos
+            extraFields
+            documents
+            tags
+        }
+
+        cargos {
+            id
+            created_at
+            createdBy {
+                id
+                name
+                photos
+            }
+            updated_at
+            updatedBy {
+                id
+                name
+                photos
+            }
+            owner {
+                id
+                name
+                photos
+            }
+            title
+            description
+            photos
+            extraFields
+            documents
+            tags
+            status {
+                id
+                icon
+                title
+            }
+            cargoType {
+                id
+                title
+                icon
+            }
+            exportMethod {
+                id
+                title
+                icon
+                rate
+            }
+            sender {
+                id
+                title
+                photos
+                documents
+                extraFields
+                description
+                tags
+                owner {
+                    id
+                    name
+                    photos
+                }
+            }
+            client {
+                id
+                title
+                photos
+                documents
+                extraFields
+                description
+                tags
+                owner {
+                    id
+                    name
+                    photos
+                }
+            }
+            receiver {
+                id
+                title
+                photos
+                documents
+                extraFields
+                description
+                tags
+                owner {
+                    id
+                    name
+                    photos
+                }
+            }
+            customs {
+                id
+                title
+                photos
+                documents
+                extraFields
+                description
+                tags
+                owner {
+                    id
+                    name
+                    photos
+                }
+            }
+            tags
+            voyage {
+                id
+                created_at
+                createdBy {
+                    id
+                    name
+                    photos
+                }
+                updated_at
+                updatedBy {
+                    id
+                    name
+                    photos
+                }
+                owner {
+                    id
+                    name
+                    photos
+                }
+                title
+                description
+                extraFields
+                documents
+                tags
+                status {
+                    id
+                    icon
+                    title
+                }
+                ship {
+                    id
+                    title
+                    country
+                    description
+                    photos
+                    extraFields
+                    documents
+                    tags
+                }
+            }
+        }
+    }
+}

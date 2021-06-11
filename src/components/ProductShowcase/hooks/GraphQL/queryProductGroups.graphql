@@ -1,0 +1,18 @@
+query productGroups {
+    productGroups {
+        data {
+            id
+            title
+            products {
+                id
+                title
+                subtitle
+                base_price
+                image
+                product_tags {
+                    title
+                }
+            }
+        }
+    }
+}

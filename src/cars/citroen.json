@@ -1,0 +1,131 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Vehicle Type",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwFUDnEfAAAAAE7zsVo$",
+                    "name": "Commercial vehicles"
+                },
+                {
+                    "code": "$*KwHEnuGMAAAAAKunQU4$",
+                    "name": "Private vehicles"
+                }
+            ]
+        },
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwFWD3MeUAAAAACQundo$",
+                    "name": "AX"
+                },
+                {
+                    "code": "$*KwERSDRaFAAAAAAGCIMh$",
+                    "name": "BERLINGO"
+                },
+                {
+                    "code": "$*KwFLEm4BAAAAAGya2LM$",
+                    "name": "BX"
+                },
+                {
+                    "code": "$*KwE0bRF5AAAAAMVOa-k$",
+                    "name": "C-CROSSER"
+                },
+                {
+                    "code": "$*KwFVDHAeXwAAAAAQ9ntO$",
+                    "name": "C-ELYSEE"
+                },
+                {
+                    "code": "$*KwGD2qbDAAAAAIVv4ZE$",
+                    "name": "C-ZERO"
+                },
+                {
+                    "code": "$*KwGD2qbIgwAAAADCyijv$",
+                    "name": "C1"
+                },
+                {
+                    "code": "$*KwHQifWY0gAAAADTXyR8$",
+                    "name": "C15"
+                },
+                {
+                    "code": "$*KwF-J1s2fgAAAABC6USE$",
+                    "name": "C2"
+                },
+                {
+                    "code": "$*KwEocQ1jKgAAAABvdHoE$",
+                    "name": "C3"
+                },
+                {
+                    "code": "$*KwELUi5DDwAAAAA5eHKI$",
+                    "name": "C4"
+                },
+                {
+                    "code": "$*KwHWj_Od0gAAAACPzvNX$",
+                    "name": "C5"
+                },
+                {
+                    "code": "$*KwGZwLzWAAAAAEku2Qc$",
+                    "name": "C6"
+                },
+                {
+                    "code": "$*KwFiO0cuAAAAALSRB24$",
+                    "name": "C8"
+                },
+                {
+                    "code": "$*KwFzKlY7cgAAAAAEQz1s$",
+                    "name": "DISPATCH"
+                },
+                {
+                    "code": "$*KwFYAX0QUgAAAAAKdmHz$",
+                    "name": "DS3"
+                },
+                {
+                    "code": "$*KwFQCXUbUwAAAABVIvH5$",
+                    "name": "DS5"
+                },
+                {
+                    "code": "$*KwEiewdpJAAAAAAQCdo7$",
+                    "name": "JUMPY COMBI"
+                },
+                {
+                    "code": "$*KwFZAHwSXgAAAACIiEII$",
+                    "name": "NEMO"
+                },
+                {
+                    "code": "$*KwE_ZhpxAAAAACQ01fE$",
+                    "name": "RELAY"
+                },
+                {
+                    "code": "$*KwHdhPiW3AAAAABQ1m97$",
+                    "name": "SAXO"
+                },
+                {
+                    "code": "$*KwGN1KjFigAAAADk-bQ_$",
+                    "name": "SYNERGIE"
+                },
+                {
+                    "code": "$*KwFDGmYLRgAAAAAu8eIb$",
+                    "name": "XANTIA"
+                },
+                {
+                    "code": "$*KwGRyLTZkgAAAAAeEcMH$",
+                    "name": "XM"
+                },
+                {
+                    "code": "$*KwEEXSFFAAAAABEMxA0$",
+                    "name": "XSARA"
+                },
+                {
+                    "code": "$*KwHchfmU1wAAAABMTNkj$",
+                    "name": "ZX"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,294 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Место продаж",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwHEnZf9xwAAAAAyIIDz$",
+                    "name": "Australia (RHD)"
+                },
+                {
+                    "code": "$*KwGq8_mTqgAAAABj7b0l$",
+                    "name": "Canada"
+                },
+                {
+                    "code": "$*KwG_5uyGvgAAAAAzqEl6$",
+                    "name": "Europe (LHD)"
+                },
+                {
+                    "code": "$*KwFqMzlTbAAAAAA98nWo$",
+                    "name": "Europe (RHD)"
+                },
+                {
+                    "code": "$*KwEud30XKQAAAADMtKDA$",
+                    "name": "General/Asia (LHD)"
+                },
+                {
+                    "code": "$*KwGj-vCapwAAAAC-Rw7U$",
+                    "name": "General/Asia (RHD)"
+                },
+                {
+                    "code": "$*KwGn_vSerQAAAACylR1F$",
+                    "name": "USA"
+                }
+            ]
+        },
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwEyaGYLODYAAAAApV2lzQ$",
+                    "name": "FX35/45"
+                },
+                {
+                    "code": "$*KwHxq6XI-_oAAAAAjvxUIQ$",
+                    "name": "G20"
+                },
+                {
+                    "code": "$*KwEZQ00gExMAAAAAbRMTyA$",
+                    "name": "G35"
+                },
+                {
+                    "code": "$*KwG27OKPvbUAAAAAV3mfOw$",
+                    "name": "G37 SEDAN"
+                },
+                {
+                    "code": "$*KwEBW1U4CgcAAAAAO8E_Vg$",
+                    "name": "I30"
+                },
+                {
+                    "code": "$*KwHQioTp29UAAAAAbQmv4g$",
+                    "name": "I30/I35"
+                },
+                {
+                    "code": "$*KwHrsb_S4O8AAAAATlJlLg$",
+                    "name": "J30"
+                },
+                {
+                    "code": "$*KwFJEx1wSktFAAAAAK_5Cf4$",
+                    "name": "M"
+                },
+                {
+                    "code": "$*KwEGXFI_BQQLAAAAANVgwxQ$",
+                    "name": "M30"
+                },
+                {
+                    "code": "$*KwGYwsyhm5mcAAAAAJys3Is$",
+                    "name": "M35/45"
+                },
+                {
+                    "code": "$*KwH9p6nE_vz4AAAAAIX2jgY$",
+                    "name": "M45"
+                },
+                {
+                    "code": "$*KwGexMqnnZqSAAAAACjGl5w$",
+                    "name": "Q30/QX30"
+                },
+                {
+                    "code": "$*KwFEHhB9R0BJAAAAAPsHAP8$",
+                    "name": "Q40/G SEDAN"
+                },
+                {
+                    "code": "$*KwFjOTdaYGhnAAAAABMjouI$",
+                    "name": "Q45"
+                },
+                {
+                    "code": "$*KwEocnwRKyMtAAAAAOzBskg$",
+                    "name": "Q50"
+                },
+                {
+                    "code": "$*KwG54-2AurK-AAAAAC7sVK0$",
+                    "name": "Q60/G CONVERTIBLE"
+                },
+                {
+                    "code": "$*KwGq8P6TqaGqAAAAAKsXuX0$",
+                    "name": "Q60/G COUPE"
+                },
+                {
+                    "code": "$*KwEbQU8iGBAZAAAAAJnCmB4$",
+                    "name": "Q70(201802-)LAM"
+                },
+                {
+                    "code": "$*KwFyKCZLcXlxAAAAANRlohI$",
+                    "name": "Q70/M"
+                },
+                {
+                    "code": "$*KwGK0N6ziYGGAAAAAFJZMtA$",
+                    "name": "Q70/M HYBRID"
+                },
+                {
+                    "code": "$*KwFgOjRZY2pnAAAAAPDS2ak$",
+                    "name": "QX30"
+                },
+                {
+                    "code": "$*KwE9Z2kEPjc9AAAAAFnpOJU$",
+                    "name": "QX4"
+                },
+                {
+                    "code": "$*KwF-JCpHfXR_AAAAAHeNmv4$",
+                    "name": "QX50"
+                },
+                {
+                    "code": "$*KwFPFRt2TEVNAAAAAEdemZE$",
+                    "name": "QX50/EX"
+                },
+                {
+                    "code": "$*KwFjOTdaYGlgAAAAAJRcBgA$",
+                    "name": "QX56"
+                },
+                {
+                    "code": "$*KwHfhYvm3NXTAAAAAK2bxc8$",
+                    "name": "QX60 HYBIRD"
+                },
+                {
+                    "code": "$*KwFFHxF8Rk9IAAAAAETa2-E$",
+                    "name": "QX60 HYBRID"
+                },
+                {
+                    "code": "$*KwE3bWMONzQzAAAAAB47pn0$",
+                    "name": "QX60/JX"
+                },
+                {
+                    "code": "$*KwFTCQdqU1BWAAAAACY_AmA$",
+                    "name": "QX70/FX"
+                },
+                {
+                    "code": "$*KwHzqafK8_D1AAAAADrPhsY$",
+                    "name": "QX80/QX56"
+                }
+            ]
+        },
+        {
+            "name": "Год выпуска",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwEGXFQ_BQcLBAAAAAAbf8Ju$",
+                    "name": "1989"
+                },
+                {
+                    "code": "$*KwFIEhpxS0lFRQAAAACzNN03$",
+                    "name": "1990"
+                },
+                {
+                    "code": "$*KwGL0dmyiIqGhwAAAAAVpOjQ$",
+                    "name": "1991"
+                },
+                {
+                    "code": "$*KwHNl5_0zs3JyAAAAABm5X9k$",
+                    "name": "1992"
+                },
+                {
+                    "code": "$*KwF7ISlCeHt_fwAAAABoBLTX$",
+                    "name": "1993"
+                },
+                {
+                    "code": "$*KwGB29O4goGFhgAAAABlPeCJ$",
+                    "name": "1994"
+                },
+                {
+                    "code": "$*KwFyKCBLcXJ2dAAAAADjStR5$",
+                    "name": "1995"
+                },
+                {
+                    "code": "$*KwHiuLDb4eLm4wAAAACfm0a_$",
+                    "name": "1996"
+                },
+                {
+                    "code": "$*KwFNFx90Tk1JTQAAAADrmHOD$",
+                    "name": "1997"
+                },
+                {
+                    "code": "$*KwFCGBB7QUJGQQAAAACzxyHh$",
+                    "name": "1998"
+                },
+                {
+                    "code": "$*KwEQSkIpExAUEgAAAABwy-5H$",
+                    "name": "1999"
+                },
+                {
+                    "code": "$*KwHSiIDr0dLW3wAAAAC2yguD$",
+                    "name": "2000"
+                },
+                {
+                    "code": "$*KwHIkprxy8jMxAAAAADpJMS3$",
+                    "name": "2001"
+                },
+                {
+                    "code": "$*KwHstr7V7-zp6QAAAADHkk0b$",
+                    "name": "2002"
+                },
+                {
+                    "code": "$*KwHkvrbd5-Th4AAAAABS_IEr$",
+                    "name": "2003"
+                },
+                {
+                    "code": "$*KwGn_fWepKeioAAAAADndS2I$",
+                    "name": "2004"
+                },
+                {
+                    "code": "$*KwHSiIDr0dLX1AAAAAA4A-NK$",
+                    "name": "2005"
+                },
+                {
+                    "code": "$*KwHEnpb9x8TBxQAAAAAd04u-$",
+                    "name": "2006"
+                },
+                {
+                    "code": "$*KwHzqaHK8PP28wAAAABpDEVB$",
+                    "name": "2007"
+                },
+                {
+                    "code": "$*KwFfBQ1mXF9aXAAAAAChChB8$",
+                    "name": "2008"
+                },
+                {
+                    "code": "$*KwEZQ0sgGhkcGwAAAAAMkN6E$",
+                    "name": "2009"
+                },
+                {
+                    "code": "$*KwEcRk4lHxwZEQAAAABqMsBi$",
+                    "name": "2010"
+                },
+                {
+                    "code": "$*KwEkfnYdJyQhKAAAAADfuw1F$",
+                    "name": "2011"
+                },
+                {
+                    "code": "$*KwGn_fWepKehogAAAAAiVh9n$",
+                    "name": "2012"
+                },
+                {
+                    "code": "$*KwGL0dmyiIuNjwAAAAD5SdMe$",
+                    "name": "2013"
+                },
+                {
+                    "code": "$*KwG07uaNt7SyswAAAACB8YBr$",
+                    "name": "2014"
+                },
+                {
+                    "code": "$*KwHLkZnyyMvNzQAAAABpzE4G$",
+                    "name": "2015"
+                },
+                {
+                    "code": "$*KwHps7vQ6unv6AAAAAAdz9m2$",
+                    "name": "2016"
+                },
+                {
+                    "code": "$*KwELUVkyCAsNCwAAAAADM-9v$",
+                    "name": "2017"
+                },
+                {
+                    "code": "$*KwFdBw9kXl1bXgAAAABfBb-2$",
+                    "name": "2018"
+                }
+            ]
+        }
+    ]
+}

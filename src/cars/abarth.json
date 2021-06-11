@@ -1,0 +1,47 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwFDGWYDSAAAAAATJer6$",
+                    "name": "CINQUECENTO ABARTH"
+                },
+                {
+                    "code": "$*KwEFXyBNBw8AAAAAe--V_A$",
+                    "name": "PUNTO ABARTH"
+                }
+            ]
+        },
+        {
+            "name": "Каталог",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwFtNEglb24AAAAAusomtQ$",
+                    "name": "3R | NUOVA 500 ABARTH (2008-2012)"
+                },
+                {
+                    "code": "$*KwF4IV0we3sAAAAALJPLzw$",
+                    "name": "4A | GRANDE PUNTO ABARTH (2007-2010)"
+                },
+                {
+                    "code": "$*KwH6o9-y-fgAAAAAP1CxMA$",
+                    "name": "4B | PUNTO EVO ABARTH (2010-2012)"
+                },
+                {
+                    "code": "$*KwHbgv6T2tkAAAAAEDA0Nw$",
+                    "name": "81 | NUOVA PUNTO ABARTH MY2012 (2012-2013)"
+                },
+                {
+                    "code": "$*KwFfBnoXXl8AAAAAi2XLDw$",
+                    "name": "85 | 500 ABARTH MY2012 (2012-....)"
+                }
+            ]
+        }
+    ]
+}

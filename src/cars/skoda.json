@@ -1,0 +1,267 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwFiO0cjZgAAAABpw4j1$",
+                    "name": "Citigo"
+                },
+                {
+                    "code": "$*KwEudwtuLgAAAAD8UeM-$",
+                    "name": "E-Citigo"
+                },
+                {
+                    "code": "$*KwGM1anMhgAAAACF804P$",
+                    "name": "Fabia"
+                },
+                {
+                    "code": "$*KwGQybXQmwAAAAAPcc24$",
+                    "name": "Favorit/Form./Pickup"
+                },
+                {
+                    "code": "$*KwEPVipHDQwAAAAAdzMrDw$",
+                    "name": "Felicia"
+                },
+                {
+                    "code": "$*KwGC26fKgoEAAAAA54nCAA$",
+                    "name": "Kamiq"
+                },
+                {
+                    "code": "$*KwHstcmk7O4AAAAAfkhX1g$",
+                    "name": "Karoq"
+                },
+                {
+                    "code": "$*KwFVDHAdVVQAAAAA19m2Xw$",
+                    "name": "Kodiaq"
+                },
+                {
+                    "code": "$*KwFOF2sGT0wAAAAA9MPuTg$",
+                    "name": "Octavia"
+                },
+                {
+                    "code": "$*KwEkfQFsJS4AAAAACjRbag$",
+                    "name": "Pick Up"
+                },
+                {
+                    "code": "$*KwFdBHgVV10AAAAAZ-Re7w$",
+                    "name": "Rapid"
+                },
+                {
+                    "code": "$*KwF2L1M-fHEAAAAA1nZQTg$",
+                    "name": "Roomster"
+                },
+                {
+                    "code": "$*KwH7ot6z8f8AAAAA7fOKeQ$",
+                    "name": "Scala"
+                },
+                {
+                    "code": "$*KwHxqNS5-vIAAAAAWCxSHA$",
+                    "name": "Sk.105/20/30/35/36/garde"
+                },
+                {
+                    "code": "$*KwEcRTlUFx4AAAAATyuolg$",
+                    "name": "Superb"
+                },
+                {
+                    "code": "$*KwFXDnIcVFMAAAAAga3jYQ$",
+                    "name": "Yeti"
+                }
+            ]
+        },
+        {
+            "name": "Год выпуска",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwHTi_aY1dcAAAAAtOGggA$",
+                    "name": "1976"
+                },
+                {
+                    "code": "$*KwEqcg9hLCEAAAAAIR6OAw$",
+                    "name": "1977"
+                },
+                {
+                    "code": "$*KwFLE24ATUEAAAAAfpfaMQ$",
+                    "name": "1978"
+                },
+                {
+                    "code": "$*KwGdxbjWmp4AAAAAKgxjkg$",
+                    "name": "1979"
+                },
+                {
+                    "code": "$*KwFHH2IMQEUAAAAASmjLuA$",
+                    "name": "1980"
+                },
+                {
+                    "code": "$*KwHAmOWLx8EAAAAAQ01tCA$",
+                    "name": "1981"
+                },
+                {
+                    "code": "$*KwHhucSq5uEAAAAAKRy6Gw$",
+                    "name": "1982"
+                },
+                {
+                    "code": "$*KwERSTRaFhYAAAAAZe8JMw$",
+                    "name": "1983"
+                },
+                {
+                    "code": "$*KwGTy7bYlJUAAAAAdixzzA$",
+                    "name": "1984"
+                },
+                {
+                    "code": "$*KwHRifSa1tQAAAAA1YjtfA$",
+                    "name": "1985"
+                },
+                {
+                    "code": "$*KwHhucSq5uUAAAAALnF-Ag$",
+                    "name": "1986"
+                },
+                {
+                    "code": "$*KwHKku-BzcEAAAAAkTj4kQ$",
+                    "name": "1987"
+                },
+                {
+                    "code": "$*KwEPVypECAUAAAAATL7wBw$",
+                    "name": "1988"
+                },
+                {
+                    "code": "$*KwFyKlc5dnEAAAAAblS2Zg$",
+                    "name": "1989"
+                },
+                {
+                    "code": "$*KwHOluuFyswAAAAA3SOLoA$",
+                    "name": "1990"
+                },
+                {
+                    "code": "$*KwGL067Aj4oAAAAAhRrkWA$",
+                    "name": "1991"
+                },
+                {
+                    "code": "$*KwHFneCOwcUAAAAA64-zPg$",
+                    "name": "1992"
+                },
+                {
+                    "code": "$*KwGv94rkq6gAAAAAhccbiw$",
+                    "name": "1993"
+                },
+                {
+                    "code": "$*KwFdBXgWWVsAAAAALyJBvQ$",
+                    "name": "1994"
+                },
+                {
+                    "code": "$*KwFpMUwibWwAAAAAJD8ruQ$",
+                    "name": "1995"
+                },
+                {
+                    "code": "$*KwFDG2YIR0cAAAAAlsylGA$",
+                    "name": "1996"
+                },
+                {
+                    "code": "$*KwHPl-qEy8QAAAAATv0WMQ$",
+                    "name": "1997"
+                },
+                {
+                    "code": "$*KwFsNEknaGYAAAAAQGiLSw$",
+                    "name": "1998"
+                },
+                {
+                    "code": "$*KwGx6ZT6tLIAAAAAzFFrWg$",
+                    "name": "1999"
+                },
+                {
+                    "code": "$*KwGx6ZT6tLMAAAAAu1ZbzA$",
+                    "name": "2000"
+                },
+                {
+                    "code": "$*KwHbg_6Q3toAAAAA0nM3YA$",
+                    "name": "2001"
+                },
+                {
+                    "code": "$*KwEzaxZ4NjMAAAAAMZxwiQ$",
+                    "name": "2002"
+                },
+                {
+                    "code": "$*KwEHXyJMAgAAAAAAPezelA$",
+                    "name": "2003"
+                },
+                {
+                    "code": "$*KwElfQBuICMAAAAAsspgmQ$",
+                    "name": "2004"
+                },
+                {
+                    "code": "$*KwFhOUQqZGQAAAAAAPEqVA$",
+                    "name": "2005"
+                },
+                {
+                    "code": "$*KwG44J3zvbwAAAAAheLrYA$",
+                    "name": "2006"
+                },
+                {
+                    "code": "$*KwHSiveZ19kAAAAA5XHL5w$",
+                    "name": "2007"
+                },
+                {
+                    "code": "$*KwE1bRB-MD8AAAAAwNZN6g$",
+                    "name": "2008"
+                },
+                {
+                    "code": "$*KwF1LVA-f3YAAAAAC0pqoA$",
+                    "name": "2009"
+                },
+                {
+                    "code": "$*KwGI0K3DgooAAAAAZ-fxcg$",
+                    "name": "2010"
+                },
+                {
+                    "code": "$*KwHXj_Kc3dYAAAAAdtSDVQ$",
+                    "name": "2011"
+                },
+                {
+                    "code": "$*KwHNleiGx80AAAAASNmuHA$",
+                    "name": "2012"
+                },
+                {
+                    "code": "$*KwH4oN2z8v8AAAAArqslNA$",
+                    "name": "2013"
+                },
+                {
+                    "code": "$*KwGj-4boqaUAAAAAT3yuaQ$",
+                    "name": "2014"
+                },
+                {
+                    "code": "$*KwEkfAFvLiEAAAAARlkI2Q$",
+                    "name": "2015"
+                },
+                {
+                    "code": "$*KwFDG2YISUcAAAAACE-Ilg$",
+                    "name": "2016"
+                },
+                {
+                    "code": "$*KwEcRDlXFhcAAAAAEMq2mg$",
+                    "name": "2017"
+                },
+                {
+                    "code": "$*KwG375L8vb0AAAAAI4obTA$",
+                    "name": "2018"
+                },
+                {
+                    "code": "$*KwEvdwpkJCwAAAAAboPFHw$",
+                    "name": "2019"
+                },
+                {
+                    "code": "$*KwGo8I3jo6oAAAAAiagCgw$",
+                    "name": "2020"
+                },
+                {
+                    "code": "$*KwEnfwJsLCYAAAAAvViUnw$",
+                    "name": "2021"
+                }
+            ]
+        }
+    ]
+}

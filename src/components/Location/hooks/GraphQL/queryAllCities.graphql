@@ -1,0 +1,13 @@
+query allCities {
+    countries {
+        data {
+            id
+            title
+            cities {
+                id
+                title
+                phone
+            }
+        }
+    }
+}

@@ -1,0 +1,494 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Место продаж",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwEDWSZIAAAAACf1hqs$",
+                    "name": "Europe"
+                },
+                {
+                    "code": "$*KwHmvMOuAAAAAOK81AQ$",
+                    "name": "USA"
+                }
+            ]
+        },
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwHag_-S2wAAAAAyRhHg$",
+                    "name": "Audi 100"
+                },
+                {
+                    "code": "$*KwFrMk4jbwAAAABixkRU$",
+                    "name": "Audi 100 quattro"
+                },
+                {
+                    "code": "$*KwELUi5DDQAAAADXdhOk$",
+                    "name": "Audi 100/Avant"
+                },
+                {
+                    "code": "$*KwHVjPCd0gAAAACfPeLg$",
+                    "name": "Audi 100/Avant quattro"
+                },
+                {
+                    "code": "$*KwFwKVU4dQAAAACh-eq7$",
+                    "name": "Audi 200"
+                },
+                {
+                    "code": "$*KwFCG2cKSQAAAAAeK8OZ$",
+                    "name": "Audi 200 quattro"
+                },
+                {
+                    "code": "$*KwGi-4fqqAAAAADoxXMD$",
+                    "name": "Audi 200/Avant quattro"
+                },
+                {
+                    "code": "$*KwF4IV0zegAAAAAZFVe2$",
+                    "name": "Audi 4000"
+                },
+                {
+                    "code": "$*KwEBWCRKAgAAAAD0IdDO$",
+                    "name": "Audi 4000 quattro"
+                },
+                {
+                    "code": "$*KwEudwtlLgAAAAAfpTr1$",
+                    "name": "Audi 50"
+                },
+                {
+                    "code": "$*KwFOF2sFTwAAAAAzHDy_$",
+                    "name": "Audi 5000"
+                },
+                {
+                    "code": "$*KwEOVytFCQAAAAC3VELi$",
+                    "name": "Audi 5000 Turbo"
+                },
+                {
+                    "code": "$*KwHEneGPwAAAAADhMRrG$",
+                    "name": "Audi 5000 Turbo quattro"
+                },
+                {
+                    "code": "$*KwE9ZBh2OwAAAABPW3rU$",
+                    "name": "Audi 5000 quattro"
+                },
+                {
+                    "code": "$*KwHKk--AyQAAAAD1NOSU$",
+                    "name": "Audi 80 Avant RS2 quattro"
+                },
+                {
+                    "code": "$*KwFwKVU7dQAAAACK1Ll4$",
+                    "name": "Audi 80/90"
+                },
+                {
+                    "code": "$*KwGy65f4sAAAAADPYm9p$",
+                    "name": "Audi 80/90 quattro"
+                },
+                {
+                    "code": "$*KwHXjvKc3QAAAAC_FNLV$",
+                    "name": "Audi 80/90/Avant"
+                },
+                {
+                    "code": "$*KwEsdQlnJwAAAAD9wvw2$",
+                    "name": "Audi 80/90/Avant quattro"
+                },
+                {
+                    "code": "$*KwFjOkYpYwAAAABaOJmi$",
+                    "name": "Audi A1"
+                },
+                {
+                    "code": "$*KwFJEGwDSAAAAABjuiCm$",
+                    "name": "Audi A2"
+                },
+                {
+                    "code": "$*KwEzahZ5NQAAAADFOhEl$",
+                    "name": "Audi A3 Cabriolet"
+                },
+                {
+                    "code": "$*KwFJEGwDTgAAAACK2YWT$",
+                    "name": "Audi A3/S3/Sportb./Lim./qu."
+                },
+                {
+                    "code": "$*KwEtdAhnKQAAAACjBNxj$",
+                    "name": "Audi A4 allroad quattro"
+                },
+                {
+                    "code": "$*KwGN1KjHiAAAAAA4wbeR$",
+                    "name": "Audi A4/Avant"
+                },
+                {
+                    "code": "$*KwEMVSlBDgAAAADk0Q6g$",
+                    "name": "Audi A4/S4 Cabrio./qu."
+                },
+                {
+                    "code": "$*KwFYAX0SUgAAAAA4QANx$",
+                    "name": "Audi A4/S4/Avant"
+                },
+                {
+                    "code": "$*KwFqM08gYQAAAAAXLTfC$",
+                    "name": "Audi A4/S4/Avant/quattro"
+                },
+                {
+                    "code": "$*KwFPFmoCTAAAAABcKvaQ$",
+                    "name": "Audi A5/S5 Cabriolet"
+                },
+                {
+                    "code": "$*KwGTyrbekwAAAACP2nmz$",
+                    "name": "Audi A5/S5 Coupe/Sportback"
+                },
+                {
+                    "code": "$*KwHVjPCY0wAAAACVTSYz$",
+                    "name": "Audi A6 Allroad quattro"
+                },
+                {
+                    "code": "$*KwEfRjpSHgAAAADERboO$",
+                    "name": "Audi A6 allroad quattro"
+                },
+                {
+                    "code": "$*KwGx6JT8tgAAAABSnh7v$",
+                    "name": "Audi A6/Avant"
+                },
+                {
+                    "code": "$*KwGn_oLqowAAAABOAphS$",
+                    "name": "Audi A6/S6/Avant quattro"
+                },
+                {
+                    "code": "$*KwGn_oLqogAAAAA5BajE$",
+                    "name": "Audi A7 Sportback"
+                },
+                {
+                    "code": "$*KwEPVipCBQAAAABI3ZVc$",
+                    "name": "Audi A8"
+                },
+                {
+                    "code": "$*KwHosc2l4wAAAAD3jgie$",
+                    "name": "Audi A8/S8 quattro"
+                },
+                {
+                    "code": "$*KwFCG2cOQAAAAAADm745$",
+                    "name": "Audi Cabriolet"
+                },
+                {
+                    "code": "$*KwGE3aHIhwAAAABdP8LK$",
+                    "name": "Audi Coupe"
+                },
+                {
+                    "code": "$*KwFNFGgBTQAAAACpjYkg$",
+                    "name": "Audi Coupe quattro"
+                },
+                {
+                    "code": "$*KwFDGmYPRQAAAADTlHal$",
+                    "name": "Audi Fox"
+                },
+                {
+                    "code": "$*KwE2bxN6MQAAAADYb7Qm$",
+                    "name": "Audi Q2"
+                },
+                {
+                    "code": "$*KwGUzbHYkAAAAADYEaGz$",
+                    "name": "Audi Q3"
+                },
+                {
+                    "code": "$*KwESSzdeFwAAAADrngYo$",
+                    "name": "Audi Q5"
+                },
+                {
+                    "code": "$*KwFtNEghZwAAAAB_zY2K$",
+                    "name": "Audi Q7"
+                },
+                {
+                    "code": "$*KwEaQz9WEQAAAAABg1BC$",
+                    "name": "Audi Q8"
+                },
+                {
+                    "code": "$*KwFUDXEbVAAAAABDLVvR$",
+                    "name": "Audi R8"
+                },
+                {
+                    "code": "$*KwHQifWf0QAAAAAFF-MB$",
+                    "name": "Audi RS3 Sportback/Lim."
+                },
+                {
+                    "code": "$*KwHut8uh6QAAAABS0Qfq$",
+                    "name": "Audi RS4 Cabriolet qu."
+                },
+                {
+                    "code": "$*KwF-J1sxegAAAAAKxRZa$",
+                    "name": "Audi RS4 quattro"
+                },
+                {
+                    "code": "$*KwG95JjyuwAAAADxYAkA$",
+                    "name": "Audi RS4/Avant quattro"
+                },
+                {
+                    "code": "$*KwGH3qLIggAAAAA9pify$",
+                    "name": "Audi RS5 Cabriolet qu."
+                },
+                {
+                    "code": "$*KwH3rtK4_QAAAADt7fpl$",
+                    "name": "Audi RS5 Coupe/Sportback"
+                },
+                {
+                    "code": "$*KwFlPEAqbgAAAAAuQpWy$",
+                    "name": "Audi RS6 qu."
+                },
+                {
+                    "code": "$*KwGk_YHqpgAAAAAum31q$",
+                    "name": "Audi RS6RS6 plus/Avant qu."
+                },
+                {
+                    "code": "$*KwFWD3MYVQAAAAC2iiRh$",
+                    "name": "Audi RS7 Sportback"
+                },
+                {
+                    "code": "$*KwFeB3sQXgAAAAAiJg62$",
+                    "name": "Audi RSQ3"
+                },
+                {
+                    "code": "$*KwH0rdG69QAAAADB8wFi$",
+                    "name": "Audi RSQ8"
+                },
+                {
+                    "code": "$*KwFjOkYtZQAAAADXN_mT$",
+                    "name": "Audi S6 plus quattro"
+                },
+                {
+                    "code": "$*KwFUDXEaUwAAAADEUv8z$",
+                    "name": "Audi TT Coupe/Roadster"
+                },
+                {
+                    "code": "$*KwHmv8Oo4wAAAACoYSzq$",
+                    "name": "Audi TT/TTS Coupe/Roadster"
+                },
+                {
+                    "code": "$*KwFmP0MoYgAAAAAFMaqs$",
+                    "name": "Audi TTRS Coupe/Roadster"
+                },
+                {
+                    "code": "$*KwG54Jz3swAAAAAKp0r8$",
+                    "name": "Audi V8"
+                },
+                {
+                    "code": "$*KwGg-YXsoQAAAABuznDE$",
+                    "name": "Audi e-tron"
+                },
+                {
+                    "code": "$*KwHEneGLxgAAAABsPnr3$",
+                    "name": "Audi quattro"
+                },
+                {
+                    "code": "$*KwFCG2cNQQAAAABfsd1s$",
+                    "name": "Audi quattro/Sport"
+                }
+            ]
+        },
+        {
+            "name": "Год выпуска",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwHutsul6OkAAAAAaCvfHQ$",
+                    "name": "1973"
+                },
+                {
+                    "code": "$*KwG27pP9sLAAAAAAbIs9Xg$",
+                    "name": "1974"
+                },
+                {
+                    "code": "$*KwFeBnsVWFsAAAAAYWobmw$",
+                    "name": "1975"
+                },
+                {
+                    "code": "$*KwHQiPWb1tQAAAAAUZbJng$",
+                    "name": "1976"
+                },
+                {
+                    "code": "$*KwE6Yh9xPDEAAAAAWrTvWw$",
+                    "name": "1977"
+                },
+                {
+                    "code": "$*KwEEXCFPAg4AAAAAjQeY9A$",
+                    "name": "1978"
+                },
+                {
+                    "code": "$*KwFVDXAeUlYAAAAASbDWXQ$",
+                    "name": "1979"
+                },
+                {
+                    "code": "$*KwHIkO2Dz8oAAAAA55EMHg$",
+                    "name": "1980"
+                },
+                {
+                    "code": "$*KwFnP0IsYGYAAAAAJDVYsg$",
+                    "name": "1981"
+                },
+                {
+                    "code": "$*KwG85Jn3u7wAAAAArlPVrQ$",
+                    "name": "1982"
+                },
+                {
+                    "code": "$*KwHFneCOwsIAAAAAXsZ1Xg$",
+                    "name": "1983"
+                },
+                {
+                    "code": "$*KwFNFWgGSksAAAAAf6VzJg$",
+                    "name": "1984"
+                },
+                {
+                    "code": "$*KwG17ZD-srAAAAAACe40uw$",
+                    "name": "1985"
+                },
+                {
+                    "code": "$*KwHrs86g7O8AAAAAHNEChQ$",
+                    "name": "1986"
+                },
+                {
+                    "code": "$*KwHLk-6AzMAAAAAAezrdpA$",
+                    "name": "1987"
+                },
+                {
+                    "code": "$*KwEZQTxSHhMAAAAAJotFIg$",
+                    "name": "1988"
+                },
+                {
+                    "code": "$*KwH9pdi2-f4AAAAAw61xwA$",
+                    "name": "1989"
+                },
+                {
+                    "code": "$*KwHKku-BzsgAAAAAw8kT9g$",
+                    "name": "1990"
+                },
+                {
+                    "code": "$*KwFHH2IMQ0YAAAAA-EzJwQ$",
+                    "name": "1991"
+                },
+                {
+                    "code": "$*KwH4oN2z_PgAAAAArkydGQ$",
+                    "name": "1992"
+                },
+                {
+                    "code": "$*KwEYQD1THB8AAAAAmRVPaQ$",
+                    "name": "1993"
+                },
+                {
+                    "code": "$*KwFUDHEfUFIAAAAA-PVUJA$",
+                    "name": "1994"
+                },
+                {
+                    "code": "$*KwHiusep5ucAAAAAlyx0SQ$",
+                    "name": "1995"
+                },
+                {
+                    "code": "$*KwF6Il8xfn4AAAAAzeUTaQ$",
+                    "name": "1996"
+                },
+                {
+                    "code": "$*KwGB2aTKhYoAAAAAV29xwQ$",
+                    "name": "1997"
+                },
+                {
+                    "code": "$*KwEYQD1THBIAAAAA56Qz1A$",
+                    "name": "1998"
+                },
+                {
+                    "code": "$*KwFSCncZV1EAAAAAgBtFlw$",
+                    "name": "1999"
+                },
+                {
+                    "code": "$*KwHju8ao5uEAAAAA-lH1ng$",
+                    "name": "2000"
+                },
+                {
+                    "code": "$*KwE4YB1zPTkAAAAAnjkZrQ$",
+                    "name": "2001"
+                },
+                {
+                    "code": "$*KwFQCHUbVVAAAAAAFmdYBg$",
+                    "name": "2002"
+                },
+                {
+                    "code": "$*KwHchPmX2dsAAAAAwI1jHQ$",
+                    "name": "2003"
+                },
+                {
+                    "code": "$*KwFmPkMtY2AAAAAAYmWKpg$",
+                    "name": "2004"
+                },
+                {
+                    "code": "$*KwHpscyi7OwAAAAAVpUcug$",
+                    "name": "2005"
+                },
+                {
+                    "code": "$*KwExaRR6NDUAAAAAOYT4uw$",
+                    "name": "2006"
+                },
+                {
+                    "code": "$*KwEaQj9RHxEAAAAAhs1-KA$",
+                    "name": "2007"
+                },
+                {
+                    "code": "$*KwGSyrfZl5gAAAAAp654UA$",
+                    "name": "2008"
+                },
+                {
+                    "code": "$*KwFNFWgGR04AAAAAumH55A$",
+                    "name": "2009"
+                },
+                {
+                    "code": "$*KwGE3KHPjoYAAAAARNhZiA$",
+                    "name": "2010"
+                },
+                {
+                    "code": "$*KwH-ptu19P8AAAAAVldUfA$",
+                    "name": "2011"
+                },
+                {
+                    "code": "$*KwEMVClHBgwAAAAA_LIOSg$",
+                    "name": "2012"
+                },
+                {
+                    "code": "$*KwHQiPWb2tcAAAAAZCrXKA$",
+                    "name": "2013"
+                },
+                {
+                    "code": "$*KwF1LVA-f3MAAAAAeyCeLw$",
+                    "name": "2014"
+                },
+                {
+                    "code": "$*KwEWTjNdHBMAAAAAxdLnGg$",
+                    "name": "2015"
+                },
+                {
+                    "code": "$*KwF-Jls1dHoAAAAATYymsQ$",
+                    "name": "2016"
+                },
+                {
+                    "code": "$*KwF0LFE_fn8AAAAA75PHpw$",
+                    "name": "2017"
+                },
+                {
+                    "code": "$*KwGq8o_hoKAAAAAAkR332w$",
+                    "name": "2018"
+                },
+                {
+                    "code": "$*KwERSTRaGhIAAAAAzjeCJg$",
+                    "name": "2019"
+                },
+                {
+                    "code": "$*KwHPl-qExM0AAAAAsLmyWg$",
+                    "name": "2020"
+                },
+                {
+                    "code": "$*KwH0rNG___UAAAAAfewZug$",
+                    "name": "2021"
+                }
+            ]
+        }
+    ]
+}

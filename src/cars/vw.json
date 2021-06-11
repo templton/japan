@@ -1,0 +1,670 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Место продаж",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwH7od6wAAAAAPMhtVg$",
+                    "name": "Europe"
+                },
+                {
+                    "code": "$*KwETSTZbAAAAAPWvdlQ$",
+                    "name": "USA"
+                }
+            ]
+        },
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwERSDRdAAAAAC8429Q$",
+                    "name": "Amarok"
+                },
+                {
+                    "code": "$*KwEAWSVPAAAAAJK8QMs$",
+                    "name": "Ameo"
+                },
+                {
+                    "code": "$*KwGt9IjtAAAAAGBtjpg$",
+                    "name": "Arteon"
+                },
+                {
+                    "code": "$*KwE5YBxxOgAAAAD_duMO$",
+                    "name": "Atlas"
+                },
+                {
+                    "code": "$*KwFSC3caUgAAAACSs-zL$",
+                    "name": "Atlas Cross Sport"
+                },
+                {
+                    "code": "$*KwG54Jz3sgAAAAB9oHpq$",
+                    "name": "Beetle"
+                },
+                {
+                    "code": "$*KwEgeQVhIgAAAACYPunj$",
+                    "name": "Beetle Cabrio"
+                },
+                {
+                    "code": "$*KwGVzLDUlgAAAAAkuUbY$",
+                    "name": "Bora/Variant/4Motion"
+                },
+                {
+                    "code": "$*KwHlvMCk4gAAAABjIELH$",
+                    "name": "CC"
+                },
+                {
+                    "code": "$*KwH3rtK29wAAAACTuz71$",
+                    "name": "Caddy"
+                },
+                {
+                    "code": "$*KwFdBHgcWwAAAADuCqSC$",
+                    "name": "Campmob. (Typ2/Transp./LT)"
+                },
+                {
+                    "code": "$*KwH2r9O39wAAAAAz3gLm$",
+                    "name": "Campmobile"
+                },
+                {
+                    "code": "$*KwGJ0KzIggAAAADX533L$",
+                    "name": "Corrado"
+                },
+                {
+                    "code": "$*KwEOVytODAAAAAAkym-m$",
+                    "name": "Crafter"
+                },
+                {
+                    "code": "$*KwFKE28KSQAAAADVjLrO$",
+                    "name": "Dasher"
+                },
+                {
+                    "code": "$*KwFNFGgNTAAAAAByP_a6$",
+                    "name": "E-Crafter"
+                },
+                {
+                    "code": "$*KwGj-objpAAAAACJz4kz$",
+                    "name": "Eos"
+                },
+                {
+                    "code": "$*KwFxKFQxdQAAAADJRVyg$",
+                    "name": "EuroVan"
+                },
+                {
+                    "code": "$*KwFPFmoHTU0AAAAANeyYuA$",
+                    "name": "Fox 302,307,309"
+                },
+                {
+                    "code": "$*KwGA2aXIgoEAAAAANMSNhQ$",
+                    "name": "Fox-Africa"
+                },
+                {
+                    "code": "$*KwGI0a3AiogAAAAAfhaNvw$",
+                    "name": "Fox-EU"
+                },
+                {
+                    "code": "$*KwGs9YnkrqsAAAAACcxC-g$",
+                    "name": "Ghia"
+                },
+                {
+                    "code": "$*KwE8ZRl0PjoAAAAAbtAVdg$",
+                    "name": "Ghia/Kleinlieferwg. 147"
+                },
+                {
+                    "code": "$*KwF-J1s2fHsAAAAAzXSLxg$",
+                    "name": "Gol"
+                },
+                {
+                    "code": "$*KwH7ot6z-f8AAAAAJSoAcQ$",
+                    "name": "Golf"
+                },
+                {
+                    "code": "$*KwGXzrLflZwAAAAAVCb0iw$",
+                    "name": "Golf Cabriolet"
+                },
+                {
+                    "code": "$*KwFpMEwha2MAAAAA3fwGRw$",
+                    "name": "Golf Plus"
+                },
+                {
+                    "code": "$*KwGSy7fakZAAAAAAwAnADQ$",
+                    "name": "Golf Sportsvan"
+                },
+                {
+                    "code": "$*KwH0rdG89_UAAAAAihMEWw$",
+                    "name": "Golf Variant"
+                },
+                {
+                    "code": "$*KwHIke2Ay8sAAAAAy9xuZQ$",
+                    "name": "Golf/R32/GTI/Rabbit"
+                },
+                {
+                    "code": "$*KwEeRztWHRkAAAAA-O2aOg$",
+                    "name": "Golf/Var.-syn./Rall./Coun."
+                },
+                {
+                    "code": "$*KwH8pdm0__wAAAAAwMEEYQ$",
+                    "name": "Golf/Variant/4Motion"
+                },
+                {
+                    "code": "$*KwGj-obroKcAAAAAT5bj5Q$",
+                    "name": "Jetta"
+                },
+                {
+                    "code": "$*KwFJEGwBSkMAAAAAM7P1tg$",
+                    "name": "Jetta Variant"
+                },
+                {
+                    "code": "$*KwE1bBB9Nj4AAAAA3q1NEw$",
+                    "name": "Jetta/syncro"
+                },
+                {
+                    "code": "$*KwG95Jj1vb0AAAAANDbxtg$",
+                    "name": "L80"
+                },
+                {
+                    "code": "$*KwGz6pb7s7UAAAAA8R-wUg$",
+                    "name": "LT, LT 4x4"
+                },
+                {
+                    "code": "$*KwGK06_Cio8AAAAAMz9XmQ$",
+                    "name": "Lupo / Lupo 3L TDI"
+                },
+                {
+                    "code": "$*KwH9pNi1_fYAAAAAljyrHw$",
+                    "name": "Mod.181"
+                },
+                {
+                    "code": "$*KwGy65f6srgAAAAAEqvZTA$",
+                    "name": "Mod.181 / Iltis"
+                },
+                {
+                    "code": "$*KwHTivab0tAAAAAAWuI0DQ$",
+                    "name": "Multivan"
+                },
+                {
+                    "code": "$*KwGYwb3QmZkAAAAAWZaPsg$",
+                    "name": "Parati"
+                },
+                {
+                    "code": "$*KwFiO0cqY2IAAAAAzqblKA$",
+                    "name": "Passat"
+                },
+                {
+                    "code": "$*KwHkvcGs5eMAAAAAKuyitA$",
+                    "name": "Passat CC"
+                },
+                {
+                    "code": "$*KwFxKFQ5cHcAAAAAuRhIWw$",
+                    "name": "Passat syncro"
+                },
+                {
+                    "code": "$*KwGP1qrHjooAAAAA3szbuw$",
+                    "name": "Passat/Variant/Santana"
+                },
+                {
+                    "code": "$*KwFKE28CS04AAAAAA0rTLQ$",
+                    "name": "Phaeton"
+                },
+                {
+                    "code": "$*KwEeRztWHxUAAAAAw220kw$",
+                    "name": "PickUp"
+                },
+                {
+                    "code": "$*KwHIke2AzssAAAAAtquaIA$",
+                    "name": "Polo Classic"
+                },
+                {
+                    "code": "$*KwFNFGgFS08AAAAAXvURlw$",
+                    "name": "Polo Classic/Variant"
+                },
+                {
+                    "code": "$*KwFBGGQJR0EAAAAAk8TYQQ$",
+                    "name": "Polo Lim.(Stufenh./Sedan)"
+                },
+                {
+                    "code": "$*KwG_5pr3ub4AAAAAGh4qjQ$",
+                    "name": "Polo/Derby/Vento-IND"
+                },
+                {
+                    "code": "$*KwEdRDhVGBcAAAAANXEoHw$",
+                    "name": "Quantum"
+                },
+                {
+                    "code": "$*KwFoMU0gYmsAAAAAhvsR3g$",
+                    "name": "Quantum syncro"
+                },
+                {
+                    "code": "$*KwFXDnIfXVUAAAAAu0pDRA$",
+                    "name": "Rabbit"
+                },
+                {
+                    "code": "$*KwHQifWY2tEAAAAAsm_l9A$",
+                    "name": "Rabbit Conv./Golf Cabrio."
+                },
+                {
+                    "code": "$*KwFEHWEMTkIAAAAAIvqPGw$",
+                    "name": "Routan"
+                },
+                {
+                    "code": "$*KwFhOEQpa2QAAAAAuE-hcg$",
+                    "name": "Saveiro"
+                },
+                {
+                    "code": "$*KwFIEW0AQkMAAAAAf3RbXA$",
+                    "name": "Scirocco"
+                },
+                {
+                    "code": "$*KwFYAX0QUlIAAAAAc9kKkg$",
+                    "name": "Sharan/syncro/4Motion"
+                },
+                {
+                    "code": "$*KwFpMEwhYmgAAAAAm-xkhg$",
+                    "name": "Suran/Spacefox"
+                },
+                {
+                    "code": "$*KwEZQDxREh8AAAAAvK7R7A$",
+                    "name": "T-Cross"
+                },
+                {
+                    "code": "$*KwHeh_uV3NgAAAAAyt6g1w$",
+                    "name": "T-Roc"
+                },
+                {
+                    "code": "$*KwHvtsqn5O8AAAAAlsWGLw$",
+                    "name": "Taro"
+                },
+                {
+                    "code": "$*KwEMVSlEBwkAAAAAquVcbQ$",
+                    "name": "Teramont"
+                },
+                {
+                    "code": "$*KwGD2qbLiIcAAAAAcBurXQ$",
+                    "name": "Tiguan"
+                },
+                {
+                    "code": "$*KwGTyrbbmJgAAAAAmw7XlA$",
+                    "name": "Tiguan Allspace"
+                },
+                {
+                    "code": "$*KwGQybXYm5oAAAAACX6OHA$",
+                    "name": "Tipo 1 Mex."
+                },
+                {
+                    "code": "$*KwFNFGgGT08AAAAAON9qyg$",
+                    "name": "Touareg"
+                },
+                {
+                    "code": "$*KwGaw7_RmJsAAAAAf4guAw$",
+                    "name": "Touran"
+                },
+                {
+                    "code": "$*KwF5IFwye3kAAAAARMUwWA$",
+                    "name": "Transporter"
+                },
+                {
+                    "code": "$*KwGz6pb4sbQAAAAAtmhcHw$",
+                    "name": "Transporter syncro"
+                },
+                {
+                    "code": "$*KwFpMEwia2wAAAAATwWljw$",
+                    "name": "Typ 1(1200/1300/1302/1303)"
+                },
+                {
+                    "code": "$*KwGVzLDel5EAAAAAyaobaA$",
+                    "name": "Typ 2/syncro"
+                },
+                {
+                    "code": "$*KwFeB3sVXFUAAAAA397aKA$",
+                    "name": "Typ 3, Typ 4, K70"
+                },
+                {
+                    "code": "$*KwGbwr7QmZEAAAAAAljSvg$",
+                    "name": "Type 2"
+                },
+                {
+                    "code": "$*KwGE3aHPh4cAAAAA33375w$",
+                    "name": "Type 3 / Type 4"
+                },
+                {
+                    "code": "$*KwFZAHwSWl8AAAAAQ-lmnA$",
+                    "name": "VW 1200/1300/1302/1303"
+                },
+                {
+                    "code": "$*KwEqcw9hKSsAAAAAgdy66A$",
+                    "name": "Vanagon"
+                },
+                {
+                    "code": "$*KwHstcmn7-wAAAAAuS3bYA$",
+                    "name": "Vanagon syncro"
+                },
+                {
+                    "code": "$*KwGo8Y3jq68AAAAADHtVtA$",
+                    "name": "Vento-EU"
+                },
+                {
+                    "code": "$*KwEvdgpkLCoAAAAAclnDkg$",
+                    "name": "XL1"
+                },
+                {
+                    "code": "$*KwGM1anMigAAAACMRQIk$",
+                    "name": "e-Golf"
+                },
+                {
+                    "code": "$*KwGA2aXLg4IAAAAAtpBTJw$",
+                    "name": "up!/e-up!"
+                }
+            ]
+        },
+        {
+            "name": "Год выпуска",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwENVShGDgYAAAAAUKBJvg$",
+                    "name": "1947"
+                },
+                {
+                    "code": "$*KwG375L8tL0AAAAA8kigBQ$",
+                    "name": "1948"
+                },
+                {
+                    "code": "$*KwHVjfCe1dYAAAAAbUBG2A$",
+                    "name": "1949"
+                },
+                {
+                    "code": "$*KwF6Il8xengAAAAAQOpzWA$",
+                    "name": "1950"
+                },
+                {
+                    "code": "$*KwGawr_RmpsAAAAAcN5lMQ$",
+                    "name": "1951"
+                },
+                {
+                    "code": "$*KwEbQz5QGxsAAAAAhmp20A$",
+                    "name": "1952"
+                },
+                {
+                    "code": "$*KwEjewZoIyQAAAAAqSVwNw$",
+                    "name": "1953"
+                },
+                {
+                    "code": "$*KwGawr_RmpwAAAAA7rrwkg$",
+                    "name": "1954"
+                },
+                {
+                    "code": "$*KwGr847gq64AAAAAEU8n9Q$",
+                    "name": "1955"
+                },
+                {
+                    "code": "$*KwGG3qPNhoIAAAAAWCFYHA$",
+                    "name": "1956"
+                },
+                {
+                    "code": "$*KwHBmeSKwcoAAAAABts35A$",
+                    "name": "1957"
+                },
+                {
+                    "code": "$*KwHSiveZ0tgAAAAA7wEPNA$",
+                    "name": "1958"
+                },
+                {
+                    "code": "$*KwEUTDFfFRcAAAAAwDDXzw$",
+                    "name": "1959"
+                },
+                {
+                    "code": "$*KwHXj_Kc1tUAAAAADCkLJA$",
+                    "name": "1960"
+                },
+                {
+                    "code": "$*KwHOluuFz88AAAAAOV0uXw$",
+                    "name": "1961"
+                },
+                {
+                    "code": "$*KwEZQTxSGBkAAAAAkAQLug$",
+                    "name": "1962"
+                },
+                {
+                    "code": "$*KwFmPkMtZ2EAAAAAcQ5_NA$",
+                    "name": "1963"
+                },
+                {
+                    "code": "$*KwGSyrfZk5QAAAAAynTxfw$",
+                    "name": "1964"
+                },
+                {
+                    "code": "$*KwEcRDlXHRkAAAAAFIZCVg$",
+                    "name": "1965"
+                },
+                {
+                    "code": "$*KwGA2KXLgYQAAAAAUKW9IA$",
+                    "name": "1966"
+                },
+                {
+                    "code": "$*KwFwKFU7cXsAAAAAEo2GOg$",
+                    "name": "1967"
+                },
+                {
+                    "code": "$*KwEWTjNdFxwAAAAAtpkjQA$",
+                    "name": "1968"
+                },
+                {
+                    "code": "$*KwFZAXwSX1oAAAAAc5RP5g$",
+                    "name": "1969"
+                },
+                {
+                    "code": "$*KwGC2qfJhIAAAAAA-fLC-Q$",
+                    "name": "1970"
+                },
+                {
+                    "code": "$*KwEIUC1DDgkAAAAAOerphg$",
+                    "name": "1971"
+                },
+                {
+                    "code": "$*KwEVTTBeExUAAAAA_Ho1hw$",
+                    "name": "1972"
+                },
+                {
+                    "code": "$*KwF0LFE_cnMAAAAASpDEgA$",
+                    "name": "1973"
+                },
+                {
+                    "code": "$*KwGfx7rUmZkAAAAATAjqdw$",
+                    "name": "1974"
+                },
+                {
+                    "code": "$*KwELUy5ADQ4AAAAA2_BEgQ$",
+                    "name": "1975"
+                },
+                {
+                    "code": "$*KwE_Zxp0OTsAAAAAPuNPqQ$",
+                    "name": "1976"
+                },
+                {
+                    "code": "$*KwE5YRxyPzIAAAAAv8OGRQ$",
+                    "name": "1977"
+                },
+                {
+                    "code": "$*KwErcw5gLSEAAAAAvBuboA$",
+                    "name": "1978"
+                },
+                {
+                    "code": "$*KwGh-YTqpqIAAAAAhc1ogA$",
+                    "name": "1979"
+                },
+                {
+                    "code": "$*KwFAGGULR0IAAAAAsfU68A$",
+                    "name": "1980"
+                },
+                {
+                    "code": "$*KwE-Zht1OT8AAAAAvZCvUg$",
+                    "name": "1981"
+                },
+                {
+                    "code": "$*KwFiOkcpZWIAAAAAp9rVRw$",
+                    "name": "1982"
+                },
+                {
+                    "code": "$*KwHFneCOwsIAAAAAXsZ1Xg$",
+                    "name": "1983"
+                },
+                {
+                    "code": "$*KwHttcim6usAAAAA40C31A$",
+                    "name": "1984"
+                },
+                {
+                    "code": "$*KwECWidJBQcAAAAAFTxgWQ$",
+                    "name": "1985"
+                },
+                {
+                    "code": "$*KwHAmOWLx8QAAAAAMyeZhw$",
+                    "name": "1986"
+                },
+                {
+                    "code": "$*KwEEXCFPAw8AAAAA4xuZIw$",
+                    "name": "1987"
+                },
+                {
+                    "code": "$*KwG54ZzyvrMAAAAAum6B0A$",
+                    "name": "1988"
+                },
+                {
+                    "code": "$*KwFSCncZVlEAAAAAmQB01g$",
+                    "name": "1989"
+                },
+                {
+                    "code": "$*KwGP16rEi40AAAAAAvkttA$",
+                    "name": "1990"
+                },
+                {
+                    "code": "$*KwGE3KHPgIUAAAAAQ1IlvA$",
+                    "name": "1991"
+                },
+                {
+                    "code": "$*KwFtNUgmaW0AAAAASr9HYA$",
+                    "name": "1992"
+                },
+                {
+                    "code": "$*KwHutsul6ukAAAAAWh29nw$",
+                    "name": "1993"
+                },
+                {
+                    "code": "$*KwHBmeSKxccAAAAAHAaOXQ$",
+                    "name": "1994"
+                },
+                {
+                    "code": "$*KwFHH2IMQ0IAAAAA_yEN2A$",
+                    "name": "1995"
+                },
+                {
+                    "code": "$*KwEXTzJcExMAAAAAxlTfNw$",
+                    "name": "1996"
+                },
+                {
+                    "code": "$*KwFtNUgmaWYAAAAA3W2e6A$",
+                    "name": "1997"
+                },
+                {
+                    "code": "$*KwH_p9q0-_UAAAAAtQSFTw$",
+                    "name": "1998"
+                },
+                {
+                    "code": "$*KwGx6ZT6tLIAAAAAzFFrWg$",
+                    "name": "1999"
+                },
+                {
+                    "code": "$*KwFDG2YIRkEAAAAAZrQxbA$",
+                    "name": "2000"
+                },
+                {
+                    "code": "$*KwFdBXgWWFwAAAAAqF3lXw$",
+                    "name": "2001"
+                },
+                {
+                    "code": "$*KwEBWSRKBAEAAAAAshefSg$",
+                    "name": "2002"
+                },
+                {
+                    "code": "$*KwFHH2IMQkAAAAAACDRdtQ$",
+                    "name": "2003"
+                },
+                {
+                    "code": "$*KwFoME0jbW4AAAAATi9udw$",
+                    "name": "2004"
+                },
+                {
+                    "code": "$*KwGt9YjmqKgAAAAAfacHzQ$",
+                    "name": "2005"
+                },
+                {
+                    "code": "$*KwEgeAVrJSQAAAAAqCy81g$",
+                    "name": "2006"
+                },
+                {
+                    "code": "$*KwG54ZzyvLIAAAAA_1_TxA$",
+                    "name": "2007"
+                },
+                {
+                    "code": "$*KwGl_YDuoK8AAAAA0M0q8A$",
+                    "name": "2008"
+                },
+                {
+                    "code": "$*KwFPF2oERUwAAAAAtRS1zw$",
+                    "name": "2009"
+                },
+                {
+                    "code": "$*KwEpcQxiIysAAAAAEQAQtQ$",
+                    "name": "2010"
+                },
+                {
+                    "code": "$*KwEiegdpKCMAAAAAUKsYvQ$",
+                    "name": "2011"
+                },
+                {
+                    "code": "$*KwGt9Yjmp60AAAAAilXvjQ$",
+                    "name": "2012"
+                },
+                {
+                    "code": "$*KwEZQTxSEx4AAAAA7ZRH0g$",
+                    "name": "2013"
+                },
+                {
+                    "code": "$*KwFzK1Y4eXUAAAAAar9KUg$",
+                    "name": "2014"
+                },
+                {
+                    "code": "$*KwGN1ajGh4gAAAAADWvZsg$",
+                    "name": "2015"
+                },
+                {
+                    "code": "$*KwH-ptu19PoAAAAAJj2g8w$",
+                    "name": "2016"
+                },
+                {
+                    "code": "$*KwHstMmn5ucAAAAAwl2QEQ$",
+                    "name": "2017"
+                },
+                {
+                    "code": "$*KwEyahd5ODgAAAAAvNOgbQ$",
+                    "name": "2018"
+                },
+                {
+                    "code": "$*KwG7457wsLgAAAAAYHI6Uw$",
+                    "name": "2019"
+                },
+                {
+                    "code": "$*KwFYAH0TU1oAAAAAWz8kCA$",
+                    "name": "2020"
+                },
+                {
+                    "code": "$*KwEXTzJcHBYAAAAAMaY3dw$",
+                    "name": "2021"
+                }
+            ]
+        }
+    ]
+}

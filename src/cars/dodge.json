@@ -1,0 +1,199 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwEZQzxRGxofAAAAAAI4X54$",
+                    "name": "AN - DAKOTA"
+                },
+                {
+                    "code": "$*KwHutMum7O3tAAAAAFPPVXM$",
+                    "name": "BW - SPORT UTILITY (MEXICO)"
+                },
+                {
+                    "code": "$*KwHLke6DycnGAAAAAPmxomM$",
+                    "name": "DN - DURANGO"
+                },
+                {
+                    "code": "$*KwHps8yh6-jlAAAAABfe65A$",
+                    "name": "HB - DODGE DURANGO"
+                },
+                {
+                    "code": "$*KwGfxbrXnZ-TAAAAAHsHwLk$",
+                    "name": "JC - DODGE JOURNEY"
+                },
+                {
+                    "code": "$*KwEHXSJPBQAHAAAAAOEL2c0$",
+                    "name": "KA - DODGE NITRO"
+                },
+                {
+                    "code": "$*KwE2bBN-NDAyAAAAAFanfkA$",
+                    "name": "LA - DODGE CHALLENGER"
+                },
+                {
+                    "code": "$*KwG44p3wur69AAAAAELh2e0$",
+                    "name": "LC - DODGE CHALLENGER"
+                },
+                {
+                    "code": "$*KwEaQD9SGBwcAAAAAByssGs$",
+                    "name": "LD - DODGE CHARGER"
+                },
+                {
+                    "code": "$*KwG_5Zr3vbm8AAAAAE0avSg$",
+                    "name": "ND - DAKOTA"
+                },
+                {
+                    "code": "$*KwFdB3gVX1hYAAAAAHKQ-q8$",
+                    "name": "P1 - DODGE NEON (MEXICO)"
+                },
+                {
+                    "code": "$*KwGu9IvmrKuoAAAAAE9_jzc$",
+                    "name": "P2 - DODGE NEON (CKD)"
+                },
+                {
+                    "code": "$*KwEDWSZLAQYEAAAAAMgi9Kw$",
+                    "name": "P3 - DODGE CALIBER (CKD)"
+                },
+                {
+                    "code": "$*KwHbgf6T2d7aAAAAAMc6G0w$",
+                    "name": "PF - DODGE DART"
+                },
+                {
+                    "code": "$*KwHoss2g6u3kAAAAAFLs2AQ$",
+                    "name": "PM - DODGE CALIBER"
+                },
+                {
+                    "code": "$*KwHzqda78ff2AAAAAPgym1M$",
+                    "name": "R1 - DAKOTA (CKD)"
+                },
+                {
+                    "code": "$*KwEwahV4MjQyAAAAAEo0jpc$",
+                    "name": "SR - VIPER"
+                },
+                {
+                    "code": "$*KwGfxbrXnZSaAAAAAOEvodY$",
+                    "name": "V -VIPER"
+                },
+                {
+                    "code": "$*KwGbwb7TmZCXAAAAAB2IwzI$",
+                    "name": "WD - DODGE DURANGO"
+                },
+                {
+                    "code": "$*KwHKkO-CyMDJAAAAAPeO8_w$",
+                    "name": "ZB - DODGE VIPER"
+                },
+                {
+                    "code": "$*KwEieAdqICguAAAAAAnOAP0$",
+                    "name": "ZD - DODGE VIPER"
+                }
+            ]
+        },
+        {
+            "name": "Год выпуска",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwGTyrbYkZGVAAAAAGk4_uQ$",
+                    "name": "1992"
+                },
+                {
+                    "code": "$*KwHKk--ByMjNAAAAAKwbYK0$",
+                    "name": "1993"
+                },
+                {
+                    "code": "$*KwHyq9e58PDyAAAAAGt944o$",
+                    "name": "1994"
+                },
+                {
+                    "code": "$*KwGaw7_RmJibAAAAAAeELxY$",
+                    "name": "1995"
+                },
+                {
+                    "code": "$*KwGK06_BiIiIAAAAAObxHW8$",
+                    "name": "1996"
+                },
+                {
+                    "code": "$*KwELUi5ACQkIAAAAAMWpyfM$",
+                    "name": "1997"
+                },
+                {
+                    "code": "$*KwFOF2sFTExCAAAAAMuzcf8$",
+                    "name": "1998"
+                },
+                {
+                    "code": "$*KwFxKFQ6c3N8AAAAAAMulh0$",
+                    "name": "1999"
+                },
+                {
+                    "code": "$*KwHfhvqU3d7bAAAAAMJmLcc$",
+                    "name": "2000"
+                },
+                {
+                    "code": "$*KwEtdAhmLywoAAAAADDZz-M$",
+                    "name": "2001"
+                },
+                {
+                    "code": "$*KwHHnuKMxcbBAAAAAIWSnek$",
+                    "name": "2002"
+                },
+                {
+                    "code": "$*KwGp8Iziq6iuAAAAAC6tZhU$",
+                    "name": "2003"
+                },
+                {
+                    "code": "$*KwEBWCRKAwABAAAAAOS2lGs$",
+                    "name": "2004"
+                },
+                {
+                    "code": "$*KwFpMEwia2hoAAAAAIhPWPc$",
+                    "name": "2005"
+                },
+                {
+                    "code": "$*KwFxKFQ6c3BzAAAAALi82E8$",
+                    "name": "2006"
+                },
+                {
+                    "code": "$*KwG-55v1vL-9AAAAALckAD8$",
+                    "name": "2007"
+                },
+                {
+                    "code": "$*KwEyaxd5MDM-AAAAAAZnZ7U$",
+                    "name": "2008"
+                },
+                {
+                    "code": "$*KwHXjvKc1dbaAAAAAGo8J6I$",
+                    "name": "2009"
+                },
+                {
+                    "code": "$*KwHstcmn7uzoAAAAADAao3M$",
+                    "name": "2010"
+                },
+                {
+                    "code": "$*KwFCG2cJQEJHAAAAANSkw1g$",
+                    "name": "2011"
+                },
+                {
+                    "code": "$*KwGL0q7AiYuNAAAAAPL0TWQ$",
+                    "name": "2012"
+                },
+                {
+                    "code": "$*KwEjegZoISMkAAAAANGMGi8$",
+                    "name": "2013"
+                },
+                {
+                    "code": "$*KwEMVSlHDgwMAAAAAIgOOzs$",
+                    "name": "2014"
+                },
+                {
+                    "code": "$*KwGo8Y3jqqipAAAAAP-LBPE$",
+                    "name": "2015"
+                }
+            ]
+        }
+    ]
+}

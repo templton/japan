@@ -1,0 +1,393 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Регион",
+            "removeparam": "",
+            "value": "Europe",
+            "list": []
+        },
+        {
+            "name": "Vehicle type",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwGawL_S1pvunAAAAACC5X01$",
+                    "name": "Light Commercial"
+                },
+                {
+                    "code": "$*KwElfwBtaSRRIgAAAADpRLcE$",
+                    "name": "Passenger"
+                },
+                {
+                    "code": "$*KwEtdwhlYSxZLAAAAADiTu6X$",
+                    "name": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwHQivWYnNek0NMAAAAAj0w_1w$",
+                    "name": "Accessories"
+                },
+                {
+                    "code": "$*KwH8ptm0sPuI_PwAAAAAFITlmw$",
+                    "name": "B-Max CB2 2012-"
+                },
+                {
+                    "code": "$*KwFAGmUIDEc0QgAAAAAqcD5g$",
+                    "name": "C-Max CCG 2015-"
+                },
+                {
+                    "code": "$*KwFYAn0QFF8sVV8AAAAAoi8fIg$",
+                    "name": "C-Max CEU 2015-"
+                },
+                {
+                    "code": "$*KwH3rdK_u_CD8PYAAAAAwcqiFw$",
+                    "name": "Cougar MC 1998-2000"
+                },
+                {
+                    "code": "$*KwGu9Ivm4qnao6wAAAAA7CzxcQ$",
+                    "name": "Ecosport CBW 2013-"
+                },
+                {
+                    "code": "$*KwE5YxxxdT5NPTkAAAAANy9u5w$",
+                    "name": "Ecosport CR1 2014-"
+                },
+                {
+                    "code": "$*KwHGnOOOisGyxMwAAAAAxcYgCg$",
+                    "name": "Ecosport CR6 2017-"
+                },
+                {
+                    "code": "$*KwF0LlE8OHMAdnIAAAAAUHG4jQ$",
+                    "name": "Edge 2015-"
+                },
+                {
+                    "code": "$*KwG175D9-bLBtLAAAAAAUOwEJQ$",
+                    "name": "Edge/MKX TQ1"
+                },
+                {
+                    "code": "$*KwEGXCNOSgFyBwcAAAAAgAPpKg$",
+                    "name": "Escape R3 2008-"
+                },
+                {
+                    "code": "$*KwFjOUYrL2QXZWkAAAAAd0gJ4w$",
+                    "name": "Escort CA 1981-1986"
+                },
+                {
+                    "code": "$*KwEtdwhlYSpZIS4AAAAA8JiL2g$",
+                    "name": "Escort DA 1986-1990"
+                },
+                {
+                    "code": "$*KwHWjPOemtGi1dwAAAAAv8TfbQ$",
+                    "name": "Escort FA 1995-2001"
+                },
+                {
+                    "code": "$*KwEdRzhVURppGRYAAAAAk7Dbig$",
+                    "name": "Escort/Orion EA 1990-1995"
+                },
+                {
+                    "code": "$*KwGk_oHs6KPQo6IAAAAAtyXBhQ$",
+                    "name": "Everest EP 2009-"
+                },
+                {
+                    "code": "$*KwGP1arHw4j7i4kAAAAAtzPv1w$",
+                    "name": "Everest EU 2006-2009"
+                },
+                {
+                    "code": "$*KwE4Yh1wdD9MNTwAAAAAqgPsDQ$",
+                    "name": "Everest/Endeavour EV 2003-2006"
+                },
+                {
+                    "code": "$*KwFKEG8CBk0-TUEAAAAApWiO0Q$",
+                    "name": "Explorer EX 1992-2000"
+                },
+                {
+                    "code": "$*KwHLke6Dh8y_xs0AAAAAxJma7g$",
+                    "name": "Explorer TUB 2011-"
+                },
+                {
+                    "code": "$*KwF6IF8yNn0OdnwAAAAAnQd5zQ$",
+                    "name": "Explorer TWJ 2013-"
+                },
+                {
+                    "code": "$*KwFHHWIPC0AzRUAAAAAAXtjcvw$",
+                    "name": "Fiesta 01-08/Fusion CBK 2001-2012"
+                },
+                {
+                    "code": "$*KwHDmeaLj8S3zsIAAAAAa3HoXg$",
+                    "name": "Fiesta AX 1976-1989"
+                },
+                {
+                    "code": "$*KwFoMk0gJG8cb2gAAAAAY44wYQ$",
+                    "name": "Fiesta CB1 2008-"
+                },
+                {
+                    "code": "$*KwF8Jlk0MHsIcXYAAAAA79MPeg$",
+                    "name": "Fiesta CCN 2013-"
+                },
+                {
+                    "code": "$*KwHagP-Slt2u2d8AAAAA64nVRg$",
+                    "name": "Fiesta CE1 2017-"
+                },
+                {
+                    "code": "$*KwF5I1wxNX4Nen4AAAAAsRxTWg$",
+                    "name": "Fiesta CX 1989-1996"
+                },
+                {
+                    "code": "$*KwEieAdqbiVWJCkAAAAAHNr6Fg$",
+                    "name": "Fiesta DX 1995-2002"
+                },
+                {
+                    "code": "$*KwFBG2QJDUY1TUEAAAAAPEZvTw$",
+                    "name": "Figo EC 2011-"
+                },
+                {
+                    "code": "$*KwGXzbLf25DjkJAAAAAAuYyltw$",
+                    "name": "Fluids and Maintenance Products"
+                },
+                {
+                    "code": "$*KwGw6pX4_LfEvLEAAAAAXNKzYg$",
+                    "name": "Focus 2004-/Focus C-Max CAP 2003-2007"
+                },
+                {
+                    "code": "$*KwG37ZL_-7DDtLcAAAAAhbdpXA$",
+                    "name": "Focus C-Max CB3 2007-2011"
+                },
+                {
+                    "code": "$*KwFKEG8CBk0-TEsAAAAAXKZWjg$",
+                    "name": "Focus C-Max CB7 2011-2015"
+                },
+                {
+                    "code": "$*KwGWzLPe2pHilZUAAAAAkQ5ZEA$",
+                    "name": "Focus CAK 1998-2005"
+                },
+                {
+                    "code": "$*KwHRi_SZndal09IAAAAA9vmg7w$",
+                    "name": "Focus CB4 2008-2011"
+                },
+                {
+                    "code": "$*KwFAGmUIDEc0QUQAAAAAxQYooQ$",
+                    "name": "Focus CB8 2011-2015"
+                },
+                {
+                    "code": "$*KwHdh_iVkdqp3twAAAAAxR7nOA$",
+                    "name": "Focus CEW 2014-"
+                },
+                {
+                    "code": "$*KwFEHmEMCEMwRU8AAAAAoMfFmQ$",
+                    "name": "Focus CGE 2018-"
+                },
+                {
+                    "code": "$*KwF_JVo3M3gLfX0AAAAAuhSdSQ$",
+                    "name": "Focus Cabriolet CA5 2006-2010"
+                },
+                {
+                    "code": "$*KwG545zx9b7NvbgAAAAA7gQjww$",
+                    "name": "Ford GT CGX 2017-"
+                },
+                {
+                    "code": "$*KwE8Zhl0cDtIPD4AAAAAA7DH3A$",
+                    "name": "Galaxy VX 1994-2000"
+                },
+                {
+                    "code": "$*KwGJ06zBxY79iYMAAAAAuJBtJQ$",
+                    "name": "Galaxy VY 2000-2006"
+                },
+                {
+                    "code": "$*KwHnvcKvq-CT4eEAAAAAJazI0w$",
+                    "name": "Granada CE 1985-1992"
+                },
+                {
+                    "code": "$*KwHBm-SJjca1xssAAAAAkUsiKA$",
+                    "name": "Granada/Scorpio DE 1992-1994"
+                },
+                {
+                    "code": "$*KwEZQzxRVR5tFBoAAAAAudcYWA$",
+                    "name": "KA CCU 2008-"
+                },
+                {
+                    "code": "$*KwEtdwhlYSpZKygAAAAA4xTGZQ$",
+                    "name": "KA CDU 2016-"
+                },
+                {
+                    "code": "$*KwFcBnkUEFsoWFgAAAAAH5oFeA$",
+                    "name": "Ka CCQ 1996-2008"
+                },
+                {
+                    "code": "$*KwGdx7jV0ZrpkZ8AAAAAjJmUlA$",
+                    "name": "Kuga CBS 2013-"
+                },
+                {
+                    "code": "$*KwFIEm0ABE88T00AAAAA1ddYog$",
+                    "name": "Kuga CBV 2008-2012"
+                },
+                {
+                    "code": "$*KwF3LVI_O3ADegAAAAC5F92Y$",
+                    "name": "Maverick ML (LHD) 1993-1996"
+                },
+                {
+                    "code": "$*KwEieAdqbiVWJSEAAAAACxpDZQ$",
+                    "name": "Maverick MR (RHD) 1993-1996"
+                },
+                {
+                    "code": "$*KwGC2KfKzoX2gYAAAAAAcG5XCQ$",
+                    "name": "Maverick NL (LHD) 1996-1998"
+                },
+                {
+                    "code": "$*KwG27JP--rHCtb0AAAAAWeZNbg$",
+                    "name": "Maverick NR (RHD) 1996-1998"
+                },
+                {
+                    "code": "$*KwEWTDNeWhFiERIAAAAAxSp0BQ$",
+                    "name": "Maverick TM1 2001-2006"
+                },
+                {
+                    "code": "$*KwGJ06zBxY79jYMAAAAA3PyoIQ$",
+                    "name": "Maverick TM3 (RHD) 2002-2006"
+                },
+                {
+                    "code": "$*KwETSTZbXxRnHhMAAAAAhlVVhQ$",
+                    "name": "Maverick TM7 2007-"
+                },
+                {
+                    "code": "$*KwGZw7zR1Z7tn54AAAAA82J4OA$",
+                    "name": "Mondeo CA2 2007-2014"
+                },
+                {
+                    "code": "$*KwFFH2ANCUIxREcAAAAAkpiAhw$",
+                    "name": "Mondeo CNG 2014-"
+                },
+                {
+                    "code": "$*KwE9Zxh1cTpJPToAAAAAOFnO6Q$",
+                    "name": "Mondeo FD 1992-1996"
+                },
+                {
+                    "code": "$*KwEocg1gZC9cJSMAAAAAWaU_ug$",
+                    "name": "Mondeo GD 1996-2000"
+                },
+                {
+                    "code": "$*KwHoss2gpO-c7O8AAAAAeOuLsw$",
+                    "name": "Mondeo GE 2000-2007"
+                },
+                {
+                    "code": "$*KwEpcwxhZS5dLSoAAAAAzT_xew$",
+                    "name": "Mustang CZG 2015-"
+                },
+                {
+                    "code": "$*KwHchvmUkNuo3dYAAAAAK3mhiA$",
+                    "name": "P100 DP 1987-1993"
+                },
+                {
+                    "code": "$*KwHQivWYnNek0tsAAAAAs6HVZw$",
+                    "name": "Probe PA 1992-1997"
+                },
+                {
+                    "code": "$*KwEOVCtGQgl6CAoAAAAAjqRscQ$",
+                    "name": "Puma CCE 1997-2001"
+                },
+                {
+                    "code": "$*KwF9J1g1MXoJfXwAAAAAhixVBQ$",
+                    "name": "Ranger EQ 2002-"
+                },
+                {
+                    "code": "$*KwHJk-yBhc69z8oAAAAAwABM3g$",
+                    "name": "Ranger ER 1998-2003"
+                },
+                {
+                    "code": "$*KwGZw7zR1Z7tmJ8AAAAAyyTeaQ$",
+                    "name": "Ranger ES 2009-"
+                },
+                {
+                    "code": "$*KwHZg_yRld6t3tsAAAAAzQWDLw$",
+                    "name": "Ranger ET 2006-2009"
+                },
+                {
+                    "code": "$*KwFwKlU4PHcEcXAAAAAAZ0G-0g$",
+                    "name": "Ranger TKE 2012-"
+                },
+                {
+                    "code": "$*KwE_ZRp3czhLPToAAAAAc2Y2Mw$",
+                    "name": "S-MAX/Galaxy 2015-"
+                },
+                {
+                    "code": "$*KwEOVCtGQgl6Dw0AAAAAX4FvFQ$",
+                    "name": "S-MAX/Galaxy CA1 2006-2015"
+                },
+                {
+                    "code": "$*KwG44p3w9L_Mub8AAAAAMZOPCQ$",
+                    "name": "Scorpio FE 1994-1998"
+                },
+                {
+                    "code": "$*KwHNl-iFgcq5zcsAAAAAE07vfg$",
+                    "name": "Sierra CD 1982-1986"
+                },
+                {
+                    "code": "$*KwGo8o3g5K_crK0AAAAAwfPURg$",
+                    "name": "Sierra DD 1987-1993"
+                },
+                {
+                    "code": "$*KwGA2qXIzIf0gIUAAAAAUiBqHQ$",
+                    "name": "Street Ka CCS 2003-2005"
+                },
+                {
+                    "code": "$*KwElfwBtaSJRJiEAAAAA2OjlpQ$",
+                    "name": "Transit CY 1985-1991"
+                },
+                {
+                    "code": "$*KwFcBnkUEFsoXFcAAAAA60nd7Q$",
+                    "name": "Transit Connect TC7 2002-2013"
+                },
+                {
+                    "code": "$*KwEvdQpnYyhbLAAAAADd7w8A$",
+                    "name": "Transit DY 1991-1994"
+                },
+                {
+                    "code": "$*KwEJUyxBRQ59CwkAAAAAxF-bCw$",
+                    "name": "Transit EY 1994-2000"
+                },
+                {
+                    "code": "$*KwFgOkUoLGcUZGIAAAAAlyHlnQ$",
+                    "name": "Transit FY 2000-2006"
+                },
+                {
+                    "code": "$*KwGI0q3AxI_8iowAAAAAJp3fGg$",
+                    "name": "Transit GY (Turkey) 2000-2006"
+                },
+                {
+                    "code": "$*KwGUzrHc2JPglJAAAAAAs0BkBA$",
+                    "name": "Transit TT9 2006-2014"
+                },
+                {
+                    "code": "$*KwHNl-iFgcq5z8wAAAAAvxwYXw$",
+                    "name": "Transit TTG 2014-"
+                },
+                {
+                    "code": "$*KwFdB3gVEVopUQAAAADGHhO7$",
+                    "name": "Transit TY (Turkey) 1992-2000"
+                },
+                {
+                    "code": "$*KwFBG2QJDUY1R0MAAAAAKKfm6Q$",
+                    "name": "Transit/Tourneo Connect CHC 2013-"
+                },
+                {
+                    "code": "$*KwE-ZBt2cjlKMzsAAAAAv33XRg$",
+                    "name": "Transit/Tourneo Courier 2014-"
+                },
+                {
+                    "code": "$*KwGD2abLz4T3gIUAAAAAPIBuqg$",
+                    "name": "Transit/Tourneo Custom TTF 2012-"
+                },
+                {
+                    "code": "$*KwH-pNu2svmK-P4AAAAA1dm5aQ$",
+                    "name": "Windstar WA 1994-2000"
+                }
+            ]
+        }
+    ]
+}

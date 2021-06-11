@@ -1,0 +1,565 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Регион",
+            "removeparam": "",
+            "value": "Europe",
+            "list": []
+        },
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwHoss2gpOmc6AAAAADgyNkq$",
+                    "name": "APV"
+                },
+                {
+                    "code": "$*KwHUjvGcmNWg0gAAAAC6EX_9$",
+                    "name": "Aerio"
+                },
+                {
+                    "code": "$*KwFCGGcKDkM2QwAAAABi1u9h$",
+                    "name": "Alto - A-Star/Celerio/800/Fronte"
+                },
+                {
+                    "code": "$*KwFUDnEcGFUgVwAAAAA3bHMa$",
+                    "name": "Baleno/Esteem"
+                },
+                {
+                    "code": "$*KwErcQ5jZypfKQAAAADfUb13$",
+                    "name": "Cappucino"
+                },
+                {
+                    "code": "$*KwGp84zh5ajdpAAAAABn26SH$",
+                    "name": "Carry/Supercarry/Every"
+                },
+                {
+                    "code": "$*KwGfxbrX057rm50AAAAA9iy6NA$",
+                    "name": "ERTIGA"
+                },
+                {
+                    "code": "$*KwH-pNu2sv-K8gAAAABSymhW$",
+                    "name": "Equator"
+                },
+                {
+                    "code": "$*KwHwqtW4vPGE9PMAAAAACHg5Qw$",
+                    "name": "Forenza/Reno"
+                },
+                {
+                    "code": "$*KwEPVSpHQw57Cw8AAAAA1RdojA$",
+                    "name": "Forsa/Sprint/Swift (SA)"
+                },
+                {
+                    "code": "$*KwFAGmUIDEE0REEAAAAA7XB3tw$",
+                    "name": "Grand Vitara"
+                },
+                {
+                    "code": "$*KwFsNkkkIG0YaGoAAAAAcdVp4g$",
+                    "name": "Grand Vitara XL-7"
+                },
+                {
+                    "code": "$*KwFMFmkEAE04SEsAAAAAwOHFOA$",
+                    "name": "Ignis"
+                },
+                {
+                    "code": "$*KwHHneKPi8azw8MAAAAAGswI7Q$",
+                    "name": "Jimny"
+                },
+                {
+                    "code": "$*KwEgegVobCFUJCUAAAAAezgROw$",
+                    "name": "Kei"
+                },
+                {
+                    "code": "$*KwHmvMOuqueS4uwAAAAAcMREHA$",
+                    "name": "Kizashi"
+                },
+                {
+                    "code": "$*KwGp84zh5ajdrqsAAAAAGlKwQA$",
+                    "name": "LJ80"
+                },
+                {
+                    "code": "$*KwHyqNe6vvOG9vkAAAAAkaRKBQ$",
+                    "name": "Liana"
+                },
+                {
+                    "code": "$*KwFHHWIPC0YzQEQAAAAAAamzPw$",
+                    "name": "MR Wagon"
+                },
+                {
+                    "code": "$*KwFBG2QJDUA1RkUAAAAA_bQtQQ$",
+                    "name": "SX4"
+                },
+                {
+                    "code": "$*KwHIku2AhMm8z8gAAAAALvqOQw$",
+                    "name": "Samurai/SJ"
+                },
+                {
+                    "code": "$*KwHEnuGMiMWww8UAAAAAnQ-pbw$",
+                    "name": "Sierra"
+                },
+                {
+                    "code": "$*KwFyKFc6PnMGdXQAAAAAahQYyQ$",
+                    "name": "Splash/Ritz"
+                },
+                {
+                    "code": "$*KwG85pn08L3Iu7sAAAAAt9yH-g$",
+                    "name": "Swift"
+                },
+                {
+                    "code": "$*KwEJUyxBRQh9DgwAAAAA7CnEHQ$",
+                    "name": "Verona"
+                },
+                {
+                    "code": "$*KwF3LVI_O3YDcH0AAAAA3V9Z8Q$",
+                    "name": "Vitara/Sidekick"
+                },
+                {
+                    "code": "$*KwHzqda7v_KH9PgAAAAA8QrkfA$",
+                    "name": "WagonR+"
+                },
+                {
+                    "code": "$*KwENVyhFQQx5Cw8AAAAAniiQVg$",
+                    "name": "X90"
+                }
+            ]
+        },
+        {
+            "name": "Код модели",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwHqsM-ipuqe7OkAAAAAR2Du5Q$",
+                    "name": "A5B310"
+                },
+                {
+                    "code": "$*KwGB26TJzYH1h4EAAAAAokT8Fw$",
+                    "name": "A5B412"
+                },
+                {
+                    "code": "$*KwHWjPOemtai0NcAAAAAyLbKGQ$",
+                    "name": "A5B413"
+                },
+                {
+                    "code": "$*KwG175D9-bXBs7MAAAAAG3P74Q$",
+                    "name": "A5E312"
+                },
+                {
+                    "code": "$*KwHNl-iFgc25y8oAAAAAr8RA1w$",
+                    "name": "A6B424"
+                },
+                {
+                    "code": "$*KwEIUi1ARAh8DgwAAAAAcQpfFQ$",
+                    "name": "A6I425"
+                },
+                {
+                    "code": "$*KwFFH2ANCUUxQ0AAAAAA3mq7Wg$",
+                    "name": "A6I640"
+                },
+                {
+                    "code": "$*KwGcxrnU0JzompYAAAAArvkxLw$",
+                    "name": "AKK416"
+                },
+                {
+                    "code": "$*KwH9p9i1sf2J-_YAAAAAA1helg$",
+                    "name": "AMF310"
+                },
+                {
+                    "code": "$*KwGVz7Dd2ZXhlJcAAAAAlWw1cw$",
+                    "name": "AOD308"
+                },
+                {
+                    "code": "$*KwEtdwhlYS1ZLC4AAAAA2OHNLg$",
+                    "name": "AUI412"
+                },
+                {
+                    "code": "$*KwHZg_yRldmt2NkAAAAA6IZ9PA$",
+                    "name": "AVI414"
+                },
+                {
+                    "code": "$*KwHyqNe6vvKG8_MAAAAAtLowOw$",
+                    "name": "AZF414"
+                },
+                {
+                    "code": "$*KwEIUi1ARAh8CQ4AAAAA0EWo_g$",
+                    "name": "AZG412"
+                },
+                {
+                    "code": "$*KwEgegVobCBUIScAAAAAUP3jNw$",
+                    "name": "AZG413"
+                },
+                {
+                    "code": "$*KwHQivWYnNCk0dQAAAAAleSjjA$",
+                    "name": "AZG416"
+                },
+                {
+                    "code": "$*KwHUjvGcmNSg1dEAAAAAF51jsw$",
+                    "name": "AZH412"
+                },
+                {
+                    "code": "$*KwHLke6Dh8u_ysEAAAAA_E2hcA$",
+                    "name": "AZH414"
+                },
+                {
+                    "code": "$*KwF9J1g1MX0JfHYAAAAA4jW14w$",
+                    "name": "AZH416"
+                },
+                {
+                    "code": "$*KwGB26TJzYH1gYMAAAAAGhA6vQ$",
+                    "name": "AZI412"
+                },
+                {
+                    "code": "$*KwE9Zxh1cT1JPT4AAAAAouMySQ$",
+                    "name": "GA413"
+                },
+                {
+                    "code": "$*KwFKEG8CBko-SkoAAAAA4Cz5Jw$",
+                    "name": "GC415"
+                },
+                {
+                    "code": "$*KwHNl-iFgc25zcwAAAAAEP1CZA$",
+                    "name": "GC416"
+                },
+                {
+                    "code": "$*KwEfRTpXUx9rHxkAAAAAg72h_g$",
+                    "name": "GE306"
+                },
+                {
+                    "code": "$*KwFDGWYLD0M3Q0QAAAAABEd2LQ$",
+                    "name": "JA420"
+                },
+                {
+                    "code": "$*KwGi-Ifq7qLWoqYAAAAA6cQFCg$",
+                    "name": "JA627"
+                },
+                {
+                    "code": "$*KwFwKlU4PHAEcHUAAAAAk-dDpQ$",
+                    "name": "JB416"
+                },
+                {
+                    "code": "$*KwHgusWorOCU4OoAAAAAzm3toA$",
+                    "name": "JB419"
+                },
+                {
+                    "code": "$*KwG175D9-bXBtb4AAAAAM5gg2g$",
+                    "name": "JB420"
+                },
+                {
+                    "code": "$*KwGYwr3Q1Jjsm5oAAAAAKCu98Q$",
+                    "name": "JB424"
+                },
+                {
+                    "code": "$*KwF4Il0wNHgMe3sAAAAAYCVSQA$",
+                    "name": "JB627"
+                },
+                {
+                    "code": "$*KwETSTZbXxNnEBMAAAAAhQFAsg$",
+                    "name": "JB632"
+                },
+                {
+                    "code": "$*KwGj-Ybr76PXoKIAAAAA-QBf_A$",
+                    "name": "JC636"
+                },
+                {
+                    "code": "$*KwHMlumEgMy4z8oAAAAA7jd5vg$",
+                    "name": "LJ80"
+                },
+                {
+                    "code": "$*KwHUjvGcmNSg19MAAAAAy6VgHQ$",
+                    "name": "LJ81"
+                },
+                {
+                    "code": "$*KwF2LFM-OnYCdXIAAAAArbQrLQ$",
+                    "name": "MA800"
+                },
+                {
+                    "code": "$*KwEjeQZrbyNXICYAAAAAUEHmVw$",
+                    "name": "MG410"
+                },
+                {
+                    "code": "$*KwEtdwhlYS1ZLicAAAAAkwsXCA$",
+                    "name": "RA410"
+                },
+                {
+                    "code": "$*KwGw6pX4_LDEs7sAAAAApkh-Cg$",
+                    "name": "RB310"
+                },
+                {
+                    "code": "$*KwHJk-yBhcm9y8sAAAAATryB9Q$",
+                    "name": "RB412"
+                },
+                {
+                    "code": "$*KwFSCHcaHlImUFEAAAAAGYbjKg$",
+                    "name": "RB413"
+                },
+                {
+                    "code": "$*KwGv9Yrn46_bra8AAAAAU-5JkQ$",
+                    "name": "RC410"
+                },
+                {
+                    "code": "$*KwEcRjlUUBxoHh0AAAAA82tQEQ$",
+                    "name": "RC413"
+                },
+                {
+                    "code": "$*KwGexLvW0p7qnJgAAAAAVCRDdA$",
+                    "name": "RE306"
+                },
+                {
+                    "code": "$*KwGZw7zR1Zntm54AAAAACtmFhQ$",
+                    "name": "RF308"
+                },
+                {
+                    "code": "$*KwE7YR5zdztPOT8AAAAAbMjOtQ$",
+                    "name": "RF410"
+                },
+                {
+                    "code": "$*KwHrsc6jp-uf6e4AAAAAgexzbg$",
+                    "name": "RG413"
+                },
+                {
+                    "code": "$*KwFzKVY7P3MHcXkAAAAA7eo6eA$",
+                    "name": "RG415"
+                },
+                {
+                    "code": "$*KwExaxR5fTFFMzoAAAAAWvzPQw$",
+                    "name": "RH413"
+                },
+                {
+                    "code": "$*KwHnvcKvq-eT6uUAAAAAXOLtuA$",
+                    "name": "RH414"
+                },
+                {
+                    "code": "$*KwHdh_iVkd2p0N4AAAAAKESTIw$",
+                    "name": "RH416"
+                },
+                {
+                    "code": "$*KwECWCdKTgJ2DwIAAAAAMxheoA$",
+                    "name": "RH418"
+                },
+                {
+                    "code": "$*KwHoss2gpOic5ekAAAAA3Z2tdg$",
+                    "name": "RH420"
+                },
+                {
+                    "code": "$*KwFnPUIvK2cTamEAAAAA9aNUEw$",
+                    "name": "RH423"
+                },
+                {
+                    "code": "$*KwEAWiVITAB0DQcAAAAAOnswdw$",
+                    "name": "RK306"
+                },
+                {
+                    "code": "$*KwHWjPOemtai29IAAAAAWyjnXQ$",
+                    "name": "RM413"
+                },
+                {
+                    "code": "$*KwEkfgFsaCRQKSEAAAAA5zg9vg$",
+                    "name": "RM415"
+                },
+                {
+                    "code": "$*KwHCmOeKjsK2z8gAAAAAKvf01Q$",
+                    "name": "RP625"
+                },
+                {
+                    "code": "$*KwFSCHcaHlImX1kAAAAAkMV31w$",
+                    "name": "RQ420"
+                },
+                {
+                    "code": "$*KwEhewRpbSFVLSMAAAAA3rqUTw$",
+                    "name": "RR416"
+                },
+                {
+                    "code": "$*KwEocg1gZChcJCsAAAAA07K-cA$",
+                    "name": "RS413"
+                },
+                {
+                    "code": "$*KwFIEm0ABEg8REgAAAAA255NXw$",
+                    "name": "RS415"
+                },
+                {
+                    "code": "$*KwGr8Y7j56vfp6oAAAAATxSkIA$",
+                    "name": "RS416"
+                },
+                {
+                    "code": "$*KwHMlumEgMy4wMoAAAAAaa9lcQ$",
+                    "name": "RW415"
+                },
+                {
+                    "code": "$*KwGWzLPe2pbimpEAAAAAjCy5fw$",
+                    "name": "RW416"
+                },
+                {
+                    "code": "$*KwHCmOeKjsK2zsYAAAAA1FTokw$",
+                    "name": "RW419"
+                },
+                {
+                    "code": "$*KwHZg_yRldmt1dwAAAAALUL3_g$",
+                    "name": "RW420"
+                },
+                {
+                    "code": "$*KwHQivWYnNCk3NoAAAAAx_Lwxg$",
+                    "name": "SA310"
+                },
+                {
+                    "code": "$*KwE0bhF8eDRAOD8AAAAAeoLv3g$",
+                    "name": "SA413"
+                },
+                {
+                    "code": "$*KwHrsc6jp-uf7-noAAAAAJ2Uz54$",
+                    "name": "SB308"
+                },
+                {
+                    "code": "$*KwEMVilEQAx4CA4OAAAAAKI3Omo$",
+                    "name": "SD306"
+                },
+                {
+                    "code": "$*KwHEnuGMiMSwwMbFAAAAAPCXbvg$",
+                    "name": "SE413"
+                },
+                {
+                    "code": "$*KwHyqNe6vvKG9vDyAAAAAB3ovoE$",
+                    "name": "SE416"
+                },
+                {
+                    "code": "$*KwEfRTpXUx9rGx0YAAAAAPiNeLk$",
+                    "name": "SE419"
+                },
+                {
+                    "code": "$*KwF0LlE8OHQAcHZyAAAAAC2RFB4$",
+                    "name": "SE420"
+                },
+                {
+                    "code": "$*KwG27JP--rbCsrSzAAAAAEyU1nU$",
+                    "name": "SF310"
+                },
+                {
+                    "code": "$*KwErcQ5jZytfLykvAAAAAEINGh4$",
+                    "name": "SF413"
+                },
+                {
+                    "code": "$*KwFSCHcaHlImVlBZAAAAAAaBBBs$",
+                    "name": "SF416"
+                },
+                {
+                    "code": "$*KwEocg1gZChcLCoiAAAAAEC8DRI$",
+                    "name": "SH410"
+                },
+                {
+                    "code": "$*KwE9Zxh1cT1JOT4-AAAAABvIQPw$",
+                    "name": "SJ410"
+                },
+                {
+                    "code": "$*KwErcQ5jZytfLygpAAAAALJ1jmo$",
+                    "name": "SJ413"
+                },
+                {
+                    "code": "$*KwFDGWYLD0M3R0BCAAAAAGxuueo$",
+                    "name": "SJ419"
+                },
+                {
+                    "code": "$*KwFJE2wBBUk9TUpJAAAAACjMH4U$",
+                    "name": "SK408"
+                },
+                {
+                    "code": "$*KwHOlOuGgs66ys3JAAAAADNKbHU$",
+                    "name": "SK410"
+                },
+                {
+                    "code": "$*KwHxq9S5vfGF9fL3AAAAAAiZEP4$",
+                    "name": "SN413"
+                },
+                {
+                    "code": "$*KwHwqtW4vPCE9PP1AAAAAM1oqL0$",
+                    "name": "SN415"
+                },
+                {
+                    "code": "$*KwFnPUIvK2cTY2RjAAAAAPBU8i8$",
+                    "name": "SP306"
+                },
+                {
+                    "code": "$*KwFOFGsGAk46Sk1FAAAAAPKFXaM$",
+                    "name": "SQ416"
+                },
+                {
+                    "code": "$*KwE1bxB9eTVBMTY_AAAAAOhAvVM$",
+                    "name": "SQ420"
+                },
+                {
+                    "code": "$*KwFMFmkEAEw4SExPAAAAAG6CVaA$",
+                    "name": "SQ625"
+                },
+                {
+                    "code": "$*KwEieAdqbiJWJiIgAAAAAE_0cVs$",
+                    "name": "SR306"
+                },
+                {
+                    "code": "$*KwHps8yhpemd7enoAAAAAPhdH8I$",
+                    "name": "SR410"
+                },
+                {
+                    "code": "$*KwGr8Y7j56vfr6urAAAAAL8vwXg$",
+                    "name": "SR412"
+                },
+                {
+                    "code": "$*KwEudAtmYi5aKi4pAAAAAB1YYXo$",
+                    "name": "SS40"
+                },
+                {
+                    "code": "$*KwEUTjFcWBRgEBQSAAAAANLhVa0$",
+                    "name": "SS80"
+                },
+                {
+                    "code": "$*KwEhewRpbSFVJSEkAAAAADSZ3vM$",
+                    "name": "ST90"
+                },
+                {
+                    "code": "$*KwGJ06zBxYn9jYmNAAAAAEVxyHw$",
+                    "name": "SV418"
+                },
+                {
+                    "code": "$*KwGN16jFwY35iY2GAAAAAH1cdEg$",
+                    "name": "SV420"
+                },
+                {
+                    "code": "$*KwHutMumou6a6u7kAAAAACIUXeQ$",
+                    "name": "SV620"
+                },
+                {
+                    "code": "$*KwEpcwxhZSldLSgqAAAAAE61D4w$",
+                    "name": "SW413"
+                },
+                {
+                    "code": "$*KwFHHWIPC0czQ0ZFAAAAAG_DK3c$",
+                    "name": "SX306"
+                },
+                {
+                    "code": "$*KwHqsM-ipuqe7uvrAAAAAARPFIg$",
+                    "name": "SY413"
+                },
+                {
+                    "code": "$*KwHgusWorOCU5OHgAAAAAEDtsuc$",
+                    "name": "SY415"
+                },
+                {
+                    "code": "$*KwF0LlE8OHQAcHVzAAAAAHG7d0s$",
+                    "name": "SY416"
+                },
+                {
+                    "code": "$*KwGl_4Dt6aXRoaSjAAAAANRgYlA$",
+                    "name": "SY418"
+                },
+                {
+                    "code": "$*KwENVyhFQQ15CQwIAAAAAEuGFfM$",
+                    "name": "SY419"
+                },
+                {
+                    "code": "$*KwE-ZBt2cj5KOj86AAAAAFKTjdY$",
+                    "name": "SZ416"
+                }
+            ]
+        }
+    ]
+}

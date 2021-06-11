@@ -1,0 +1,487 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Series Type",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwGu9IvkAAAAADKcZf8$",
+                    "name": "1-Cyl."
+                },
+                {
+                    "code": "$*KwFVD3AYAAAAAMhOf48$",
+                    "name": "Boxer"
+                },
+                {
+                    "code": "$*KwFyKFc6eAAAAABWRkeP$",
+                    "name": "C models"
+                },
+                {
+                    "code": "$*KwFsNkkkbwAAAACnqlNB$",
+                    "name": "C1, C1 200"
+                },
+                {
+                    "code": "$*KwHYgv2WAAAAAKWOv30$",
+                    "name": "F models"
+                },
+                {
+                    "code": "$*KwEPVSpAAAAAAIyBuPE$",
+                    "name": "F models K7x"
+                },
+                {
+                    "code": "$*KwGo8o3jqgAAAACnlmM6$",
+                    "name": "F models K8x"
+                },
+                {
+                    "code": "$*KwHSiPeTAAAAACKcJq4$",
+                    "name": "G models"
+                },
+                {
+                    "code": "$*KwE0bhF8MQAAAAA1DaCr$",
+                    "name": "K models 3-cyl."
+                },
+                {
+                    "code": "$*KwGD2abLhwAAAAD8PxDb$",
+                    "name": "K models 4-cyl. 2V"
+                },
+                {
+                    "code": "$*KwFnPUIvYAAAAAAPtf_7$",
+                    "name": "K models 4-cyl. 4V"
+                },
+                {
+                    "code": "$*KwH8ptm3_AAAAADUkxEy$",
+                    "name": "K models 6-cylinder"
+                },
+                {
+                    "code": "$*KwHwqtW49gAAAADwEqI_$",
+                    "name": "K models K4x 4-cyl."
+                },
+                {
+                    "code": "$*KwF1L1A9dwAAAAARIOLl$",
+                    "name": "R models 2V"
+                },
+                {
+                    "code": "$*KwFOFGsOAAAAAIXfTdU$",
+                    "name": "R models 4V"
+                },
+                {
+                    "code": "$*KwHNl-iBAAAAAAsFvTU$",
+                    "name": "R models K2x"
+                },
+                {
+                    "code": "$*KwGF36DNjgAAAADyXyyX$",
+                    "name": "R models K5x"
+                },
+                {
+                    "code": "$*KwGexLvVnQAAAABjkWkf$",
+                    "name": "R models R nineT"
+                },
+                {
+                    "code": "$*KwHBm-SKAAAAADl40tU$",
+                    "name": "R-Boxer"
+                },
+                {
+                    "code": "$*KwETSTZbEgAAAABNSKRe$",
+                    "name": "S models"
+                },
+                {
+                    "code": "$*KwE8Zhl0PAAAAABIwi9J$",
+                    "name": "Special engines"
+                }
+            ]
+        },
+        {
+            "name": "Series",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwHjusar4ukAAAAAr8AvQQ$",
+                    "name": "259 (R 1100 S, R 1100 RS)"
+                },
+                {
+                    "code": "$*KwERSDRZEBAAAAAA5fCcaQ$",
+                    "name": "259 (R 850 GS, R 1100 GS)"
+                },
+                {
+                    "code": "$*KwHZgPyR2N0AAAAA9ibdKQ$",
+                    "name": "259 (R 850 RT, R 1100 RT)"
+                },
+                {
+                    "code": "$*KwHzqta79fIAAAAADPkBVg$",
+                    "name": "259C (R 1200 C Independent)"
+                },
+                {
+                    "code": "$*KwHKk--CzMgAAAAAztnmnQ$",
+                    "name": "259C (R 1200 C Montauk)"
+                },
+                {
+                    "code": "$*KwHag_-S3NkAAAAAwnS3Uw$",
+                    "name": "259C (R 850 C, R 1200 C)"
+                },
+                {
+                    "code": "$*KwH4od2w-f4AAAAABX5bgA$",
+                    "name": "259R (R 850 R, R 1100 R)"
+                },
+                {
+                    "code": "$*KwEgeQVoICoAAAAADcXyfQ$",
+                    "name": "A10B08 (87-97)"
+                },
+                {
+                    "code": "$*KwEpcAxhIioAAAAAQDqGiw$",
+                    "name": "A15"
+                },
+                {
+                    "code": "$*KwGs9Ynnr64AAAAAYvs5bQ$",
+                    "name": "A40"
+                },
+                {
+                    "code": "$*KwH0rdG89fcAAAAAVisH9Q$",
+                    "name": "A61"
+                },
+                {
+                    "code": "$*KwEWTzNeFxQAAAAAh2Q8mw$",
+                    "name": "A67"
+                },
+                {
+                    "code": "$*KwEfRjpUHh8AAAAAvPv2dw$",
+                    "name": "A73"
+                },
+                {
+                    "code": "$*KwHttMig7wAAAACyWoIp$",
+                    "name": "C1"
+                },
+                {
+                    "code": "$*KwEEXSFMBwMAAAAAseeH5Q$",
+                    "name": "E169 (F 650, F 650 ST)"
+                },
+                {
+                    "code": "$*KwGH3qLMgYUAAAAAMHpWKg$",
+                    "name": "K02 (G 310 GS)"
+                },
+                {
+                    "code": "$*KwFIEW0DTksAAAAA31wiOw$",
+                    "name": "K03 (G 310 R)"
+                },
+                {
+                    "code": "$*KwH9pNi29vwAAAAAl1slkw$",
+                    "name": "K08 (C 400 GT)"
+                },
+                {
+                    "code": "$*KwFyK1c5eXIAAAAATaXSow$",
+                    "name": "K09 (C 400 X)"
+                },
+                {
+                    "code": "$*KwFJEGwBSkwAAAAAowzoJw$",
+                    "name": "K14 (F 650 CS)"
+                },
+                {
+                    "code": "$*KwErcg5gLSAAAAAA9nyChg$",
+                    "name": "K15 (G 650 X)"
+                },
+                {
+                    "code": "$*KwGbwr7TmJAAAAAAbgJtMA$",
+                    "name": "K16 (G 450 X)"
+                },
+                {
+                    "code": "$*KwElfABuJSAAAAAAa9Ts1g$",
+                    "name": "K17 (C evolution)"
+                },
+                {
+                    "code": "$*KwFcBXkXW1cAAAAArdxiRg$",
+                    "name": "K18 (C 600 Sport, C 650 Sport)"
+                },
+                {
+                    "code": "$*KwH3rtK__fMAAAAAzswigw$",
+                    "name": "K19 (C 650 GT)"
+                },
+                {
+                    "code": "$*KwGG36PNhoIAAAAAZUFxrA$",
+                    "name": "K21 (R nineT)"
+                },
+                {
+                    "code": "$*KwF8JVk3dn0AAAAAD_M3pQ$",
+                    "name": "K22 (R nineT Pure)"
+                },
+                {
+                    "code": "$*KwEsdQlnJiwAAAAANoblSg$",
+                    "name": "K23 (R nineT Scrambler)"
+                },
+                {
+                    "code": "$*KwFvNkonaGgAAAAAz6Vawg$",
+                    "name": "K25 (HP)"
+                },
+                {
+                    "code": "$*KwFnPkIvYGcAAAAAbBT_zQ$",
+                    "name": "K25 (R 1200 GS Adventure)"
+                },
+                {
+                    "code": "$*KwFcBXkUW10AAAAAT081AQ$",
+                    "name": "K25 (R 1200 GS)"
+                },
+                {
+                    "code": "$*KwESSzdaFRQAAAAAyLnHUg$",
+                    "name": "K26 (R 900 RT, R 1200 RT)"
+                },
+                {
+                    "code": "$*KwEheARpJiQAAAAAODlcHg$",
+                    "name": "K27 (R 1200 R)"
+                },
+                {
+                    "code": "$*KwHut8um6eoAAAAA1x8oDw$",
+                    "name": "K28 (R 1200 ST)"
+                },
+                {
+                    "code": "$*KwGM1anEi4cAAAAAilk4JA$",
+                    "name": "K29 (R 1200 S, HP2 Sport)"
+                },
+                {
+                    "code": "$*KwEgeQVoJiAAAAAAu0q85Q$",
+                    "name": "K30 (R1200 CL)"
+                },
+                {
+                    "code": "$*KwHdhPiW19oAAAAAkHdzVw$",
+                    "name": "K32 (R nineT Racer)"
+                },
+                {
+                    "code": "$*KwE6Yx9xMDwAAAAAtdD1Wg$",
+                    "name": "K33 (R nineT Urban G/S)"
+                },
+                {
+                    "code": "$*KwE_Zhp3PzkAAAAAuZEe6g$",
+                    "name": "K40 (K 1200 S, K 1300 S)"
+                },
+                {
+                    "code": "$*KwEdRDhVHR0AAAAAqNM1RA$",
+                    "name": "K41 (K 1200 GT, K 1200 RS)"
+                },
+                {
+                    "code": "$*KwFlPEAuZW8AAAAAzrNyZg$",
+                    "name": "K42 (HP4)"
+                },
+                {
+                    "code": "$*KwF9JFg1fXgAAAAAGjWAWg$",
+                    "name": "K43 (K 1200 R, Sport, K 1300 R)"
+                },
+                {
+                    "code": "$*KwHyq9e68vYAAAAAwMt3ag$",
+                    "name": "K44 (K 1200 GT, K 1300 GT)"
+                },
+                {
+                    "code": "$*KwHOl-uGzsUAAAAA_7Vh6Q$",
+                    "name": "K46 (S 1000 RR)"
+                },
+                {
+                    "code": "$*KwFhOEQqY2YAAAAAnN70Dw$",
+                    "name": "K47 (S 1000 R)"
+                },
+                {
+                    "code": "$*KwHfhvqX1d8AAAAAAyAUhg$",
+                    "name": "K48 (K 1600 GT, K 1600 GTL)"
+                },
+                {
+                    "code": "$*KwF4IV0zeXwAAAAAgoeCtw$",
+                    "name": "K49 (S 1000 XR)"
+                },
+                {
+                    "code": "$*KwF3LlI9dXMAAAAAbiB6pw$",
+                    "name": "K50 (R 1200 GS, R 1250 GS)"
+                },
+                {
+                    "code": "$*KwGVzLDfl54AAAAAWNdszg$",
+                    "name": "K51 (R 1200 GS Adv., R 1250 GS Adv.)"
+                },
+                {
+                    "code": "$*KwGj-obpoakAAAAAsrErzQ$",
+                    "name": "K52 (R 1200 RT, R 1250 RT)"
+                },
+                {
+                    "code": "$*KwFSC3cYUVEAAAAA6uOhlg$",
+                    "name": "K53 (R 1200 R, R 1250 R)"
+                },
+                {
+                    "code": "$*KwGh-ITroqMAAAAAqgTelQ$",
+                    "name": "K54 (R 1200 RS, R 1250 RS)"
+                },
+                {
+                    "code": "$*KwFVDHAdVVIAAAAAProTag$",
+                    "name": "K569 (K 75, K 75 C, K 75 S, K 75 RT)"
+                },
+                {
+                    "code": "$*KwGI0a3AiIoAAAAAoi6OEQ$",
+                    "name": "K589 (K 1100 RS, K 1100 LT)"
+                },
+                {
+                    "code": "$*KwFEHWEMREUAAAAARnHyMg$",
+                    "name": "K589 (K 1200 RS, K 1200 LT)"
+                },
+                {
+                    "code": "$*KwEcRTlUHB8AAAAA29hByw$",
+                    "name": "K589 (K1, K 100 RS)"
+                },
+                {
+                    "code": "$*KwE3bhJ_ND0AAAAApt8xrg$",
+                    "name": "K589 (K100, RS, RT, LT)"
+                },
+                {
+                    "code": "$*KwFxKFQ6e3IAAAAAKMDbRg$",
+                    "name": "K60 (HP4Race)"
+                },
+                {
+                    "code": "$*KwEkfQFvLiYAAAAA5V20yg$",
+                    "name": "K61 (K 1600 Bagger)"
+                },
+                {
+                    "code": "$*KwFHHmIMQk0AAAAAS-UIuA$",
+                    "name": "K67 (S 1000 RR)"
+                },
+                {
+                    "code": "$*KwEKUy9BCAoAAAAAGJR5jw$",
+                    "name": "K70 (F 700 GS)"
+                },
+                {
+                    "code": "$*KwFHHmIMRUwAAAAAc6Ou6Q$",
+                    "name": "K71 (F 800 S, F 800 ST, F 800 GT)"
+                },
+                {
+                    "code": "$*KwH0rdG88_4AAAAAea0Y1w$",
+                    "name": "K72 (F 650 GS, F 800 GS)"
+                },
+                {
+                    "code": "$*KwGO16vGio0AAAAAoNqv_g$",
+                    "name": "K73 (F 800 R)"
+                },
+                {
+                    "code": "$*KwEHXiJMBAAAAAAAVtZQog$",
+                    "name": "K75 (F 800 GS Adventure)"
+                },
+                {
+                    "code": "$*KwEeRztUHBkAAAAA4nJ_FQ$",
+                    "name": "K80 (f 750 GS)"
+                },
+                {
+                    "code": "$*KwEzahZ5MTUAAAAAqxwA_A$",
+                    "name": "K81 (f 850 GS)"
+                },
+                {
+                    "code": "$*KwFGH2MMREMAAAAAf9vM7A$",
+                    "name": "K82 (F 850 GS Adventure)"
+                },
+                {
+                    "code": "$*KwGWz7PekZQAAAAAuo-dXw$",
+                    "name": "R 100 RS, R 100 RT (87-95)"
+                },
+                {
+                    "code": "$*KwFvNkonaGwAAAAAyMie2w$",
+                    "name": "R 100, /7, /T, CS, RS, RT, S (76-84)"
+                },
+                {
+                    "code": "$*KwFRCHQcUQAAAABNEwtA$",
+                    "name": "R 24         -50"
+                },
+                {
+                    "code": "$*KwFzKlY-cgAAAAB5NMkp$",
+                    "name": "R 25         -56"
+                },
+                {
+                    "code": "$*KwGD2qbOhQAAAAB98ypc$",
+                    "name": "R 26         -60"
+                },
+                {
+                    "code": "$*KwEfRjpSGAAAAAAtJh87$",
+                    "name": "R 27         -66"
+                },
+                {
+                    "code": "$*KwEeRztTGgAAAABjTUIE$",
+                    "name": "R 50         -69"
+                },
+                {
+                    "code": "$*KwHBmOSMxAAAAAD8ZL_F$",
+                    "name": "R 51         -54"
+                },
+                {
+                    "code": "$*KwHQifWd2gAAAACg81gL$",
+                    "name": "R 60         -69"
+                },
+                {
+                    "code": "$*KwGv9ornqagAAAAAiNfu4A$",
+                    "name": "R 60, R 75 , R 80, /7, RT (76-85)"
+                },
+                {
+                    "code": "$*KwFwKVU4dnYAAAAAHFv7qQ$",
+                    "name": "R 65 GS, R 80 G/S, R 80 ST (80-92)"
+                },
+                {
+                    "code": "$*KwEdRDhVGR8AAAAAIrGRbA$",
+                    "name": "R 65, R 65 RT, R 80, R 80 RT (85-95)"
+                },
+                {
+                    "code": "$*KwGg-YXtqwAAAACXAKib$",
+                    "name": "R 67         -55"
+                },
+                {
+                    "code": "$*KwHbgv6X2QAAAAAYQYnb$",
+                    "name": "R 68         -54"
+                },
+                {
+                    "code": "$*KwGC26fOgQAAAADD4OMX$",
+                    "name": "R 69         -69"
+                },
+                {
+                    "code": "$*KwGn_oLvoawAAAAAvLSSZw$",
+                    "name": "R 80 GS Basic (96)"
+                },
+                {
+                    "code": "$*KwG17JD9s7AAAAAAL9OSEw$",
+                    "name": "R 80 GS, R 100 GS, PD (87-90)"
+                },
+                {
+                    "code": "$*KwE_Zhp3OTsAAAAAAcXYQA$",
+                    "name": "R 80 GS, R 100 GS, PD (90-95)"
+                },
+                {
+                    "code": "$*KwH3rtK_8f0AAAAAhcFAiA$",
+                    "name": "R 80 R, R 100 R, Mystik (91-95)"
+                },
+                {
+                    "code": "$*KwFdBHgVXlsAAAAAX0VAkw$",
+                    "name": "R13 (F 650 GS, GS Dakar)"
+                },
+                {
+                    "code": "$*KwEVTDBdHx8AAAAAjzwEfA$",
+                    "name": "R13 (G 650 GS Sertão)"
+                },
+                {
+                    "code": "$*KwEeRztWHRoAAAAAYeTLgA$",
+                    "name": "R13 (G 650 GS)"
+                },
+                {
+                    "code": "$*KwEZQDxRGB4AAAAAMUYJ8A$",
+                    "name": "R21 (R 1150 GS Adventure)"
+                },
+                {
+                    "code": "$*KwHqs8-i6-oAAAAAmMLTxg$",
+                    "name": "R21 (R 1150 GS)"
+                },
+                {
+                    "code": "$*KwHEneGMxc8AAAAA1A4sLw$",
+                    "name": "R22 (R 850 RT, R 1150 RT, R 1150 RS)"
+                },
+                {
+                    "code": "$*KwF2L1M-d3MAAAAA24zoqQ$",
+                    "name": "R28 (R 850 R, R 1150 R, Rockster)"
+                },
+                {
+                    "code": "$*KwG95Jj3tgAAAADypoH4$",
+                    "name": "R45-R65LS..78-85"
+                },
+                {
+                    "code": "$*KwGp8IzjowAAAAB1gXki$",
+                    "name": "R50/5-R90S 69-76"
+                }
+            ]
+        }
+    ]
+}

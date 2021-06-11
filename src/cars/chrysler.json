@@ -1,0 +1,315 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwGL0a7DiYiLAAAAAKSbZtI$",
+                    "name": "BF - FIAT 500L"
+                },
+                {
+                    "code": "$*KwHJk-yBy8rEAAAAAKIXfgI$",
+                    "name": "CS - PACIFICA"
+                },
+                {
+                    "code": "$*KwFpM0wha2ttAAAAAEcpIvs$",
+                    "name": "D -LASER/TALON"
+                },
+                {
+                    "code": "$*KwHXjfKf1dXSAAAAANvrIRM$",
+                    "name": "D -TALON/AVENGER/SEBRING"
+                },
+                {
+                    "code": "$*KwEAWiVIAgEAAAAAAFHJv7s$",
+                    "name": "E -PREMIER/MONACO"
+                },
+                {
+                    "code": "$*KwGw6pX4srGxAAAAANtLOfI$",
+                    "name": "FF - FIAT 500"
+                },
+                {
+                    "code": "$*KwGH3aLPhYaFAAAAACxeDf0$",
+                    "name": "FJ - AVENGER/TALON/SEBRING"
+                },
+                {
+                    "code": "$*KwEmfANuJCclAAAAAP_-Huc$",
+                    "name": "GS - VOYAGER (GRAZ)"
+                },
+                {
+                    "code": "$*KwGk_oHspqWpAAAAAC_6zFo$",
+                    "name": "HG - CHRYSLER ASPEN"
+                },
+                {
+                    "code": "$*KwH8ptm0_vz4AAAAANxHHfA$",
+                    "name": "I -IMPORT"
+                },
+                {
+                    "code": "$*KwE2bBN-NDYwAAAAAO7zuOo$",
+                    "name": "J1 - SEBRING (CKD)"
+                },
+                {
+                    "code": "$*KwE5YxxxOzk-AAAAAK7q-00$",
+                    "name": "J1 - SEBRING CHINA (CKD)"
+                },
+                {
+                    "code": "$*KwEQSjVYEhAQAAAAADCu7Tk$",
+                    "name": "J2 - CIRRUS/STRATUS (MEXICO)"
+                },
+                {
+                    "code": "$*KwEWTDNeFBYUAAAAABlmu3U$",
+                    "name": "J4 - R/T CONVERTIBLE (MEXICO)"
+                },
+                {
+                    "code": "$*KwGB26TJg4GCAAAAAIWEO0o$",
+                    "name": "JA - BREEZE/STRATUS/CIRRUS"
+                },
+                {
+                    "code": "$*KwFSCHcaUFVWAAAAAAC_24o$",
+                    "name": "JR - STRATUS/SEBRING"
+                },
+                {
+                    "code": "$*KwHutMum7OnrAAAAAN7ANUI$",
+                    "name": "JS - AVENGER/200/FLAVIA"
+                },
+                {
+                    "code": "$*KwH0rtG89vPyAAAAAKyOWNo$",
+                    "name": "JX - SEBRING JXI CONVERTIBLE"
+                },
+                {
+                    "code": "$*KwHIku2Ays_EAAAAAJAifQA$",
+                    "name": "L -CONCORDE/NEWYORKER/LHS/INTREPID/VISION"
+                },
+                {
+                    "code": "$*KwHCmOeKwMXPAAAAAHQeEnc$",
+                    "name": "L2 - 300C (CKD)"
+                },
+                {
+                    "code": "$*KwGawL_SmJydAAAAAB6qkmc$",
+                    "name": "LE - CHRYSLER 300 (STEYR)"
+                },
+                {
+                    "code": "$*KwHzqda78fXzAAAAALpuDV4$",
+                    "name": "LH - INTREPID/CONCORDE/300M"
+                },
+                {
+                    "code": "$*KwELUS5DCQ0KAAAAANvqsJs$",
+                    "name": "LX - CHRYSLER 300"
+                },
+                {
+                    "code": "$*KwHmvMOu5ODqAAAAAG-BDmY$",
+                    "name": "NM - MMC RAIDER PICKUP"
+                },
+                {
+                    "code": "$*KwEFXyBNBwMIAAAAAMQceRE$",
+                    "name": "NS - CARAVAN/VOYAGER/T&C/LIMITED"
+                },
+                {
+                    "code": "$*KwHps8yh6-ztAAAAAH1ppqY$",
+                    "name": "P -PASSENGER"
+                },
+                {
+                    "code": "$*KwFnPUIvZWJnAAAAABlF9YQ$",
+                    "name": "P5 - CHRYSLER PT CRUISER (MEXICO)"
+                },
+                {
+                    "code": "$*KwFTCXYbUVZRAAAAAPq06q0$",
+                    "name": "PG - PT CRUISER (GRAZ)"
+                },
+                {
+                    "code": "$*KwHdh_iV39jeAAAAAO7yTQA$",
+                    "name": "PL - NEON"
+                },
+                {
+                    "code": "$*KwF6IF8yeH93AAAAAGordOs$",
+                    "name": "PR - PROWLER"
+                },
+                {
+                    "code": "$*KwHfhfqX3dvbAAAAACswBMI$",
+                    "name": "PT - CHRYSLER PT CRUISER"
+                },
+                {
+                    "code": "$*KwFQCnUYUlRWAAAAAIchBEU$",
+                    "name": "R2 - CARAVAN / VOYAGER (CKD)"
+                },
+                {
+                    "code": "$*KwHqsM-i6O7tAAAAAJ6Y3e0$",
+                    "name": "RG - VOYAGER (GRAZ)"
+                },
+                {
+                    "code": "$*KwGq8I_iqK6qAAAAADp8wQM$",
+                    "name": "RS - CARAVAN / TOWN & COUNTRY"
+                },
+                {
+                    "code": "$*KwFfBXoXXVteAAAAAC5b4tc$",
+                    "name": "RT - CARAVAN / TOWN & COUNTRY"
+                },
+                {
+                    "code": "$*KwGE3qHMhoCHAAAAAEXN0p4$",
+                    "name": "ST - STRATUS / SEBRING"
+                },
+                {
+                    "code": "$*KwG74Z7zubC_AAAAAOOrjIY$",
+                    "name": "UF - CHRYSLER 200"
+                },
+                {
+                    "code": "$*KwG07pH8tr-yAAAAADq7nps$",
+                    "name": "VA - SPRINTER"
+                },
+                {
+                    "code": "$*KwH-pNu2_PX5AAAAAOQHeKE$",
+                    "name": "VB - SPRINTER"
+                },
+                {
+                    "code": "$*KwHwqtW48_P0AAAAAKJVTIU$",
+                    "name": "ZH - CROSSFIRE"
+                }
+            ]
+        },
+        {
+            "name": "Год выпуска",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwGB2KTKg4KHAAAAAEriQUY$",
+                    "name": "1982"
+                },
+                {
+                    "code": "$*KwEZQDxSGxoeAAAAAOEeskg$",
+                    "name": "1983"
+                },
+                {
+                    "code": "$*KwGD2qbIgYCDAAAAAOE8CVM$",
+                    "name": "1984"
+                },
+                {
+                    "code": "$*KwEeRztVHB0fAAAAAO7l1o0$",
+                    "name": "1985"
+                },
+                {
+                    "code": "$*KwE6Yx9xODk4AAAAAAJvmvE$",
+                    "name": "1986"
+                },
+                {
+                    "code": "$*KwH7ot6w-fj4AAAAABu3xyA$",
+                    "name": "1987"
+                },
+                {
+                    "code": "$*KwEqcw9hKCkmAAAAAJ2r1DU$",
+                    "name": "1988"
+                },
+                {
+                    "code": "$*KwGaw7_RmJmXAAAAABcpUnw$",
+                    "name": "1989"
+                },
+                {
+                    "code": "$*KwERSDRaExMVAAAAALCKYHI$",
+                    "name": "1990"
+                },
+                {
+                    "code": "$*KwGq84_hqKivAAAAAIhtT0o$",
+                    "name": "1991"
+                },
+                {
+                    "code": "$*KwGn_oLspaWhAAAAAGTHgOE$",
+                    "name": "1992"
+                },
+                {
+                    "code": "$*KwGh-ITqo6OmAAAAANQGhxc$",
+                    "name": "1993"
+                },
+                {
+                    "code": "$*KwEEXSFPBgYEAAAAAGu-63g$",
+                    "name": "1994"
+                },
+                {
+                    "code": "$*KwF_Jlo0fX1-AAAAABzYX5c$",
+                    "name": "1995"
+                },
+                {
+                    "code": "$*KwFrMk4gaWlpAAAAAHjWt64$",
+                    "name": "1996"
+                },
+                {
+                    "code": "$*KwEYQT1TGhobAAAAAN42sYA$",
+                    "name": "1997"
+                },
+                {
+                    "code": "$*KwHHnuKMxcXLAAAAAE5qJzQ$",
+                    "name": "1998"
+                },
+                {
+                    "code": "$*KwHpsMyi6-vkAAAAAN_VVYU$",
+                    "name": "1999"
+                },
+                {
+                    "code": "$*KwElfABuJyQhAAAAAJZYTbQ$",
+                    "name": "2000"
+                },
+                {
+                    "code": "$*KwG_5pr0vb66AAAAAH8ZU5o$",
+                    "name": "2001"
+                },
+                {
+                    "code": "$*KwHnvsKs5ebhAAAAAHVqWm8$",
+                    "name": "2002"
+                },
+                {
+                    "code": "$*KwHEneGPxsXDAAAAAJF2ts8$",
+                    "name": "2003"
+                },
+                {
+                    "code": "$*KwGL0q7AiYqLAAAAAAKM2RA$",
+                    "name": "2004"
+                },
+                {
+                    "code": "$*KwGm_4PtpKenAAAAAPDQsBE$",
+                    "name": "2005"
+                },
+                {
+                    "code": "$*KwEyaxd5MDMwAAAAAOHfSrI$",
+                    "name": "2006"
+                },
+                {
+                    "code": "$*KwHxqNS68_DyAAAAALq6-kM$",
+                    "name": "2007"
+                },
+                {
+                    "code": "$*KwFZAHwSW1hVAAAAAH56gA8$",
+                    "name": "2008"
+                },
+                {
+                    "code": "$*KwHfhvqU3d7SAAAAALu6lWM$",
+                    "name": "2009"
+                },
+                {
+                    "code": "$*KwFWD3MdVFZSAAAAAF6kSk0$",
+                    "name": "2010"
+                },
+                {
+                    "code": "$*KwEiewdpICInAAAAAB7cjZM$",
+                    "name": "2011"
+                },
+                {
+                    "code": "$*KwGaw7_RmJqcAAAAAKvW2Dc$",
+                    "name": "2012"
+                },
+                {
+                    "code": "$*KwF0LVE_dnRzAAAAAHXoMVE$",
+                    "name": "2013"
+                },
+                {
+                    "code": "$*KwHIke2DysjIAAAAAEL0eqw$",
+                    "name": "2014"
+                },
+                {
+                    "code": "$*KwH1rNC-9_X0AAAAAMjUcG4$",
+                    "name": "2015"
+                }
+            ]
+        }
+    ]
+}

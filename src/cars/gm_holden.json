@@ -1,0 +1,43 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwEaJjY5aXtqaWd7Y3owMzZtehxvc1IMQhASBgoTDGJnbWtgU1NBXkhCWk0LFA4yMC5lZmpgemwMUSwAAAAA_dYXtQ$",
+                    "name": "COMMODORE"
+                },
+                {
+                    "code": "$*KwFgXExDEwEQEx0BGQBKSUwXAGYVCSh2OGpofHBpdhgdFxEaKSk7JDI4IDdxbnRYUVgGFgcYEx12K1YAAAAAOcVu7Q$",
+                    "name": "STATESMAN"
+                },
+                {
+                    "code": "$*KwF1SVlWBhQFBggUDBVfXFkCFXMAHD1jLX99aWV8Yw0IAgQPPDwuMSctNSJke2FJXS46GwAAAAAjwA9Y$",
+                    "name": "WM"
+                }
+            ]
+        },
+        {
+            "name": "Год выпуска",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwHxzd3SgpCBgoyQiJHb2N2GkfeEmLnnqfv57eH4552Gg5fltrb-oq6woeH45_Wqpbrhv5gAAAAAax_MJw$",
+                    "name": "2012"
+                },
+                {
+                    "code": "$*KwEFOSkmdmR1dnhkfGUvLClyZQNwbE0TXQ8NGRUME2lyd2MRQkIKVlpEVRUMEwFeUU0VS2wAAAAA_Y2BEw$",
+                    "name": "2011"
+                },
+                {
+                    "code": "$*KwFDf29gMCIzMD4iOiNpam80I0U2KgtVG0lLX1NKVS80MSVXBARMEBwCE1NKVUcYFwpTDSoAAAAAs2hvNQ$",
+                    "name": "2010"
+                }
+            ]
+        }
+    ]
+}

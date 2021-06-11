@@ -1,0 +1,13 @@
+{
+    partners {
+        data {
+            id
+            title
+            extraFields
+            owner {
+                name
+                extraFields
+            }
+        }
+    }
+}

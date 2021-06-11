@@ -1,0 +1,100 @@
+mutation (
+    $id: ID!
+    $title: String!
+    $senderPartnerId: ID!
+    $clientPartnerId: ID!
+    $receiverPartnerId: ID!
+    $customsPartnerId: ID!
+    $exportMethodId: ID!
+    $cargoTypeId: ID!
+    $extraFields: String!
+    $voyageId: ID
+    $parentId: ID
+) {
+    updateCargo(
+        input: {
+            id: $id
+            title: $title
+            senderPartnerId: $senderPartnerId
+            receiverPartnerId: $receiverPartnerId
+            clientPartnerId: $clientPartnerId
+            customsPartnerId: $customsPartnerId
+            exportMethodId: $exportMethodId
+            extraFields: $extraFields
+            cargoTypeId: $cargoTypeId
+            voyageId: $voyageId
+            parentId: $parentId
+        }
+    ){
+        data {
+            id
+            created_at
+            createdBy {
+                id
+                name
+                photos
+            }
+            title
+            description
+            photos
+            extraFields
+            documents
+            tags
+            status {
+                id
+                icon
+                title
+            }
+            cargoType {
+                id
+                title
+                icon
+            }
+            exportMethod {
+                id
+                title
+                icon
+                rate
+            }
+            sender {
+                id
+                title
+            }
+            client {
+                id
+                title
+            }
+            receiver {
+                id
+                title
+            }
+            customs {
+                id
+                title
+            }
+            tags
+            voyage {
+                id
+                title
+                status {
+                    id
+                    icon
+                    title
+                }
+                ship {
+                    id
+                    title
+                    country
+                }
+            }
+            parent {
+                id
+                title
+                voyage {
+                    id
+                    title
+                }
+            }
+        }
+    }
+}

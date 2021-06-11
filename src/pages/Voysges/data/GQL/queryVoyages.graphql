@@ -1,0 +1,90 @@
+{
+    voyages {
+        data {
+            id
+            created_at
+            createdBy {
+                id
+                name
+                photos
+            }
+            updated_at
+            updatedBy {
+                id
+                name
+                photos
+            }
+            owner {
+                id
+                name
+                photos
+            }
+            title
+            departDate
+            srcPort {
+                id
+                title
+                country
+                description
+                photos
+                extraFields
+                documents
+                tags
+            }
+            arrivalDate
+            destPort {
+                id
+                title
+                country
+                description
+                photos
+                extraFields
+                documents
+                tags
+            }
+            description
+            extraFields
+            documents
+            tags
+            status {
+                id
+                icon
+                title
+            }
+            ship {
+                id
+                title
+                country
+                description
+                photos
+                extraFields
+                documents
+                tags
+            }
+
+            cargos {
+                id
+                photos
+                extraFields
+                documents
+                tags
+                status {
+                    id
+                    icon
+                    title
+                }
+                cargoType {
+                    id
+                    title
+                    icon
+                }
+                exportMethod {
+                    id
+                    title
+                    icon
+                    rate
+                }
+            }
+        }
+    }
+}

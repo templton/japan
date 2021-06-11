@@ -1,0 +1,139 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwG6hpaZydvKycfbw9qQk5bN2rzP0_Ks4rCypqqzrMLHzcvA8_Ph_uji-u2rtK6QjJfayKzy1QAAAADPI4qR$",
+                    "name": "ASTRA"
+                },
+                {
+                    "code": "$*KwGcoLC_7_3s7-H95fy2tbDr_Jrp9dSKxJaUgIyViuTh6-3m1dXH2M7E3MuNkoi2rLfvjdX0AAAAAO0T7uQ$",
+                    "name": "AURA"
+                },
+                {
+                    "code": "$*KwFTb39wIDIjIC4yKjN5en8kM1UmOhtFC1lbT0NaRSsuJCIpGhoIFwELEwRCXUdxeWRDHToAAAAAterTjA$",
+                    "name": "ION"
+                },
+                {
+                    "code": "$*KwGXq7u05Pbn5Or27ve9vrvg95Hi_t-Bz52fi4eege_q4Obt3t7M08XP18CGmYOw373g9urn9obe_AAAAAABXC5P$",
+                    "name": "L-SERIES"
+                },
+                {
+                    "code": "$*KwEeIjI9bX9ubWN_Z340NzJpfhhrd1YIRhQWAg4XCGZjaW9kV1dFWkxGXkkPEAo6LjNgYmVgDlB3AAAAAOHmKdA$",
+                    "name": "OUTLOOK"
+                },
+                {
+                    "code": "$*KwGSrr6x4fPi4e_z6_K4u77l8pTn-9qEypiajoKbhOrv5ePo29vJ1sDK0sWDnIarsqfh-ITa_QAAAABqCIaZ$",
+                    "name": "RELAY"
+                },
+                {
+                    "code": "$*KwHe4vL9rb-uraO_p7709_Kpvtirt5bIhtTWws7XyKajqa-kl5eFmoyGnonP0MrmlvSpv6Ouv8-XtQAAAAB7o555$",
+                    "name": "S-SERIES"
+                },
+                {
+                    "code": "$*KwEGOioldWd2dXtnf2YsLypxZgBzb04QXgwOGhYPEH57cXd8T09dQlReRlEXCBI-KCYWSG8AAAAAssmUmA$",
+                    "name": "SKY"
+                },
+                {
+                    "code": "$*KwHM8ODvv628v7Gttazm5eC7rMq5pYTalMbE0NzF2rSxu722hYWXiJ6UjJvdwtjx_PDe16K1z9bah_oAAAAA25q84g$",
+                    "name": "VUE (ZL1)"
+                },
+                {
+                    "code": "$*KwFDf29gMCIzMD4iOiNpam80I0U2KgtVG0lLX1NKVTs-NDI5CgoYBxEbAxRSTVd-c39RWC06Q1lVCHUAAAAArn2vhA$",
+                    "name": "VUE (ZL2)"
+                }
+            ]
+        },
+        {
+            "name": "Год выпуска",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwEuEgINXU9eXVNPV04EBwJZTihbR2Y4diQmMj4nOEJZXEg6aWkhfXFvfj4nOCp1emc-YEcAAAAAop-wtQ$",
+                    "name": "2010"
+                },
+                {
+                    "code": "$*KwEnGwsEVEZXVFpGXkcNDgtQRyFSTm8xfy0vOzcuMUtQVUEzYGAodHhmdzcuMSN8cmc3aU4AAAAA6zbEdQ$",
+                    "name": "2009"
+                },
+                {
+                    "code": "$*KwEyDh4RQVNCQU9TS1IYGx5FUjRHW3okajg6LiI7JF5FQFQmdXU9YW1zYiI7JDZpZ3MifFsAAAAA8ZiKjQ$",
+                    "name": "2008"
+                },
+                {
+                    "code": "$*KwGJtaWq-uj5-vTo8OmjoKX-6Y_84MGf0YOBlZmAn-X----dzs6G2tbI2ZmAn43S3MeZx-AAAAAA0kTjuA$",
+                    "name": "2007"
+                },
+                {
+                    "code": "$*KwFxTV1SAhABAgwQCBFbWF0GEXcEGDlnKXt5bWF4Zx0GAxdlNjZ-Ii4wIWF4Z3UqJD5hPxgAAAAAp3h_5A$",
+                    "name": "2006"
+                },
+                {
+                    "code": "$*KwGXq7u05Pbn5Or27ve9vrvg95Hi_t-Bz52fi4eegfvg5fGD0NCYxMjWx4eegZPMwtuH2f4AAAAAImgXJA$",
+                    "name": "2005"
+                },
+                {
+                    "code": "$*KwHB_e3isqCxsryguKHr6O22oce0qInXmcvJ3dHI1622s6fVhobOkp6AkdHI18WalIzRj6gAAAAAjvnbhg$",
+                    "name": "2004"
+                },
+                {
+                    "code": "$*KwGxjZ2SwtDBwszQyNGbmJ3G0bfE2Pmn6bu5raG4p93Gw9el9va-4u7w4aG4p7Xq5Puh_9gAAAAA0fEEYA$",
+                    "name": "2003"
+                },
+                {
+                    "code": "$*KwFDf29gMCIzMD4iOiNpam80I0U2KgtVG0lLX1NKVS80MSVXBARMEBwCE1NKVUcYFghTDSoAAAAAJAGODg$",
+                    "name": "2002"
+                },
+                {
+                    "code": "$*KwGKtqap-ev6-ffr8-qgo6b96oz_48Kc0oCClpqDnOb9-Oyezc2F2dXL2pqDnI7R38KaxOMAAAAAfiK4rA$",
+                    "name": "2001"
+                },
+                {
+                    "code": "$*KwHQ7Pzzo7Ggo62xqbD6-fynsNaluZjGiNrYzMDZxrynorbEl5ffg4-RgMDZxtSLhZnAnrkAAAAAmxRt7Q$",
+                    "name": "2000"
+                },
+                {
+                    "code": "$*KwGTr7-w4PLj4O7y6vO5ur_k85Xm-tuFy5mbj4Oahf_k4fWH1NScwMzSw4OahZTBz9OD3foAAAAAS9SJGQ$",
+                    "name": "1999"
+                },
+                {
+                    "code": "$*KwEwDBwTQ1FAQ01RSVAaGRxHUDZFWXgmaDo4LCA5JlxHQlYkd3c_Y29xYCA5JjdibHEgflkAAAAAG5mk2Q$",
+                    "name": "1998"
+                },
+                {
+                    "code": "$*KwH_w9PcjJ6PjIKehp_V1tOIn_mKlrfpp_X34-_26ZOIjZnruLjwrKC-r-_26fito7HvsZYAAAAAwgciEg$",
+                    "name": "1997"
+                },
+                {
+                    "code": "$*KwHB_e3isqCxsryguKHr6O22oce0qInXmcvJ3dHI1622s6fVhobOkp6AkdHI18aTnY7Rj6gAAAAAPwc6KQ$",
+                    "name": "1996"
+                },
+                {
+                    "code": "$*KwHi3s7BkYOSkZ-Dm4LIy86VguSXi6r0uujq_vLr9I6VkIT2paXtsb2jsvLr9OWwvq7yrIsAAAAAuybSRg$",
+                    "name": "1995"
+                },
+                {
+                    "code": "$*KwF3S1tUBBYHBAoWDhddXlsAF3ECHj9hL31_a2d-YRsABRFjMDB4JCg2J2d-YXAlKzpnOR4AAAAA3-2Rmg$",
+                    "name": "1994"
+                },
+                {
+                    "code": "$*KwE1CRkWRlRFRkhUTFUfHBlCVTNAXH0jbT89KSU8I1lCR1MhcnI6Zmp0ZSU8IzJnaX8le1wAAAAAjP4owQ$",
+                    "name": "1993"
+                },
+                {
+                    "code": "$*KwFhXU1CEgAREhwAGAFLSE0WAWcUCCl3OWtpfXFodw0WEwd1JiZuMj4gMXFod2YzPSpxLwgAAAAA0ZnjEw$",
+                    "name": "1992"
+                },
+                {
+                    "code": "$*KwHF-enmtqS1trikvKXv7OmypcOwrI3Tnc_N2dXM06myt6PRgoLKlpqEldXM08KXmY3Vi6wAAAAAmk0KMQ$",
+                    "name": "1991"
+                }
+            ]
+        }
+    ]
+}

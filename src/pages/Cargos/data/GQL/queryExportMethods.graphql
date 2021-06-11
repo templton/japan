@@ -1,0 +1,10 @@
+{
+    exportMethods {
+        data {
+            id
+            title
+            icon
+            rate
+        }
+    }
+}

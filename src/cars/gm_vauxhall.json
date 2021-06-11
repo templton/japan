@@ -1,0 +1,244 @@
+{
+    "state": "Ok",
+    "parameters": [
+        {
+            "name": "Модель авто",
+            "removeparam": "",
+            "value": "",
+            "list": [
+                {
+                    "code": "$*KwHQ7Pzzo7Ggo62xqbD6-fynsNaluZjGiNrYzMDZxqitp6GqmZmLlIKIkIfB3sT68eivwZm4AAAAABARtL4$",
+                    "name": "ADAM"
+                },
+                {
+                    "code": "$*KwFAfGxjMyEwMz0hOSBqaWw3IEY1KQhWGEpIXFBJVjg9NzE6CQkbBBIYABdRTlRqYnA-Mlk0UA4pAAAAAOPsqds$",
+                    "name": "AGILA-A"
+                },
+                {
+                    "code": "$*KwHH--vktKa3tLqmvqft7uuwp8Gyro_Rn83P29fO0b-6sLa9jo6cg5Wfh5DWydPt5fe5td6w14muAAAAAGgfvbM$",
+                    "name": "AGILA-B"
+                },
+                {
+                    "code": "$*KwFJdWVqOig5OjQoMCljYGU-KU88IAFfEUNBVVlAXzE0PjgzAAASDRsRCR5YR11jYWA-KDxeBicAAAAAVSbQwQ$",
+                    "name": "AMPERA"
+                },
+                {
+                    "code": "$*KwEgHAwDU0FQU11BWUAKCQxXQCZVSWg2eCooPDApNlhdV1FaaWl7ZHJ4YHcxLjQKCw1TQVU3b04AAAAAKbG_-g$",
+                    "name": "ANTARA"
+                },
+                {
+                    "code": "$*KwHl2cnGloSVlpiEnIXPzMmSheOQjK3zve_t-fXs852YkpSfrKy-obe9pbL06_HP0tmZl_OtigAAAAAabHkc$",
+                    "name": "ARENA"
+                },
+                {
+                    "code": "$*KwEmGgoFVUdWVVtHX0YMDwpRRiBTT24wfiwuOjYvMF5bUVdcb299YnR-ZnE3KDIMEAtGVDBuSQAAAAD_gMwB$",
+                    "name": "ASTRA"
+                },
+                {
+                    "code": "$*KwFSbn5xITMiIS8zKzJ4e34lMlQnOxpEClhaTkJbRCovJSMoGxsJFgAKEgVDXEZ4ZH8yIEshQhw7AAAAAIs-Fgs$",
+                    "name": "ASTRA-F"
+                },
+                {
+                    "code": "$*KwFFeWlmNiQ1NjgkPCVvbGkyJUMwLA1THU9NWVVMUz04MjQ_DAweARcdBRJUS1Fvc2glN1w3VQssAAAAAL_DbkU$",
+                    "name": "ASTRA-G"
+                },
+                {
+                    "code": "$*KwHC_u7hsaOysb-ju6Lo6-61osS3q4rUmsjK3tLL1Lq_tbO4i4uZhpCagpXTzNbo9O-isNu_0oyrAAAAAH7mxZU$",
+                    "name": "ASTRA-H"
+                },
+                {
+                    "code": "$*KwE2ChoVRVdGRUtXT1YcHxpBVjBDX34gbjw-KiY_IE5LQUdMf39tcmRudmEnOCIcABtWRC9JJnhfAAAAAHa57TE$",
+                    "name": "ASTRA-J"
+                },
+                {
+                    "code": "$*KwFzT19QABIDAA4SChNZWl8EE3UGGjtlK3l7b2N6ZQsOBAIJOjooNyErMyRifWdZRV4TAWoNYz0aAAAAAFL-Ljs$",
+                    "name": "ASTRA-K"
+                },
+                {
+                    "code": "$*KwHS7v7xobOioa-zq7L4-_6lstSnu5rEitjazsLbxKqvpaOom5uJloCKkoXD3Mb75eq2oMbPtKfWzZvK9gAAAACCvCgJ$",
+                    "name": "BRAVA (TF0)"
+                },
+                {
+                    "code": "$*KwGfo7O87P7v7OL-5v-1trPo_5nq9teJx5WXg4-Wiefi6O7l1tbE283H38iOkYu2qKf77YuC-eqagNaHuwAAAACn9EV_$",
+                    "name": "BRAVA (TF1)"
+                },
+                {
+                    "code": "$*KwFDf29gMCIzMD4iOiNpam80I0U2KgtVG0lLX1NKVTs-NDI5CgoYBxEbAxRSTVdrZ3Y4MiU3Uw0qAAAAAEQgHC0$",
+                    "name": "CALIBRA"
+                },
+                {
+                    "code": "$*KwFvU0NMHA4fHBIOFg9FRkMYD2kaBid5N2Vnc39meRcSGB4VJiY0Kz03Lzh-YXtHS0QRCBQUfyEGAAAAADrfp4Q$",
+                    "name": "CARLTON"
+                },
+                {
+                    "code": "$*KwGplYWK2sjZ2tTI0MmDgIXeya_cwOG_8aOhtbmgv9HU3tjT4ODy7fvx6f64p72BjYPY29nduefAAAAAAIVrJ_I$",
+                    "name": "CASCADA"
+                },
+                {
+                    "code": "$*KwFXa3t0JDYnJCo2Ljd9fnsgN1EiPh9BD11fS0deQS8qICYtHh4MEwUPFwBGWUN_c3gkKConN0RLKwQAB0cZPgAAAABXw7zu$",
+                    "name": "CAVALIER (J82)"
+                },
+                {
+                    "code": "$*KwFtUUFOHgwdHhAMFA1HREEaDWsYBCV7NWdlcX1kexUQGhwXJCQ2KT81LTp8Y3lFSUIeEhAdDX5xET4xPX0jBAAAAACByJc9$",
+                    "name": "CAVALIER (J89)"
+                },
+                {
+                    "code": "$*KwF_Q1NcDB4PDAIeBh9VVlMIH3kKFjdpJ3V3Y292aQcCCA4FNjYkOy0nPyhucWtXVUsPA2YObzEWAAAAAKUIaEM$",
+                    "name": "COMBO-D"
+                },
+                {
+                    "code": "$*KwHV6fn2prSlpqi0rLX__PmitdOgvJ3Djd_dycXcw62ooqSvnJyOkYeNlYLE28H9__60p8yixZu8AAAAALMDWbE$",
+                    "name": "CORSA-B"
+                },
+                {
+                    "code": "$*KwEnGwsEVEZXVFpGXkcNDgtQRyFSTm8xfy0vOzcuMV9aUFZdbm58Y3V_Z3A2KTMPDQxGVT5RN2lOAAAAAMYzrp8$",
+                    "name": "CORSA-C"
+                },
+                {
+                    "code": "$*KwGcoLC_7_3s7-H95fy2tbDr_Jrp9dSKxJaUgIyViuTh6-3m1dXH2M7E3MuNkoi0trf97oXtjNL1AAAAANUnQso$",
+                    "name": "CORSA-D"
+                },
+                {
+                    "code": "$*KwEwDBwTQ1FAQ01RSVAaGRxHUDZFWXgmaDo4LCA5JkhNR0FKeXlrdGJocGchPiQYGhtRQilAIH5ZAAAAAG8Z7mg$",
+                    "name": "CORSA-E"
+                },
+                {
+                    "code": "$*KwGXq7u05Pbn5Or27ve9vrvg95Hi_t-Bz52fi4eege_q4Obt3t7M08XP18CGmYO_oKH29-_j6-CD-d6PswAAAAAOngCt$",
+                    "name": "CROSSLAND X"
+                },
+                {
+                    "code": "$*KwEoFAQLW0lYW1VJUUgCAQRfSC5dQWA-cCIgNDghPlBVX1lSYWFzbHpwaH85JjwGGANVVlVZUzlhQwAAAAALqjkF$",
+                    "name": "EUROMIDI"
+                },
+                {
+                    "code": "$*KwGxjZ2SwtDBwszQyNGbmJ3G0bfE2Pmn6bu5raG4p8nMxsDL-Pjq9ePp8eagv6WchofN1sDWwqKt0uPm4aH_2AAAAADWSfnE$",
+                    "name": "FRONTERA (U92)"
+                },
+                {
+                    "code": "$*KwGLt6eo-Or7-Pbq8uuhoqf8643-4sOd04GDl5uCnfP2_PrxwsLQz9nTy9yahZ-mvL337Prs-JiX6NnX25vF4gAAAAAAQtIX$",
+                    "name": "FRONTERA (U99)"
+                },
+                {
+                    "code": "$*KwG-gpKdzd_OzcPfx96Ul5LJ3rjL1_ao5rS2oq63qMbDyc_E9_fl-uzm_umvsKqSiYbCycbKwsmq0PemmgAAAAAwiRLv$",
+                    "name": "GRANDLAND X"
+                },
+                {
+                    "code": "$*KwEaJjY5aXtqaWd7Y3owMzZtehxvc1IMQhASBgoTDGJnbWtgU1NBXkhCWk0LFA44MTBhbmBmaQkGa0FGSgpUcwAAAABFJ1Jr$",
+                    "name": "INSIGNIA (G09)"
+                },
+                {
+                    "code": "$*KwH9wdHejpyNjoCchJ3X1NGKnfuIlLXrpff14e3064WAioyHtLSmua-lvars8-nf1teGiYeBju7hkaegre2zlAAAAACGEAjb$",
+                    "name": "INSIGNIA (Z18)"
+                },
+                {
+                    "code": "$*KwF2SlpVBRcGBQsXDxZcX1oBFnADHz5gLnx-amZ_YA4LAQcMPz8tMiQuNiFneGJQVl0NEwNjbBZzcDQxchkAAAAA4rLppw$",
+                    "name": "MERIVA (S10)"
+                },
+                {
+                    "code": "$*KwE7BxcYSFpLSEZaQlsREhdMWz1OUnMtYzEzJysyLUNGTEpBcnJgf2lje2wqNS8dGxBAXk4uIVA_Pnl8P1QAAAAAFjtmxA$",
+                    "name": "MERIVA (X03)"
+                },
+                {
+                    "code": "$*KwFiXk5BEQMSER8DGwJIS04VAmQXCyp0OmhqfnJrdBofFRMYKys5JjA6IjVzbHZESFAbEHQqDQAAAACM7ql5$",
+                    "name": "MOKKA"
+                },
+                {
+                    "code": "$*KwH2ytrVhZeGhYuXj5bc39qBlvCDn77grvz-6ub_4I6LgYeMv7-tsqSutqHn-OLQ3MSPhOKb5rifAAAAAOUIL-8$",
+                    "name": "MOKKA X"
+                },
+                {
+                    "code": "$*KwFZZXV6KjgpKiQ4IDlzcHUuOV8sMBFPAVNRRUlQTyEkLigjEBACHQsBGQ5IV01_c24_Lz8pMkpFIgsOCUkXMAAAAACdu3Qc$",
+                    "name": "MONTEREY (M92)"
+                },
+                {
+                    "code": "$*KwH0yNjXh5WEh4mVjZTe3diDlPKBnbzirP786OT94oyJg4WOvb2vsKastKPl-uDS3sOSgpKEn-foj6appOS6nQAAAACCY6KR$",
+                    "name": "MONTEREY (M98)"
+                },
+                {
+                    "code": "$*KwFVaXl2JjQlJig0LDV_fHkiNVMgPB1DDV9dSUVcQy0oIiQvHBwOEQcNFQJEW0Fzf3omKC5NJkQcPgAAAABS0ZwX$",
+                    "name": "MOVANO-A"
+                },
+                {
+                    "code": "$*KwEnGwsEVEZXVFpGXkcNDgtQRyFSTm8xfy0vOzcuMV9aUFZdbm58Y3V_Z3A2KTMBDQhUWlw_VzZuTAAAAACgLr6p$",
+                    "name": "MOVANO-B"
+                },
+                {
+                    "code": "$*KwEDPy8gcGJzcH5iemMpKi90YwV2aksVWwkLHxMKFXt-dHJ5SkpYR1FbQ1QSDRcmKSxwEkprAAAAAFYQdn8$",
+                    "name": "NOVA"
+                },
+                {
+                    "code": "$*KwHY5PT7q7moq6W5objy8fSvuN6tsZDOgNLQxMjRzqClr6mikZGDnIqAmI_J1sz88OStqs6QtwAAAABBLKhO$",
+                    "name": "OMEGA"
+                },
+                {
+                    "code": "$*KwG2ipqVxdfGxcvXz9acn5rB1rDD3_6g7ry-qqa_oM7LwcfM___t8uTu9uGnuKKPkpzHxM6h-dgAAAAAjxcY9Q$",
+                    "name": "RASCAL"
+                },
+                {
+                    "code": "$*KwFoVERLGwkYGxUJEQhCQUQfCG4dASB-MGJgdHhhfhAVHxkSISEzLDowKD95ZnxQSF8bDxMPdxl-I14AAAAAsSnG1g$",
+                    "name": "SENATOR-B"
+                },
+                {
+                    "code": "$*KwHP8-PsvK6_vLKutq_l5uO4r8m6pofZl8XH09_G2beyuL61hoaUi52Xj5jewdv34_GzqbbYgKEAAAAAiSkFBA$",
+                    "name": "SIGNUM"
+                },
+                {
+                    "code": "$*KwEzDx8QQFJDQE5SSlMZGh9EUzVGWnslazk7LyM6JUtOREJJenpod2Frc2QiPScLHwRVUkYkfF0AAAAAWUGvqg$",
+                    "name": "SINTRA"
+                },
+                {
+                    "code": "$*KwF9QVFeDhwNDgAcBB1XVFEKHXsIFDVrJXd1YW10awUACgwHNDQmOS8lPSpsc2lFTVQfAgANHW4LGVdWQAoKaQkMbDQWAAAAAH3xLco$",
+                    "name": "SUPPLIER BRANDED AC"
+                },
+                {
+                    "code": "$*KwFPc2NsPC4_PDIuNi9lZmM4L0k6JgdZF0VHU19GWTcyOD41BgYUCx0XDxheQVtwY3EvPVY7XwEmAAAAACCbFb4$",
+                    "name": "TIGRA-A"
+                },
+                {
+                    "code": "$*KwECPi4hcWNycX9je2IoKy51YgR3a0oUWggKHhILFHp_dXN4S0tZRlBaQlUTDBY9LjxicBt1EkxrAAAAAI0io3A$",
+                    "name": "TIGRA-B"
+                },
+                {
+                    "code": "$*KwFDf29gMCIzMD4iOiNpam80I0U2KgtVG0lLX1NKVTs-NDI5CgoYBxEbAxRSTVd-Y3klIjZWWTpOQwEERywAAAAA-XpWCA$",
+                    "name": "VECTRA (J96)"
+                },
+                {
+                    "code": "$*KwHa5vb5qbuqqae7o7rw8_atutyvs5LMgtDSxsrTzKKnraugk5OBnoiCmo3L1M7n-uC8u6_PwLPe3pid3rUAAAAAgvtpZw$",
+                    "name": "VECTRA (Z02)"
+                },
+                {
+                    "code": "$*KwHm2srFlYeWlZuHn4bMz8qRhuCTj67wvuzu-vbv8J6bkZecr6-9orS-prH36PLbysmV96-OAAAAAE1vvrI$",
+                    "name": "VIVA"
+                },
+                {
+                    "code": "$*KwF3S1tUBBYHBAoWDhddXlsAF3ECHj9hL31_a2d-YQ8KAAYNPj4sMyUvNyBmeWNKW1gEFgxibRx7czUwcxgAAAAAxX8lIA$",
+                    "name": "VIVARO (X82)"
+                },
+                {
+                    "code": "$*KwEKNiYpeWt6eXdrc2ogIyZ9agx_Y0IcUgACFhoDHHJ3fXtwQ0NRTlhSSl0bBB43JiV5a3EfEGEGD0hNDmUAAAAAl8Rl7g$",
+                    "name": "VIVARO (X83)"
+                },
+                {
+                    "code": "$*KwF4RFRbCxkICwUZARhSUVQPGH4NETBuIHJwZGhxbgAFDwkCMTEjPCogOC9pdmxFRTN4e24wFwAAAADaTqOY$",
+                    "name": "VX220"
+                },
+                {
+                    "code": "$*KwGdobG-7vzt7uD85P23tLHq_Zvo9NWLxZeVgY2Ui-Xg6uzn1NTG2c_F3cqMk4mht7bk_eHn_47k6qK9tubv5fuN0_QAAAAA7_BHPg$",
+                    "name": "WORKSHOP MATERIALS"
+                },
+                {
+                    "code": "$*KwF9QVFeDhwNDgAcBB1XVFEKHXsIFDVrJXd1YW10awUACgwHNDQmOS8lPSpsc2lMWUIGHAhoZw95fj86eRIAAAAAL59SIw$",
+                    "name": "ZAFIRA (A05)"
+                },
+                {
+                    "code": "$*KwFlWUlGFgQVFhgEHAVPTEkSBWMQDC1zPW9teXVscx0YEhQfLCw-ITc9JTJ0a3FUQVoeBBBwfwZgYSciYQoAAAAAnZ5HJQ$",
+                    "name": "ZAFIRA (P12)"
+                },
+                {
+                    "code": "$*KwEFOSkmdmR1dnhkfGUvLClyZQNwbE0TXQ8NGRUME314cnR_TExeQVddRVIUCxE0ITp-ZHAQH2IIC0dCAWoAAAAA5GDO3g$",
+                    "name": "ZAFIRA (T98)"
+                }
+            ]
+        }
+    ]
+}
